@@ -1,0 +1,9980 @@
+Monitor at: 1 
+Customers in queue: 0 
+Arrivals: 2 
+Departures: 2 
+
+Monitor at: 1 
+Customers in queue: 0 
+Arrivals: 2 
+Departures: 2 
+
+Monitor at: 2.264308374146499 
+Customers in queue: 3 
+Arrivals: 10 
+Departures: 7 
+
+Monitor at: 2.491497175953125 
+Customers in queue: 1 
+Arrivals: 12 
+Departures: 11 
+
+Monitor at: 3.8022858615733037 
+Customers in queue: 3 
+Arrivals: 21 
+Departures: 18 
+
+Monitor at: 5.768742270549185 
+Customers in queue: 0 
+Arrivals: 29 
+Departures: 29 
+
+Monitor at: 6.829408640716728 
+Customers in queue: 2 
+Arrivals: 35 
+Departures: 33 
+
+Monitor at: 7.880430245713624 
+Customers in queue: 1 
+Arrivals: 41 
+Departures: 40 
+
+Monitor at: 9.10186544388301 
+Customers in queue: 0 
+Arrivals: 46 
+Departures: 46 
+
+Monitor at: 9.73735396523187 
+Customers in queue: 4 
+Arrivals: 51 
+Departures: 47 
+
+Monitor at: 10.48535409705927 
+Customers in queue: 2 
+Arrivals: 55 
+Departures: 53 
+
+Monitor at: 10.528509083141014 
+Customers in queue: 2 
+Arrivals: 55 
+Departures: 53 
+
+Monitor at: 10.913554597325804 
+Customers in queue: 2 
+Arrivals: 57 
+Departures: 55 
+
+Monitor at: 11.040893448438851 
+Customers in queue: 1 
+Arrivals: 58 
+Departures: 57 
+
+Monitor at: 11.688323003914451 
+Customers in queue: 0 
+Arrivals: 64 
+Departures: 64 
+
+Monitor at: 12.763421161009397 
+Customers in queue: 1 
+Arrivals: 65 
+Departures: 64 
+
+Monitor at: 13.07480204207484 
+Customers in queue: 3 
+Arrivals: 67 
+Departures: 64 
+
+Monitor at: 13.965099975779491 
+Customers in queue: 1 
+Arrivals: 68 
+Departures: 67 
+
+Monitor at: 18.655828446690297 
+Customers in queue: 0 
+Arrivals: 82 
+Departures: 82 
+
+Monitor at: 20.038354924045276 
+Customers in queue: 1 
+Arrivals: 90 
+Departures: 89 
+
+Monitor at: 20.070095172092117 
+Customers in queue: 1 
+Arrivals: 90 
+Departures: 89 
+
+Monitor at: 20.6134297973913 
+Customers in queue: 0 
+Arrivals: 91 
+Departures: 91 
+
+Monitor at: 22.090574374798855 
+Customers in queue: 0 
+Arrivals: 96 
+Departures: 96 
+
+Monitor at: 22.728273958763676 
+Customers in queue: 1 
+Arrivals: 101 
+Departures: 100 
+
+Monitor at: 22.78039066500776 
+Customers in queue: 1 
+Arrivals: 102 
+Departures: 101 
+
+Monitor at: 23.440204013050696 
+Customers in queue: 3 
+Arrivals: 107 
+Departures: 104 
+
+Monitor at: 25.08319059679471 
+Customers in queue: 0 
+Arrivals: 114 
+Departures: 114 
+
+Monitor at: 25.578970981558406 
+Customers in queue: 0 
+Arrivals: 116 
+Departures: 116 
+
+Monitor at: 25.666108611262494 
+Customers in queue: 0 
+Arrivals: 116 
+Departures: 116 
+
+Monitor at: 27.25862663664025 
+Customers in queue: 1 
+Arrivals: 125 
+Departures: 124 
+
+Monitor at: 27.722084691430638 
+Customers in queue: 0 
+Arrivals: 126 
+Departures: 126 
+
+Monitor at: 28.13517258835286 
+Customers in queue: 0 
+Arrivals: 128 
+Departures: 128 
+
+Monitor at: 29.515120323366084 
+Customers in queue: 1 
+Arrivals: 137 
+Departures: 136 
+
+Monitor at: 29.72939828803363 
+Customers in queue: 2 
+Arrivals: 139 
+Departures: 137 
+
+Monitor at: 29.87210602736658 
+Customers in queue: 0 
+Arrivals: 139 
+Departures: 139 
+
+Monitor at: 30.051836861739936 
+Customers in queue: 0 
+Arrivals: 139 
+Departures: 139 
+
+Monitor at: 30.13073258140768 
+Customers in queue: 0 
+Arrivals: 139 
+Departures: 139 
+
+Monitor at: 31.791273814421643 
+Customers in queue: 1 
+Arrivals: 146 
+Departures: 145 
+
+Monitor at: 32.05407500275671 
+Customers in queue: 1 
+Arrivals: 147 
+Departures: 146 
+
+Monitor at: 32.433635471678485 
+Customers in queue: 3 
+Arrivals: 150 
+Departures: 147 
+
+Monitor at: 32.75694314131577 
+Customers in queue: 3 
+Arrivals: 150 
+Departures: 147 
+
+Monitor at: 33.77158692145126 
+Customers in queue: 0 
+Arrivals: 153 
+Departures: 153 
+
+Monitor at: 39.37990271971492 
+Customers in queue: 6 
+Arrivals: 176 
+Departures: 170 
+
+Monitor at: 40.42504479935949 
+Customers in queue: 0 
+Arrivals: 178 
+Departures: 178 
+
+Monitor at: 40.98649352207555 
+Customers in queue: 2 
+Arrivals: 181 
+Departures: 179 
+
+Monitor at: 41.2680613751654 
+Customers in queue: 1 
+Arrivals: 181 
+Departures: 180 
+
+Monitor at: 42.693500672197985 
+Customers in queue: 1 
+Arrivals: 188 
+Departures: 187 
+
+Monitor at: 42.903066921772755 
+Customers in queue: 0 
+Arrivals: 189 
+Departures: 189 
+
+Monitor at: 45.73962787426111 
+Customers in queue: 5 
+Arrivals: 202 
+Departures: 197 
+
+Monitor at: 46.75067910640933 
+Customers in queue: 5 
+Arrivals: 211 
+Departures: 206 
+
+Monitor at: 47.50927273859306 
+Customers in queue: 7 
+Arrivals: 216 
+Departures: 209 
+
+Monitor at: 49.35667549155717 
+Customers in queue: 3 
+Arrivals: 222 
+Departures: 219 
+
+Monitor at: 50.38490689120499 
+Customers in queue: 5 
+Arrivals: 231 
+Departures: 226 
+
+Monitor at: 50.44556828939107 
+Customers in queue: 4 
+Arrivals: 231 
+Departures: 227 
+
+Monitor at: 51.04047884285167 
+Customers in queue: 5 
+Arrivals: 236 
+Departures: 231 
+
+Monitor at: 51.720136612830046 
+Customers in queue: 14 
+Arrivals: 247 
+Departures: 233 
+
+Monitor at: 53.220523373627465 
+Customers in queue: 12 
+Arrivals: 256 
+Departures: 244 
+
+Monitor at: 53.72071651002188 
+Customers in queue: 14 
+Arrivals: 258 
+Departures: 244 
+
+Monitor at: 55.07212809876355 
+Customers in queue: 10 
+Arrivals: 262 
+Departures: 252 
+
+Monitor at: 55.12756396257348 
+Customers in queue: 11 
+Arrivals: 263 
+Departures: 252 
+
+Monitor at: 55.4034149288197 
+Customers in queue: 11 
+Arrivals: 263 
+Departures: 252 
+
+Monitor at: 55.448625868418404 
+Customers in queue: 11 
+Arrivals: 263 
+Departures: 252 
+
+Monitor at: 56.198131492806084 
+Customers in queue: 7 
+Arrivals: 266 
+Departures: 259 
+
+Monitor at: 57.10702346817959 
+Customers in queue: 10 
+Arrivals: 271 
+Departures: 261 
+
+Monitor at: 59.237289061126184 
+Customers in queue: 12 
+Arrivals: 285 
+Departures: 273 
+
+Monitor at: 60.72892028894203 
+Customers in queue: 8 
+Arrivals: 290 
+Departures: 282 
+
+Monitor at: 61.30198985851457 
+Customers in queue: 8 
+Arrivals: 292 
+Departures: 284 
+
+Monitor at: 66.04294876066098 
+Customers in queue: 0 
+Arrivals: 325 
+Departures: 325 
+
+Monitor at: 66.366871609334 
+Customers in queue: 0 
+Arrivals: 326 
+Departures: 326 
+
+Monitor at: 67.06165612238905 
+Customers in queue: 0 
+Arrivals: 328 
+Departures: 328 
+
+Monitor at: 68.58957670562451 
+Customers in queue: 0 
+Arrivals: 341 
+Departures: 341 
+
+Monitor at: 69.53443286718176 
+Customers in queue: 1 
+Arrivals: 343 
+Departures: 342 
+
+Monitor at: 69.89928573504658 
+Customers in queue: 0 
+Arrivals: 344 
+Departures: 344 
+
+Monitor at: 70.14213369837697 
+Customers in queue: 0 
+Arrivals: 345 
+Departures: 345 
+
+Monitor at: 70.88814995013104 
+Customers in queue: 0 
+Arrivals: 346 
+Departures: 346 
+
+Monitor at: 73.81831084503116 
+Customers in queue: 0 
+Arrivals: 362 
+Departures: 362 
+
+Monitor at: 75.03057064672018 
+Customers in queue: 0 
+Arrivals: 368 
+Departures: 368 
+
+Monitor at: 75.0919414262247 
+Customers in queue: 0 
+Arrivals: 368 
+Departures: 368 
+
+Monitor at: 76.21649683085239 
+Customers in queue: 2 
+Arrivals: 375 
+Departures: 373 
+
+Monitor at: 76.24781601092154 
+Customers in queue: 2 
+Arrivals: 375 
+Departures: 373 
+
+Monitor at: 77.3092980834867 
+Customers in queue: 1 
+Arrivals: 382 
+Departures: 381 
+
+Monitor at: 79.76493355810265 
+Customers in queue: 1 
+Arrivals: 392 
+Departures: 391 
+
+Monitor at: 82.67210091349702 
+Customers in queue: 1 
+Arrivals: 408 
+Departures: 407 
+
+Monitor at: 82.76643557728889 
+Customers in queue: 2 
+Arrivals: 409 
+Departures: 407 
+
+Monitor at: 84.45140368111292 
+Customers in queue: 5 
+Arrivals: 416 
+Departures: 411 
+
+Monitor at: 86.42547789844191 
+Customers in queue: 5 
+Arrivals: 429 
+Departures: 424 
+
+Monitor at: 88.29650366934361 
+Customers in queue: 4 
+Arrivals: 440 
+Departures: 436 
+
+Monitor at: 92.06948964448637 
+Customers in queue: 2 
+Arrivals: 465 
+Departures: 463 
+
+Monitor at: 92.147103028848 
+Customers in queue: 0 
+Arrivals: 465 
+Departures: 465 
+
+Monitor at: 93.15200245603619 
+Customers in queue: 0 
+Arrivals: 468 
+Departures: 468 
+
+Monitor at: 94.40073193503784 
+Customers in queue: 2 
+Arrivals: 473 
+Departures: 471 
+
+Monitor at: 96.2233790600616 
+Customers in queue: 1 
+Arrivals: 487 
+Departures: 486 
+
+Monitor at: 96.22688817498485 
+Customers in queue: 1 
+Arrivals: 487 
+Departures: 486 
+
+Monitor at: 96.46413475147165 
+Customers in queue: 0 
+Arrivals: 487 
+Departures: 487 
+
+Monitor at: 96.501673648628 
+Customers in queue: 0 
+Arrivals: 487 
+Departures: 487 
+
+Monitor at: 96.60828036598302 
+Customers in queue: 1 
+Arrivals: 488 
+Departures: 487 
+
+Monitor at: 98.8086079105493 
+Customers in queue: 0 
+Arrivals: 498 
+Departures: 498 
+
+Monitor at: 99.47458063223844 
+Customers in queue: 1 
+Arrivals: 502 
+Departures: 501 
+
+Monitor at: 99.51503725322881 
+Customers in queue: 1 
+Arrivals: 502 
+Departures: 501 
+
+Monitor at: 99.58614489273857 
+Customers in queue: 1 
+Arrivals: 502 
+Departures: 501 
+
+Monitor at: 100.20925048309931 
+Customers in queue: 0 
+Arrivals: 505 
+Departures: 505 
+
+Monitor at: 100.29321300029108 
+Customers in queue: 0 
+Arrivals: 505 
+Departures: 505 
+
+Monitor at: 101.11486571843488 
+Customers in queue: 3 
+Arrivals: 510 
+Departures: 507 
+
+Monitor at: 106.09786704771282 
+Customers in queue: 2 
+Arrivals: 534 
+Departures: 532 
+
+Monitor at: 106.27092963810435 
+Customers in queue: 2 
+Arrivals: 534 
+Departures: 532 
+
+Monitor at: 107.35741581480355 
+Customers in queue: 1 
+Arrivals: 541 
+Departures: 540 
+
+Monitor at: 108.27975971476411 
+Customers in queue: 3 
+Arrivals: 546 
+Departures: 543 
+
+Monitor at: 108.52114939590625 
+Customers in queue: 0 
+Arrivals: 546 
+Departures: 546 
+
+Monitor at: 108.76096756909203 
+Customers in queue: 1 
+Arrivals: 547 
+Departures: 546 
+
+Monitor at: 109.24178360505135 
+Customers in queue: 5 
+Arrivals: 552 
+Departures: 547 
+
+Monitor at: 109.2809142343124 
+Customers in queue: 5 
+Arrivals: 552 
+Departures: 547 
+
+Monitor at: 111.56392811998691 
+Customers in queue: 1 
+Arrivals: 563 
+Departures: 562 
+
+Monitor at: 111.6017641097682 
+Customers in queue: 1 
+Arrivals: 563 
+Departures: 562 
+
+Monitor at: 112.84633550203831 
+Customers in queue: 0 
+Arrivals: 570 
+Departures: 570 
+
+Monitor at: 114.26960904275255 
+Customers in queue: 1 
+Arrivals: 575 
+Departures: 574 
+
+Monitor at: 116.08278920107699 
+Customers in queue: 4 
+Arrivals: 591 
+Departures: 587 
+
+Monitor at: 117.9022148809455 
+Customers in queue: 2 
+Arrivals: 595 
+Departures: 593 
+
+Monitor at: 117.91345594809508 
+Customers in queue: 2 
+Arrivals: 595 
+Departures: 593 
+
+Monitor at: 119.14262813587975 
+Customers in queue: 0 
+Arrivals: 599 
+Departures: 599 
+
+Monitor at: 121.00058472102508 
+Customers in queue: 0 
+Arrivals: 613 
+Departures: 613 
+
+Monitor at: 121.57095055297242 
+Customers in queue: 1 
+Arrivals: 617 
+Departures: 616 
+
+Monitor at: 121.97123718706771 
+Customers in queue: 0 
+Arrivals: 618 
+Departures: 618 
+
+Monitor at: 122.15513057305427 
+Customers in queue: 2 
+Arrivals: 620 
+Departures: 618 
+
+Monitor at: 122.18808843854963 
+Customers in queue: 0 
+Arrivals: 620 
+Departures: 620 
+
+Monitor at: 122.22712438337041 
+Customers in queue: 0 
+Arrivals: 620 
+Departures: 620 
+
+Monitor at: 123.69773476648055 
+Customers in queue: 1 
+Arrivals: 627 
+Departures: 626 
+
+Monitor at: 124.20398265762678 
+Customers in queue: 0 
+Arrivals: 627 
+Departures: 627 
+
+Monitor at: 124.59877293977316 
+Customers in queue: 1 
+Arrivals: 628 
+Departures: 627 
+
+Monitor at: 124.77163600151091 
+Customers in queue: 1 
+Arrivals: 628 
+Departures: 627 
+
+Monitor at: 127.3124575708344 
+Customers in queue: 1 
+Arrivals: 640 
+Departures: 639 
+
+Monitor at: 127.75462128489006 
+Customers in queue: 2 
+Arrivals: 644 
+Departures: 642 
+
+Monitor at: 128.3410754051825 
+Customers in queue: 0 
+Arrivals: 645 
+Departures: 645 
+
+Monitor at: 128.52995321170678 
+Customers in queue: 1 
+Arrivals: 646 
+Departures: 645 
+
+Monitor at: 128.61292772835415 
+Customers in queue: 1 
+Arrivals: 646 
+Departures: 645 
+
+Monitor at: 128.87152450394723 
+Customers in queue: 2 
+Arrivals: 647 
+Departures: 645 
+
+Monitor at: 129.7108724355953 
+Customers in queue: 1 
+Arrivals: 653 
+Departures: 652 
+
+Monitor at: 131.13108870025837 
+Customers in queue: 0 
+Arrivals: 660 
+Departures: 660 
+
+Monitor at: 132.8841931190328 
+Customers in queue: 1 
+Arrivals: 671 
+Departures: 670 
+
+Monitor at: 134.57139090869498 
+Customers in queue: 0 
+Arrivals: 675 
+Departures: 675 
+
+Monitor at: 134.7456958501972 
+Customers in queue: 0 
+Arrivals: 676 
+Departures: 676 
+
+Monitor at: 134.82891796457272 
+Customers in queue: 0 
+Arrivals: 676 
+Departures: 676 
+
+Monitor at: 136.80633392126407 
+Customers in queue: 0 
+Arrivals: 688 
+Departures: 688 
+
+Monitor at: 137.57606280950966 
+Customers in queue: 2 
+Arrivals: 692 
+Departures: 690 
+
+Monitor at: 138.33481762131436 
+Customers in queue: 1 
+Arrivals: 694 
+Departures: 693 
+
+Monitor at: 139.41613810450116 
+Customers in queue: 0 
+Arrivals: 697 
+Departures: 697 
+
+Monitor at: 139.82248631423855 
+Customers in queue: 3 
+Arrivals: 701 
+Departures: 698 
+
+Monitor at: 140.12237939575047 
+Customers in queue: 3 
+Arrivals: 701 
+Departures: 698 
+
+Monitor at: 145.85929266780542 
+Customers in queue: 6 
+Arrivals: 728 
+Departures: 722 
+
+Monitor at: 147.9711933507187 
+Customers in queue: 3 
+Arrivals: 736 
+Departures: 733 
+
+Monitor at: 148.13031664130904 
+Customers in queue: 2 
+Arrivals: 736 
+Departures: 734 
+
+Monitor at: 150.1952477008854 
+Customers in queue: 2 
+Arrivals: 746 
+Departures: 744 
+
+Monitor at: 150.81837967723277 
+Customers in queue: 3 
+Arrivals: 751 
+Departures: 748 
+
+Monitor at: 151.09306109938996 
+Customers in queue: 1 
+Arrivals: 751 
+Departures: 750 
+
+Monitor at: 151.82147498210117 
+Customers in queue: 0 
+Arrivals: 754 
+Departures: 754 
+
+Monitor at: 152.22918342998616 
+Customers in queue: 0 
+Arrivals: 755 
+Departures: 755 
+
+Monitor at: 152.4807139599743 
+Customers in queue: 3 
+Arrivals: 760 
+Departures: 757 
+
+Monitor at: 155.00458423155453 
+Customers in queue: 3 
+Arrivals: 768 
+Departures: 765 
+
+Monitor at: 157.17262737411497 
+Customers in queue: 1 
+Arrivals: 775 
+Departures: 774 
+
+Monitor at: 157.17503690987704 
+Customers in queue: 1 
+Arrivals: 775 
+Departures: 774 
+
+Monitor at: 160.90522457593698 
+Customers in queue: 0 
+Arrivals: 787 
+Departures: 787 
+
+Monitor at: 161.1963693372825 
+Customers in queue: 0 
+Arrivals: 789 
+Departures: 789 
+
+Monitor at: 161.26233830653342 
+Customers in queue: 0 
+Arrivals: 789 
+Departures: 789 
+
+Monitor at: 163.5896387850404 
+Customers in queue: 0 
+Arrivals: 801 
+Departures: 801 
+
+Monitor at: 165.12721420676468 
+Customers in queue: 4 
+Arrivals: 810 
+Departures: 806 
+
+Monitor at: 165.59410481507985 
+Customers in queue: 5 
+Arrivals: 814 
+Departures: 809 
+
+Monitor at: 167.0187566364283 
+Customers in queue: 1 
+Arrivals: 820 
+Departures: 819 
+
+Monitor at: 168.82006686815717 
+Customers in queue: 0 
+Arrivals: 825 
+Departures: 825 
+
+Monitor at: 169.10586216986502 
+Customers in queue: 1 
+Arrivals: 828 
+Departures: 827 
+
+Monitor at: 169.20730691020424 
+Customers in queue: 1 
+Arrivals: 828 
+Departures: 827 
+
+Monitor at: 171.89883977631828 
+Customers in queue: 0 
+Arrivals: 837 
+Departures: 837 
+
+Monitor at: 173.0489224929922 
+Customers in queue: 1 
+Arrivals: 845 
+Departures: 844 
+
+Monitor at: 175.25216038058238 
+Customers in queue: 1 
+Arrivals: 857 
+Departures: 856 
+
+Monitor at: 176.75914260715325 
+Customers in queue: 0 
+Arrivals: 865 
+Departures: 865 
+
+Monitor at: 179.61179042951105 
+Customers in queue: 0 
+Arrivals: 882 
+Departures: 882 
+
+Monitor at: 180.0551215692954 
+Customers in queue: 1 
+Arrivals: 884 
+Departures: 883 
+
+Monitor at: 180.58956009401152 
+Customers in queue: 0 
+Arrivals: 887 
+Departures: 887 
+
+Monitor at: 184.18101541648707 
+Customers in queue: 1 
+Arrivals: 909 
+Departures: 908 
+
+Monitor at: 184.41031839151336 
+Customers in queue: 0 
+Arrivals: 910 
+Departures: 910 
+
+Monitor at: 184.58005260131915 
+Customers in queue: 0 
+Arrivals: 910 
+Departures: 910 
+
+Monitor at: 186.91049950137793 
+Customers in queue: 0 
+Arrivals: 916 
+Departures: 916 
+
+Monitor at: 186.9247896098429 
+Customers in queue: 0 
+Arrivals: 916 
+Departures: 916 
+
+Monitor at: 187.3815343799858 
+Customers in queue: 1 
+Arrivals: 918 
+Departures: 917 
+
+Monitor at: 187.4272412939671 
+Customers in queue: 1 
+Arrivals: 918 
+Departures: 917 
+
+Monitor at: 189.69369135580123 
+Customers in queue: 0 
+Arrivals: 925 
+Departures: 925 
+
+Monitor at: 192.02168333254662 
+Customers in queue: 0 
+Arrivals: 939 
+Departures: 939 
+
+Monitor at: 193.84640168344 
+Customers in queue: 1 
+Arrivals: 947 
+Departures: 946 
+
+Monitor at: 194.89917087403285 
+Customers in queue: 2 
+Arrivals: 954 
+Departures: 952 
+
+Monitor at: 195.08207085464392 
+Customers in queue: 0 
+Arrivals: 955 
+Departures: 955 
+
+Monitor at: 196.35457429323046 
+Customers in queue: 0 
+Arrivals: 963 
+Departures: 963 
+
+Monitor at: 196.60325452152242 
+Customers in queue: 2 
+Arrivals: 968 
+Departures: 966 
+
+Monitor at: 196.85457498193705 
+Customers in queue: 1 
+Arrivals: 970 
+Departures: 969 
+
+Monitor at: 197.14963386458624 
+Customers in queue: 2 
+Arrivals: 972 
+Departures: 970 
+
+Monitor at: 197.22509762584795 
+Customers in queue: 0 
+Arrivals: 972 
+Departures: 972 
+
+Monitor at: 198.42630373832864 
+Customers in queue: 1 
+Arrivals: 978 
+Departures: 977 
+
+Monitor at: 199.9540833165902 
+Customers in queue: 0 
+Arrivals: 980 
+Departures: 980 
+
+Monitor at: 200.72189110573345 
+Customers in queue: 0 
+Arrivals: 982 
+Departures: 982 
+
+Monitor at: 202.18516392830156 
+Customers in queue: 0 
+Arrivals: 990 
+Departures: 990 
+
+Monitor at: 202.19888102364195 
+Customers in queue: 0 
+Arrivals: 990 
+Departures: 990 
+
+Monitor at: 202.92613975100303 
+Customers in queue: 1 
+Arrivals: 994 
+Departures: 993 
+
+Monitor at: 203.07750929750856 
+Customers in queue: 3 
+Arrivals: 996 
+Departures: 993 
+
+Monitor at: 203.61283184323028 
+Customers in queue: 0 
+Arrivals: 997 
+Departures: 997 
+
+Monitor at: 204.63794711048342 
+Customers in queue: 1 
+Arrivals: 1002 
+Departures: 1001 
+
+Monitor at: 206.26120739511813 
+Customers in queue: 4 
+Arrivals: 1012 
+Departures: 1008 
+
+Monitor at: 207.78046033819066 
+Customers in queue: 2 
+Arrivals: 1015 
+Departures: 1013 
+
+Monitor at: 208.50809440386894 
+Customers in queue: 0 
+Arrivals: 1019 
+Departures: 1019 
+
+Monitor at: 208.8700010176911 
+Customers in queue: 1 
+Arrivals: 1021 
+Departures: 1020 
+
+Monitor at: 209.0921177608636 
+Customers in queue: 2 
+Arrivals: 1023 
+Departures: 1021 
+
+Monitor at: 209.55038483585 
+Customers in queue: 1 
+Arrivals: 1024 
+Departures: 1023 
+
+Monitor at: 216.0833545074398 
+Customers in queue: 6 
+Arrivals: 1062 
+Departures: 1056 
+
+Monitor at: 216.1127608847804 
+Customers in queue: 5 
+Arrivals: 1062 
+Departures: 1057 
+
+Monitor at: 216.6064793274394 
+Customers in queue: 3 
+Arrivals: 1063 
+Departures: 1060 
+
+Monitor at: 217.28927558364407 
+Customers in queue: 3 
+Arrivals: 1065 
+Departures: 1062 
+
+Monitor at: 219.44772315826347 
+Customers in queue: 1 
+Arrivals: 1075 
+Departures: 1074 
+
+Monitor at: 220.75153646817427 
+Customers in queue: 1 
+Arrivals: 1082 
+Departures: 1081 
+
+Monitor at: 222.02017518862013 
+Customers in queue: 1 
+Arrivals: 1095 
+Departures: 1094 
+
+Monitor at: 222.6896080062771 
+Customers in queue: 1 
+Arrivals: 1098 
+Departures: 1097 
+
+Monitor at: 222.86208772499768 
+Customers in queue: 0 
+Arrivals: 1099 
+Departures: 1099 
+
+Monitor at: 222.86518117338642 
+Customers in queue: 0 
+Arrivals: 1099 
+Departures: 1099 
+
+Monitor at: 223.19004645960587 
+Customers in queue: 0 
+Arrivals: 1101 
+Departures: 1101 
+
+Monitor at: 223.4335850432831 
+Customers in queue: 1 
+Arrivals: 1102 
+Departures: 1101 
+
+Monitor at: 223.72333467008943 
+Customers in queue: 0 
+Arrivals: 1103 
+Departures: 1103 
+
+Monitor at: 223.86423641626436 
+Customers in queue: 1 
+Arrivals: 1104 
+Departures: 1103 
+
+Monitor at: 223.9951008391242 
+Customers in queue: 2 
+Arrivals: 1106 
+Departures: 1104 
+
+Monitor at: 225.397031856879 
+Customers in queue: 1 
+Arrivals: 1112 
+Departures: 1111 
+
+Monitor at: 225.7802011458034 
+Customers in queue: 0 
+Arrivals: 1114 
+Departures: 1114 
+
+Monitor at: 226.07542192843493 
+Customers in queue: 0 
+Arrivals: 1115 
+Departures: 1115 
+
+Monitor at: 227.28766413370892 
+Customers in queue: 0 
+Arrivals: 1121 
+Departures: 1121 
+
+Monitor at: 228.3528856075895 
+Customers in queue: 2 
+Arrivals: 1128 
+Departures: 1126 
+
+Monitor at: 228.46220696233127 
+Customers in queue: 1 
+Arrivals: 1128 
+Departures: 1127 
+
+Monitor at: 229.09360744255457 
+Customers in queue: 1 
+Arrivals: 1131 
+Departures: 1130 
+
+Monitor at: 230.16956454714244 
+Customers in queue: 1 
+Arrivals: 1136 
+Departures: 1135 
+
+Monitor at: 231.96705928176502 
+Customers in queue: 0 
+Arrivals: 1149 
+Departures: 1149 
+
+Monitor at: 232.94793536277245 
+Customers in queue: 2 
+Arrivals: 1153 
+Departures: 1151 
+
+Monitor at: 233.23201249073983 
+Customers in queue: 0 
+Arrivals: 1154 
+Departures: 1154 
+
+Monitor at: 234.30051877595753 
+Customers in queue: 2 
+Arrivals: 1161 
+Departures: 1159 
+
+Monitor at: 235.22191048761908 
+Customers in queue: 3 
+Arrivals: 1167 
+Departures: 1164 
+
+Monitor at: 236.06279909763418 
+Customers in queue: 4 
+Arrivals: 1171 
+Departures: 1167 
+
+Monitor at: 236.2254779423122 
+Customers in queue: 6 
+Arrivals: 1173 
+Departures: 1167 
+
+Monitor at: 236.61939085871052 
+Customers in queue: 6 
+Arrivals: 1175 
+Departures: 1169 
+
+Monitor at: 237.1845031861307 
+Customers in queue: 5 
+Arrivals: 1177 
+Departures: 1172 
+
+Monitor at: 237.22198607314252 
+Customers in queue: 5 
+Arrivals: 1177 
+Departures: 1172 
+
+Monitor at: 237.33846022619977 
+Customers in queue: 7 
+Arrivals: 1179 
+Departures: 1172 
+
+Monitor at: 238.92800237154825 
+Customers in queue: 7 
+Arrivals: 1188 
+Departures: 1181 
+
+Monitor at: 239.56002736857423 
+Customers in queue: 7 
+Arrivals: 1194 
+Departures: 1187 
+
+Monitor at: 240.04956540671995 
+Customers in queue: 3 
+Arrivals: 1195 
+Departures: 1192 
+
+Monitor at: 240.46765178418593 
+Customers in queue: 4 
+Arrivals: 1196 
+Departures: 1192 
+
+Monitor at: 241.3478414003737 
+Customers in queue: 4 
+Arrivals: 1198 
+Departures: 1194 
+
+Monitor at: 243.67886263075926 
+Customers in queue: 3 
+Arrivals: 1212 
+Departures: 1209 
+
+Monitor at: 245.3179993703676 
+Customers in queue: 0 
+Arrivals: 1220 
+Departures: 1220 
+
+Monitor at: 245.93588475677362 
+Customers in queue: 0 
+Arrivals: 1222 
+Departures: 1222 
+
+Monitor at: 246.36675684296125 
+Customers in queue: 2 
+Arrivals: 1224 
+Departures: 1222 
+
+Monitor at: 246.80755717907587 
+Customers in queue: 1 
+Arrivals: 1225 
+Departures: 1224 
+
+Monitor at: 247.3942676229209 
+Customers in queue: 0 
+Arrivals: 1227 
+Departures: 1227 
+
+Monitor at: 250.7368248539744 
+Customers in queue: 1 
+Arrivals: 1240 
+Departures: 1239 
+
+Monitor at: 255.2146260343315 
+Customers in queue: 1 
+Arrivals: 1256 
+Departures: 1255 
+
+Monitor at: 255.47718759647367 
+Customers in queue: 1 
+Arrivals: 1256 
+Departures: 1255 
+
+Monitor at: 255.55304326617195 
+Customers in queue: 1 
+Arrivals: 1256 
+Departures: 1255 
+
+Monitor at: 256.2516321278902 
+Customers in queue: 2 
+Arrivals: 1261 
+Departures: 1259 
+
+Monitor at: 256.60046631699913 
+Customers in queue: 0 
+Arrivals: 1261 
+Departures: 1261 
+
+Monitor at: 258.77302888474617 
+Customers in queue: 1 
+Arrivals: 1267 
+Departures: 1266 
+
+Monitor at: 259.31721313181794 
+Customers in queue: 0 
+Arrivals: 1268 
+Departures: 1268 
+
+Monitor at: 260.2856162554047 
+Customers in queue: 1 
+Arrivals: 1271 
+Departures: 1270 
+
+Monitor at: 262.03765461302527 
+Customers in queue: 1 
+Arrivals: 1282 
+Departures: 1281 
+
+Monitor at: 264.0550757004833 
+Customers in queue: 0 
+Arrivals: 1291 
+Departures: 1291 
+
+Monitor at: 264.3239094657649 
+Customers in queue: 0 
+Arrivals: 1292 
+Departures: 1292 
+
+Monitor at: 264.99416654138906 
+Customers in queue: 0 
+Arrivals: 1292 
+Departures: 1292 
+
+Monitor at: 265.65608530174427 
+Customers in queue: 0 
+Arrivals: 1296 
+Departures: 1296 
+
+Monitor at: 266.7667209109352 
+Customers in queue: 0 
+Arrivals: 1300 
+Departures: 1300 
+
+Monitor at: 267.3903920377179 
+Customers in queue: 2 
+Arrivals: 1304 
+Departures: 1302 
+
+Monitor at: 270.69245054612264 
+Customers in queue: 0 
+Arrivals: 1322 
+Departures: 1322 
+
+Monitor at: 271.35682924121494 
+Customers in queue: 1 
+Arrivals: 1323 
+Departures: 1322 
+
+Monitor at: 271.5046093280869 
+Customers in queue: 2 
+Arrivals: 1325 
+Departures: 1323 
+
+Monitor at: 271.8834875509372 
+Customers in queue: 0 
+Arrivals: 1327 
+Departures: 1327 
+
+Monitor at: 273.3982947529062 
+Customers in queue: 1 
+Arrivals: 1337 
+Departures: 1336 
+
+Monitor at: 274.4722768127545 
+Customers in queue: 0 
+Arrivals: 1344 
+Departures: 1344 
+
+Monitor at: 274.95421370045113 
+Customers in queue: 1 
+Arrivals: 1345 
+Departures: 1344 
+
+Monitor at: 275.7175531686555 
+Customers in queue: 1 
+Arrivals: 1348 
+Departures: 1347 
+
+Monitor at: 276.99059956818775 
+Customers in queue: 6 
+Arrivals: 1362 
+Departures: 1356 
+
+Monitor at: 277.53174851448523 
+Customers in queue: 6 
+Arrivals: 1366 
+Departures: 1360 
+
+Monitor at: 278.2179951560329 
+Customers in queue: 8 
+Arrivals: 1371 
+Departures: 1363 
+
+Monitor at: 279.76476865853687 
+Customers in queue: 9 
+Arrivals: 1379 
+Departures: 1370 
+
+Monitor at: 280.8921026044487 
+Customers in queue: 2 
+Arrivals: 1383 
+Departures: 1381 
+
+Monitor at: 281.1692950501334 
+Customers in queue: 4 
+Arrivals: 1386 
+Departures: 1382 
+
+Monitor at: 281.7133759766834 
+Customers in queue: 0 
+Arrivals: 1389 
+Departures: 1389 
+
+Monitor at: 283.23795798441637 
+Customers in queue: 0 
+Arrivals: 1395 
+Departures: 1395 
+
+Monitor at: 283.8029877011136 
+Customers in queue: 0 
+Arrivals: 1398 
+Departures: 1398 
+
+Monitor at: 285.16951313826286 
+Customers in queue: 8 
+Arrivals: 1411 
+Departures: 1403 
+
+Monitor at: 285.5390407343185 
+Customers in queue: 6 
+Arrivals: 1412 
+Departures: 1406 
+
+Monitor at: 289.10963561833285 
+Customers in queue: 4 
+Arrivals: 1430 
+Departures: 1426 
+
+Monitor at: 289.5593551272215 
+Customers in queue: 6 
+Arrivals: 1434 
+Departures: 1428 
+
+Monitor at: 291.7153309813305 
+Customers in queue: 4 
+Arrivals: 1446 
+Departures: 1442 
+
+Monitor at: 293.6682275015041 
+Customers in queue: 0 
+Arrivals: 1455 
+Departures: 1455 
+
+Monitor at: 294.87380097456463 
+Customers in queue: 2 
+Arrivals: 1461 
+Departures: 1459 
+
+Monitor at: 294.9373515625028 
+Customers in queue: 2 
+Arrivals: 1462 
+Departures: 1460 
+
+Monitor at: 296.3609513151997 
+Customers in queue: 0 
+Arrivals: 1475 
+Departures: 1475 
+
+Monitor at: 297.3137007742284 
+Customers in queue: 2 
+Arrivals: 1480 
+Departures: 1478 
+
+Monitor at: 298.78813460904166 
+Customers in queue: 0 
+Arrivals: 1486 
+Departures: 1486 
+
+Monitor at: 299.5777560072687 
+Customers in queue: 0 
+Arrivals: 1489 
+Departures: 1489 
+
+Monitor at: 299.61753153160265 
+Customers in queue: 1 
+Arrivals: 1490 
+Departures: 1489 
+
+Monitor at: 303.0901064845347 
+Customers in queue: 0 
+Arrivals: 1510 
+Departures: 1510 
+
+Monitor at: 304.9596085528516 
+Customers in queue: 0 
+Arrivals: 1521 
+Departures: 1521 
+
+Monitor at: 305.3082438250584 
+Customers in queue: 0 
+Arrivals: 1524 
+Departures: 1524 
+
+Monitor at: 306.7380620956529 
+Customers in queue: 1 
+Arrivals: 1530 
+Departures: 1529 
+
+Monitor at: 307.4536691831133 
+Customers in queue: 1 
+Arrivals: 1535 
+Departures: 1534 
+
+Monitor at: 307.6600191266358 
+Customers in queue: 1 
+Arrivals: 1536 
+Departures: 1535 
+
+Monitor at: 307.8949874501882 
+Customers in queue: 1 
+Arrivals: 1537 
+Departures: 1536 
+
+Monitor at: 308.3572028912878 
+Customers in queue: 3 
+Arrivals: 1542 
+Departures: 1539 
+
+Monitor at: 308.5276092833352 
+Customers in queue: 4 
+Arrivals: 1543 
+Departures: 1539 
+
+Monitor at: 308.58513158083355 
+Customers in queue: 3 
+Arrivals: 1543 
+Departures: 1540 
+
+Monitor at: 310.54048931213066 
+Customers in queue: 1 
+Arrivals: 1554 
+Departures: 1553 
+
+Monitor at: 310.77679303531755 
+Customers in queue: 0 
+Arrivals: 1555 
+Departures: 1555 
+
+Monitor at: 312.23351264493374 
+Customers in queue: 1 
+Arrivals: 1562 
+Departures: 1561 
+
+Monitor at: 313.5912253101852 
+Customers in queue: 3 
+Arrivals: 1568 
+Departures: 1565 
+
+Monitor at: 314.7602245117492 
+Customers in queue: 8 
+Arrivals: 1578 
+Departures: 1570 
+
+Monitor at: 315.98833721085646 
+Customers in queue: 7 
+Arrivals: 1586 
+Departures: 1579 
+
+Monitor at: 318.74182240137077 
+Customers in queue: 7 
+Arrivals: 1594 
+Departures: 1587 
+
+Monitor at: 318.9281579122095 
+Customers in queue: 6 
+Arrivals: 1595 
+Departures: 1589 
+
+Monitor at: 322.9760096024859 
+Customers in queue: 2 
+Arrivals: 1612 
+Departures: 1610 
+
+Monitor at: 323.85700856295415 
+Customers in queue: 2 
+Arrivals: 1614 
+Departures: 1612 
+
+Monitor at: 324.42638924426456 
+Customers in queue: 0 
+Arrivals: 1614 
+Departures: 1614 
+
+Monitor at: 325.1657450664114 
+Customers in queue: 1 
+Arrivals: 1618 
+Departures: 1617 
+
+Monitor at: 326.25715540014306 
+Customers in queue: 1 
+Arrivals: 1623 
+Departures: 1622 
+
+Monitor at: 326.82698377455256 
+Customers in queue: 1 
+Arrivals: 1624 
+Departures: 1623 
+
+Monitor at: 331.30941800593155 
+Customers in queue: 0 
+Arrivals: 1646 
+Departures: 1646 
+
+Monitor at: 331.6064132211749 
+Customers in queue: 1 
+Arrivals: 1648 
+Departures: 1647 
+
+Monitor at: 331.85948287096414 
+Customers in queue: 0 
+Arrivals: 1648 
+Departures: 1648 
+
+Monitor at: 332.43020880679376 
+Customers in queue: 0 
+Arrivals: 1651 
+Departures: 1651 
+
+Monitor at: 333.5384293867968 
+Customers in queue: 0 
+Arrivals: 1654 
+Departures: 1654 
+
+Monitor at: 333.58658673481887 
+Customers in queue: 0 
+Arrivals: 1654 
+Departures: 1654 
+
+Monitor at: 334.9844313626824 
+Customers in queue: 3 
+Arrivals: 1662 
+Departures: 1659 
+
+Monitor at: 337.27094830067807 
+Customers in queue: 0 
+Arrivals: 1675 
+Departures: 1675 
+
+Monitor at: 338.6260201435843 
+Customers in queue: 0 
+Arrivals: 1677 
+Departures: 1677 
+
+Monitor at: 340.2363054843703 
+Customers in queue: 0 
+Arrivals: 1684 
+Departures: 1684 
+
+Monitor at: 340.58578050074107 
+Customers in queue: 1 
+Arrivals: 1685 
+Departures: 1684 
+
+Monitor at: 341.84724596302794 
+Customers in queue: 0 
+Arrivals: 1694 
+Departures: 1694 
+
+Monitor at: 343.9432130934747 
+Customers in queue: 5 
+Arrivals: 1711 
+Departures: 1706 
+
+Monitor at: 344.0104791912541 
+Customers in queue: 5 
+Arrivals: 1711 
+Departures: 1706 
+
+Monitor at: 344.2603361066708 
+Customers in queue: 1 
+Arrivals: 1713 
+Departures: 1712 
+
+Monitor at: 345.29473822803305 
+Customers in queue: 4 
+Arrivals: 1718 
+Departures: 1714 
+
+Monitor at: 345.5784955313745 
+Customers in queue: 5 
+Arrivals: 1719 
+Departures: 1714 
+
+Monitor at: 347.6462454289493 
+Customers in queue: 1 
+Arrivals: 1723 
+Departures: 1722 
+
+Monitor at: 349.90748694962735 
+Customers in queue: 3 
+Arrivals: 1736 
+Departures: 1733 
+
+Monitor at: 350.18053522386657 
+Customers in queue: 3 
+Arrivals: 1739 
+Departures: 1736 
+
+Monitor at: 350.3216464526351 
+Customers in queue: 3 
+Arrivals: 1739 
+Departures: 1736 
+
+Monitor at: 351.7111070628364 
+Customers in queue: 1 
+Arrivals: 1746 
+Departures: 1745 
+
+Monitor at: 352.38511612546466 
+Customers in queue: 0 
+Arrivals: 1752 
+Departures: 1752 
+
+Monitor at: 352.73457663655165 
+Customers in queue: 0 
+Arrivals: 1752 
+Departures: 1752 
+
+Monitor at: 354.9170383542152 
+Customers in queue: 1 
+Arrivals: 1769 
+Departures: 1768 
+
+Monitor at: 354.96793084992356 
+Customers in queue: 1 
+Arrivals: 1769 
+Departures: 1768 
+
+Monitor at: 355.8897827960926 
+Customers in queue: 1 
+Arrivals: 1773 
+Departures: 1772 
+
+Monitor at: 356.39568945238415 
+Customers in queue: 5 
+Arrivals: 1777 
+Departures: 1772 
+
+Monitor at: 358.0125015687539 
+Customers in queue: 0 
+Arrivals: 1786 
+Departures: 1786 
+
+Monitor at: 359.603442591032 
+Customers in queue: 2 
+Arrivals: 1797 
+Departures: 1795 
+
+Monitor at: 360.1536573987581 
+Customers in queue: 0 
+Arrivals: 1798 
+Departures: 1798 
+
+Monitor at: 360.7737497770363 
+Customers in queue: 0 
+Arrivals: 1800 
+Departures: 1800 
+
+Monitor at: 361.7869349010056 
+Customers in queue: 2 
+Arrivals: 1806 
+Departures: 1804 
+
+Monitor at: 363.4374299341733 
+Customers in queue: 3 
+Arrivals: 1812 
+Departures: 1809 
+
+Monitor at: 363.8252497526545 
+Customers in queue: 2 
+Arrivals: 1814 
+Departures: 1812 
+
+Monitor at: 364.08991499613506 
+Customers in queue: 4 
+Arrivals: 1818 
+Departures: 1814 
+
+Monitor at: 364.8677166866379 
+Customers in queue: 5 
+Arrivals: 1821 
+Departures: 1816 
+
+Monitor at: 365.4448640707019 
+Customers in queue: 4 
+Arrivals: 1825 
+Departures: 1821 
+
+Monitor at: 366.0923779226444 
+Customers in queue: 3 
+Arrivals: 1829 
+Departures: 1826 
+
+Monitor at: 366.30712513703344 
+Customers in queue: 2 
+Arrivals: 1830 
+Departures: 1828 
+
+Monitor at: 366.48829485563937 
+Customers in queue: 1 
+Arrivals: 1831 
+Departures: 1830 
+
+Monitor at: 366.8572902412015 
+Customers in queue: 0 
+Arrivals: 1831 
+Departures: 1831 
+
+Monitor at: 367.52541711361476 
+Customers in queue: 3 
+Arrivals: 1834 
+Departures: 1831 
+
+Monitor at: 368.34900300438545 
+Customers in queue: 0 
+Arrivals: 1841 
+Departures: 1841 
+
+Monitor at: 369.3401628875328 
+Customers in queue: 1 
+Arrivals: 1845 
+Departures: 1844 
+
+Monitor at: 370.52981898574086 
+Customers in queue: 1 
+Arrivals: 1848 
+Departures: 1847 
+
+Monitor at: 371.1795406012164 
+Customers in queue: 1 
+Arrivals: 1850 
+Departures: 1849 
+
+Monitor at: 372.47114490776687 
+Customers in queue: 2 
+Arrivals: 1856 
+Departures: 1854 
+
+Monitor at: 372.845161687847 
+Customers in queue: 0 
+Arrivals: 1856 
+Departures: 1856 
+
+Monitor at: 373.4621289052342 
+Customers in queue: 0 
+Arrivals: 1860 
+Departures: 1860 
+
+Monitor at: 374.2854132378745 
+Customers in queue: 1 
+Arrivals: 1861 
+Departures: 1860 
+
+Monitor at: 374.47735025408525 
+Customers in queue: 3 
+Arrivals: 1864 
+Departures: 1861 
+
+Monitor at: 374.64915005410177 
+Customers in queue: 3 
+Arrivals: 1864 
+Departures: 1861 
+
+Monitor at: 375.67603467141174 
+Customers in queue: 0 
+Arrivals: 1868 
+Departures: 1868 
+
+Monitor at: 377.18210175260884 
+Customers in queue: 2 
+Arrivals: 1882 
+Departures: 1880 
+
+Monitor at: 379.0692251951959 
+Customers in queue: 4 
+Arrivals: 1891 
+Departures: 1887 
+
+Monitor at: 381.2549720888537 
+Customers in queue: 4 
+Arrivals: 1906 
+Departures: 1902 
+
+Monitor at: 381.43309095952816 
+Customers in queue: 4 
+Arrivals: 1907 
+Departures: 1903 
+
+Monitor at: 384.4195613356833 
+Customers in queue: 7 
+Arrivals: 1929 
+Departures: 1922 
+
+Monitor at: 384.4495797117527 
+Customers in queue: 6 
+Arrivals: 1929 
+Departures: 1923 
+
+Monitor at: 384.66381147584787 
+Customers in queue: 7 
+Arrivals: 1930 
+Departures: 1923 
+
+Monitor at: 386.78095638651087 
+Customers in queue: 1 
+Arrivals: 1938 
+Departures: 1937 
+
+Monitor at: 388.04703629923085 
+Customers in queue: 0 
+Arrivals: 1942 
+Departures: 1942 
+
+Monitor at: 390.03832365494384 
+Customers in queue: 0 
+Arrivals: 1944 
+Departures: 1944 
+
+Monitor at: 390.35239624773766 
+Customers in queue: 3 
+Arrivals: 1947 
+Departures: 1944 
+
+Monitor at: 390.8935779913811 
+Customers in queue: 3 
+Arrivals: 1948 
+Departures: 1945 
+
+Monitor at: 391.68399977306126 
+Customers in queue: 6 
+Arrivals: 1952 
+Departures: 1946 
+
+Monitor at: 393.5948417712118 
+Customers in queue: 5 
+Arrivals: 1962 
+Departures: 1957 
+
+Monitor at: 395.08387239154985 
+Customers in queue: 0 
+Arrivals: 1969 
+Departures: 1969 
+
+Monitor at: 395.1512685191294 
+Customers in queue: 0 
+Arrivals: 1969 
+Departures: 1969 
+
+Monitor at: 396.17788602924213 
+Customers in queue: 0 
+Arrivals: 1979 
+Departures: 1979 
+
+Monitor at: 396.49657619676924 
+Customers in queue: 1 
+Arrivals: 1981 
+Departures: 1980 
+
+Monitor at: 401.1327430815062 
+Customers in queue: 1 
+Arrivals: 1998 
+Departures: 1997 
+
+Monitor at: 401.35624642691675 
+Customers in queue: 1 
+Arrivals: 2000 
+Departures: 1999 
+
+Monitor at: 401.84903048528577 
+Customers in queue: 0 
+Arrivals: 2000 
+Departures: 2000 
+
+Monitor at: 401.87263091876383 
+Customers in queue: 0 
+Arrivals: 2000 
+Departures: 2000 
+
+Monitor at: 402.643148671051 
+Customers in queue: 3 
+Arrivals: 2004 
+Departures: 2001 
+
+Monitor at: 402.9910577415562 
+Customers in queue: 3 
+Arrivals: 2005 
+Departures: 2002 
+
+Monitor at: 403.7488053303072 
+Customers in queue: 6 
+Arrivals: 2013 
+Departures: 2007 
+
+Monitor at: 403.8521556865656 
+Customers in queue: 6 
+Arrivals: 2013 
+Departures: 2007 
+
+Monitor at: 403.92484117559104 
+Customers in queue: 6 
+Arrivals: 2013 
+Departures: 2007 
+
+Monitor at: 404.5706990233636 
+Customers in queue: 8 
+Arrivals: 2017 
+Departures: 2009 
+
+Monitor at: 405.29158878271113 
+Customers in queue: 7 
+Arrivals: 2021 
+Departures: 2014 
+
+Monitor at: 405.94367307456747 
+Customers in queue: 4 
+Arrivals: 2025 
+Departures: 2021 
+
+Monitor at: 406.9758682128816 
+Customers in queue: 4 
+Arrivals: 2031 
+Departures: 2027 
+
+Monitor at: 407.6871808454043 
+Customers in queue: 3 
+Arrivals: 2034 
+Departures: 2031 
+
+Monitor at: 408.1507769701831 
+Customers in queue: 5 
+Arrivals: 2037 
+Departures: 2032 
+
+Monitor at: 408.6079150519956 
+Customers in queue: 2 
+Arrivals: 2038 
+Departures: 2036 
+
+Monitor at: 409.12926296369864 
+Customers in queue: 3 
+Arrivals: 2042 
+Departures: 2039 
+
+Monitor at: 411.33360046925816 
+Customers in queue: 3 
+Arrivals: 2054 
+Departures: 2051 
+
+Monitor at: 411.96857133243276 
+Customers in queue: 3 
+Arrivals: 2058 
+Departures: 2055 
+
+Monitor at: 412.1154588624553 
+Customers in queue: 0 
+Arrivals: 2058 
+Departures: 2058 
+
+Monitor at: 412.92836043694695 
+Customers in queue: 2 
+Arrivals: 2063 
+Departures: 2061 
+
+Monitor at: 414.51970783604776 
+Customers in queue: 0 
+Arrivals: 2070 
+Departures: 2070 
+
+Monitor at: 418.0860804108925 
+Customers in queue: 1 
+Arrivals: 2084 
+Departures: 2083 
+
+Monitor at: 420.9558651616059 
+Customers in queue: 0 
+Arrivals: 2099 
+Departures: 2099 
+
+Monitor at: 422.9802878776847 
+Customers in queue: 0 
+Arrivals: 2111 
+Departures: 2111 
+
+Monitor at: 423.0831521704964 
+Customers in queue: 0 
+Arrivals: 2111 
+Departures: 2111 
+
+Monitor at: 425.1593305470594 
+Customers in queue: 0 
+Arrivals: 2123 
+Departures: 2123 
+
+Monitor at: 426.48909533058736 
+Customers in queue: 2 
+Arrivals: 2130 
+Departures: 2128 
+
+Monitor at: 427.19053901927083 
+Customers in queue: 0 
+Arrivals: 2133 
+Departures: 2133 
+
+Monitor at: 428.2806316486816 
+Customers in queue: 3 
+Arrivals: 2138 
+Departures: 2135 
+
+Monitor at: 430.4284050366668 
+Customers in queue: 0 
+Arrivals: 2144 
+Departures: 2144 
+
+Monitor at: 432.69576571753214 
+Customers in queue: 0 
+Arrivals: 2156 
+Departures: 2156 
+
+Monitor at: 432.82854780672466 
+Customers in queue: 0 
+Arrivals: 2156 
+Departures: 2156 
+
+Monitor at: 433.5664391856156 
+Customers in queue: 0 
+Arrivals: 2162 
+Departures: 2162 
+
+Monitor at: 436.66254562510125 
+Customers in queue: 0 
+Arrivals: 2174 
+Departures: 2174 
+
+Monitor at: 437.2550070885473 
+Customers in queue: 2 
+Arrivals: 2177 
+Departures: 2175 
+
+Monitor at: 439.29267058364377 
+Customers in queue: 0 
+Arrivals: 2188 
+Departures: 2188 
+
+Monitor at: 441.48320345528737 
+Customers in queue: 0 
+Arrivals: 2202 
+Departures: 2202 
+
+Monitor at: 441.78274100422004 
+Customers in queue: 0 
+Arrivals: 2203 
+Departures: 2203 
+
+Monitor at: 442.35818464623424 
+Customers in queue: 0 
+Arrivals: 2207 
+Departures: 2207 
+
+Monitor at: 443.13184629583253 
+Customers in queue: 1 
+Arrivals: 2210 
+Departures: 2209 
+
+Monitor at: 444.9747791126829 
+Customers in queue: 0 
+Arrivals: 2226 
+Departures: 2226 
+
+Monitor at: 446.32077730373265 
+Customers in queue: 1 
+Arrivals: 2229 
+Departures: 2228 
+
+Monitor at: 446.80826714868755 
+Customers in queue: 4 
+Arrivals: 2235 
+Departures: 2231 
+
+Monitor at: 448.08254142431656 
+Customers in queue: 5 
+Arrivals: 2240 
+Departures: 2235 
+
+Monitor at: 452.1822043520164 
+Customers in queue: 0 
+Arrivals: 2260 
+Departures: 2260 
+
+Monitor at: 452.58180118380113 
+Customers in queue: 0 
+Arrivals: 2263 
+Departures: 2263 
+
+Monitor at: 454.2929479822346 
+Customers in queue: 1 
+Arrivals: 2273 
+Departures: 2272 
+
+Monitor at: 455.875057260664 
+Customers in queue: 0 
+Arrivals: 2279 
+Departures: 2279 
+
+Monitor at: 460.0506548805659 
+Customers in queue: 1 
+Arrivals: 2301 
+Departures: 2300 
+
+Monitor at: 460.0939303974893 
+Customers in queue: 2 
+Arrivals: 2302 
+Departures: 2300 
+
+Monitor at: 460.9213644118665 
+Customers in queue: 3 
+Arrivals: 2305 
+Departures: 2302 
+
+Monitor at: 461.2900259438405 
+Customers in queue: 2 
+Arrivals: 2307 
+Departures: 2305 
+
+Monitor at: 463.57911174178736 
+Customers in queue: 8 
+Arrivals: 2321 
+Departures: 2313 
+
+Monitor at: 464.16796864414874 
+Customers in queue: 0 
+Arrivals: 2323 
+Departures: 2323 
+
+Monitor at: 466.3757889488945 
+Customers in queue: 3 
+Arrivals: 2332 
+Departures: 2329 
+
+Monitor at: 467.4825261151112 
+Customers in queue: 4 
+Arrivals: 2336 
+Departures: 2332 
+
+Monitor at: 467.7297755769697 
+Customers in queue: 4 
+Arrivals: 2337 
+Departures: 2333 
+
+Monitor at: 468.1525680771743 
+Customers in queue: 3 
+Arrivals: 2337 
+Departures: 2334 
+
+Monitor at: 470.5376609315073 
+Customers in queue: 0 
+Arrivals: 2350 
+Departures: 2350 
+
+Monitor at: 472.44802868537386 
+Customers in queue: 1 
+Arrivals: 2362 
+Departures: 2361 
+
+Monitor at: 473.1435145149439 
+Customers in queue: 2 
+Arrivals: 2366 
+Departures: 2364 
+
+Monitor at: 477.3479329999806 
+Customers in queue: 0 
+Arrivals: 2385 
+Departures: 2385 
+
+Monitor at: 477.40339983679456 
+Customers in queue: 0 
+Arrivals: 2385 
+Departures: 2385 
+
+Monitor at: 479.04916270620424 
+Customers in queue: 1 
+Arrivals: 2397 
+Departures: 2396 
+
+Monitor at: 479.89945246410986 
+Customers in queue: 0 
+Arrivals: 2403 
+Departures: 2403 
+
+Monitor at: 480.07680824613493 
+Customers in queue: 0 
+Arrivals: 2404 
+Departures: 2404 
+
+Monitor at: 482.95900033493416 
+Customers in queue: 3 
+Arrivals: 2424 
+Departures: 2421 
+
+Monitor at: 483.22245591364754 
+Customers in queue: 3 
+Arrivals: 2425 
+Departures: 2422 
+
+Monitor at: 483.2818958790809 
+Customers in queue: 4 
+Arrivals: 2427 
+Departures: 2423 
+
+Monitor at: 483.9632917992331 
+Customers in queue: 3 
+Arrivals: 2431 
+Departures: 2428 
+
+Monitor at: 484.6725600750451 
+Customers in queue: 0 
+Arrivals: 2432 
+Departures: 2432 
+
+Monitor at: 486.6299146979672 
+Customers in queue: 0 
+Arrivals: 2443 
+Departures: 2443 
+
+Monitor at: 488.6202898186136 
+Customers in queue: 3 
+Arrivals: 2453 
+Departures: 2450 
+
+Monitor at: 489.81292095342997 
+Customers in queue: 0 
+Arrivals: 2458 
+Departures: 2458 
+
+Monitor at: 490.33869277254524 
+Customers in queue: 0 
+Arrivals: 2460 
+Departures: 2460 
+
+Monitor at: 490.5799476714526 
+Customers in queue: 0 
+Arrivals: 2463 
+Departures: 2463 
+
+Monitor at: 493.8456435680326 
+Customers in queue: 0 
+Arrivals: 2480 
+Departures: 2480 
+
+Monitor at: 494.25834656608987 
+Customers in queue: 0 
+Arrivals: 2481 
+Departures: 2481 
+
+Monitor at: 494.34300587307376 
+Customers in queue: 0 
+Arrivals: 2481 
+Departures: 2481 
+
+Monitor at: 494.3681674817064 
+Customers in queue: 2 
+Arrivals: 2483 
+Departures: 2481 
+
+Monitor at: 494.8904230255371 
+Customers in queue: 2 
+Arrivals: 2489 
+Departures: 2487 
+
+Monitor at: 495.0427922031121 
+Customers in queue: 1 
+Arrivals: 2490 
+Departures: 2489 
+
+Monitor at: 495.572076137183 
+Customers in queue: 3 
+Arrivals: 2493 
+Departures: 2490 
+
+Monitor at: 498.2375187280193 
+Customers in queue: 2 
+Arrivals: 2505 
+Departures: 2503 
+
+Monitor at: 499.97106635459284 
+Customers in queue: 0 
+Arrivals: 2509 
+Departures: 2509 
+
+Monitor at: 499.99672353288344 
+Customers in queue: 0 
+Arrivals: 2509 
+Departures: 2509 
+
+Monitor at: 500.27167307680855 
+Customers in queue: 4 
+Arrivals: 2513 
+Departures: 2509 
+
+Monitor at: 502.26095105610705 
+Customers in queue: 1 
+Arrivals: 2520 
+Departures: 2519 
+
+Monitor at: 502.5028626402363 
+Customers in queue: 2 
+Arrivals: 2522 
+Departures: 2520 
+
+Monitor at: 502.82353618124 
+Customers in queue: 3 
+Arrivals: 2525 
+Departures: 2522 
+
+Monitor at: 503.58768035976783 
+Customers in queue: 1 
+Arrivals: 2527 
+Departures: 2526 
+
+Monitor at: 503.67389051396634 
+Customers in queue: 1 
+Arrivals: 2527 
+Departures: 2526 
+
+Monitor at: 504.8758593288866 
+Customers in queue: 6 
+Arrivals: 2537 
+Departures: 2531 
+
+Monitor at: 505.46743585703996 
+Customers in queue: 2 
+Arrivals: 2539 
+Departures: 2537 
+
+Monitor at: 507.26839625705503 
+Customers in queue: 1 
+Arrivals: 2550 
+Departures: 2549 
+
+Monitor at: 508.20333476255536 
+Customers in queue: 1 
+Arrivals: 2553 
+Departures: 2552 
+
+Monitor at: 508.2103548852684 
+Customers in queue: 0 
+Arrivals: 2553 
+Departures: 2553 
+
+Monitor at: 509.5368085171034 
+Customers in queue: 0 
+Arrivals: 2563 
+Departures: 2563 
+
+Monitor at: 510.1018082353299 
+Customers in queue: 0 
+Arrivals: 2564 
+Departures: 2564 
+
+Monitor at: 510.94529009897144 
+Customers in queue: 0 
+Arrivals: 2569 
+Departures: 2569 
+
+Monitor at: 511.5319117474744 
+Customers in queue: 2 
+Arrivals: 2572 
+Departures: 2570 
+
+Monitor at: 511.8442504710012 
+Customers in queue: 0 
+Arrivals: 2573 
+Departures: 2573 
+
+Monitor at: 512.4029136036197 
+Customers in queue: 0 
+Arrivals: 2577 
+Departures: 2577 
+
+Monitor at: 512.5159575628448 
+Customers in queue: 0 
+Arrivals: 2577 
+Departures: 2577 
+
+Monitor at: 512.9662943643651 
+Customers in queue: 0 
+Arrivals: 2577 
+Departures: 2577 
+
+Monitor at: 515.4053183585762 
+Customers in queue: 2 
+Arrivals: 2588 
+Departures: 2586 
+
+Monitor at: 515.6998500791618 
+Customers in queue: 0 
+Arrivals: 2589 
+Departures: 2589 
+
+Monitor at: 516.2710346647434 
+Customers in queue: 3 
+Arrivals: 2592 
+Departures: 2589 
+
+Monitor at: 516.9525441627895 
+Customers in queue: 1 
+Arrivals: 2594 
+Departures: 2593 
+
+Monitor at: 517.4161438041817 
+Customers in queue: 0 
+Arrivals: 2595 
+Departures: 2595 
+
+Monitor at: 518.1325721688526 
+Customers in queue: 3 
+Arrivals: 2598 
+Departures: 2595 
+
+Monitor at: 520.0666350174826 
+Customers in queue: 1 
+Arrivals: 2604 
+Departures: 2603 
+
+Monitor at: 520.5131233547112 
+Customers in queue: 0 
+Arrivals: 2605 
+Departures: 2605 
+
+Monitor at: 520.6213397915717 
+Customers in queue: 0 
+Arrivals: 2605 
+Departures: 2605 
+
+Monitor at: 522.9494072011793 
+Customers in queue: 1 
+Arrivals: 2610 
+Departures: 2609 
+
+Monitor at: 523.7950744246822 
+Customers in queue: 1 
+Arrivals: 2613 
+Departures: 2612 
+
+Monitor at: 523.9634134854001 
+Customers in queue: 1 
+Arrivals: 2614 
+Departures: 2613 
+
+Monitor at: 524.2295835026518 
+Customers in queue: 0 
+Arrivals: 2615 
+Departures: 2615 
+
+Monitor at: 525.2626911443343 
+Customers in queue: 0 
+Arrivals: 2622 
+Departures: 2622 
+
+Monitor at: 526.4007193694829 
+Customers in queue: 2 
+Arrivals: 2628 
+Departures: 2626 
+
+Monitor at: 526.7971102236246 
+Customers in queue: 1 
+Arrivals: 2630 
+Departures: 2629 
+
+Monitor at: 527.2059367401285 
+Customers in queue: 3 
+Arrivals: 2634 
+Departures: 2631 
+
+Monitor at: 527.3541919696277 
+Customers in queue: 3 
+Arrivals: 2635 
+Departures: 2632 
+
+Monitor at: 527.4736259292621 
+Customers in queue: 3 
+Arrivals: 2635 
+Departures: 2632 
+
+Monitor at: 530.3383235304692 
+Customers in queue: 7 
+Arrivals: 2653 
+Departures: 2646 
+
+Monitor at: 530.672178516687 
+Customers in queue: 5 
+Arrivals: 2653 
+Departures: 2648 
+
+Monitor at: 531.9440953790418 
+Customers in queue: 5 
+Arrivals: 2659 
+Departures: 2654 
+
+Monitor at: 532.732020664559 
+Customers in queue: 5 
+Arrivals: 2666 
+Departures: 2661 
+
+Monitor at: 533.6416572321612 
+Customers in queue: 0 
+Arrivals: 2670 
+Departures: 2670 
+
+Monitor at: 535.5022461878505 
+Customers in queue: 1 
+Arrivals: 2684 
+Departures: 2683 
+
+Monitor at: 537.4862508759358 
+Customers in queue: 4 
+Arrivals: 2696 
+Departures: 2692 
+
+Monitor at: 538.812841279822 
+Customers in queue: 1 
+Arrivals: 2704 
+Departures: 2703 
+
+Monitor at: 539.5243452875206 
+Customers in queue: 0 
+Arrivals: 2708 
+Departures: 2708 
+
+Monitor at: 541.3278238291482 
+Customers in queue: 1 
+Arrivals: 2713 
+Departures: 2712 
+
+Monitor at: 541.9351671365487 
+Customers in queue: 4 
+Arrivals: 2719 
+Departures: 2715 
+
+Monitor at: 542.1852547472826 
+Customers in queue: 1 
+Arrivals: 2720 
+Departures: 2719 
+
+Monitor at: 544.3033030512396 
+Customers in queue: 1 
+Arrivals: 2731 
+Departures: 2730 
+
+Monitor at: 545.279262822706 
+Customers in queue: 1 
+Arrivals: 2738 
+Departures: 2737 
+
+Monitor at: 545.8527054578099 
+Customers in queue: 3 
+Arrivals: 2742 
+Departures: 2739 
+
+Monitor at: 545.985028615069 
+Customers in queue: 1 
+Arrivals: 2742 
+Departures: 2741 
+
+Monitor at: 547.6039747852932 
+Customers in queue: 1 
+Arrivals: 2748 
+Departures: 2747 
+
+Monitor at: 547.6556032905522 
+Customers in queue: 1 
+Arrivals: 2748 
+Departures: 2747 
+
+Monitor at: 548.1873762463118 
+Customers in queue: 1 
+Arrivals: 2749 
+Departures: 2748 
+
+Monitor at: 548.3737719511552 
+Customers in queue: 2 
+Arrivals: 2750 
+Departures: 2748 
+
+Monitor at: 549.6795119409516 
+Customers in queue: 1 
+Arrivals: 2756 
+Departures: 2755 
+
+Monitor at: 550.7361080813132 
+Customers in queue: 0 
+Arrivals: 2760 
+Departures: 2760 
+
+Monitor at: 552.3154768775202 
+Customers in queue: 0 
+Arrivals: 2765 
+Departures: 2765 
+
+Monitor at: 552.9986929250665 
+Customers in queue: 3 
+Arrivals: 2768 
+Departures: 2765 
+
+Monitor at: 553.0566763446624 
+Customers in queue: 2 
+Arrivals: 2768 
+Departures: 2766 
+
+Monitor at: 555.9583862365423 
+Customers in queue: 0 
+Arrivals: 2779 
+Departures: 2779 
+
+Monitor at: 557.9272589213689 
+Customers in queue: 0 
+Arrivals: 2792 
+Departures: 2792 
+
+Monitor at: 558.9748376772096 
+Customers in queue: 1 
+Arrivals: 2795 
+Departures: 2794 
+
+Monitor at: 559.5545289588606 
+Customers in queue: 0 
+Arrivals: 2799 
+Departures: 2799 
+
+Monitor at: 559.7540196124618 
+Customers in queue: 0 
+Arrivals: 2799 
+Departures: 2799 
+
+Monitor at: 559.9158632242115 
+Customers in queue: 0 
+Arrivals: 2799 
+Departures: 2799 
+
+Monitor at: 560.6698157094863 
+Customers in queue: 0 
+Arrivals: 2801 
+Departures: 2801 
+
+Monitor at: 561.5757693716872 
+Customers in queue: 0 
+Arrivals: 2804 
+Departures: 2804 
+
+Monitor at: 562.0166830218991 
+Customers in queue: 1 
+Arrivals: 2808 
+Departures: 2807 
+
+Monitor at: 562.3436264721423 
+Customers in queue: 0 
+Arrivals: 2811 
+Departures: 2811 
+
+Monitor at: 566.967064900811 
+Customers in queue: 3 
+Arrivals: 2829 
+Departures: 2826 
+
+Monitor at: 567.655968788483 
+Customers in queue: 3 
+Arrivals: 2832 
+Departures: 2829 
+
+Monitor at: 568.3195537677385 
+Customers in queue: 7 
+Arrivals: 2837 
+Departures: 2830 
+
+Monitor at: 570.5987002375961 
+Customers in queue: 7 
+Arrivals: 2855 
+Departures: 2848 
+
+Monitor at: 572.4875061416276 
+Customers in queue: 2 
+Arrivals: 2861 
+Departures: 2859 
+
+Monitor at: 572.9809826236245 
+Customers in queue: 3 
+Arrivals: 2863 
+Departures: 2860 
+
+Monitor at: 573.2559752789052 
+Customers in queue: 1 
+Arrivals: 2864 
+Departures: 2863 
+
+Monitor at: 575.2743175732986 
+Customers in queue: 1 
+Arrivals: 2874 
+Departures: 2873 
+
+Monitor at: 575.3659365315624 
+Customers in queue: 1 
+Arrivals: 2874 
+Departures: 2873 
+
+Monitor at: 575.482510527677 
+Customers in queue: 2 
+Arrivals: 2875 
+Departures: 2873 
+
+Monitor at: 575.6690550126011 
+Customers in queue: 2 
+Arrivals: 2876 
+Departures: 2874 
+
+Monitor at: 577.260502457178 
+Customers in queue: 1 
+Arrivals: 2882 
+Departures: 2881 
+
+Monitor at: 577.4951745309397 
+Customers in queue: 0 
+Arrivals: 2884 
+Departures: 2884 
+
+Monitor at: 578.0355124455969 
+Customers in queue: 0 
+Arrivals: 2884 
+Departures: 2884 
+
+Monitor at: 579.3445008146173 
+Customers in queue: 2 
+Arrivals: 2891 
+Departures: 2889 
+
+Monitor at: 579.7720598234572 
+Customers in queue: 0 
+Arrivals: 2891 
+Departures: 2891 
+
+Monitor at: 580.5841927559889 
+Customers in queue: 3 
+Arrivals: 2894 
+Departures: 2891 
+
+Monitor at: 581.1873638697507 
+Customers in queue: 2 
+Arrivals: 2898 
+Departures: 2896 
+
+Monitor at: 583.0363742948686 
+Customers in queue: 1 
+Arrivals: 2903 
+Departures: 2902 
+
+Monitor at: 583.3517508256888 
+Customers in queue: 1 
+Arrivals: 2906 
+Departures: 2905 
+
+Monitor at: 583.7126057147012 
+Customers in queue: 0 
+Arrivals: 2906 
+Departures: 2906 
+
+Monitor at: 584.7569592597537 
+Customers in queue: 1 
+Arrivals: 2910 
+Departures: 2909 
+
+Monitor at: 585.2686943245254 
+Customers in queue: 0 
+Arrivals: 2910 
+Departures: 2910 
+
+Monitor at: 585.711834668371 
+Customers in queue: 2 
+Arrivals: 2914 
+Departures: 2912 
+
+Monitor at: 586.3645510728279 
+Customers in queue: 0 
+Arrivals: 2918 
+Departures: 2918 
+
+Monitor at: 587.7356142962191 
+Customers in queue: 0 
+Arrivals: 2923 
+Departures: 2923 
+
+Monitor at: 589.5921199269923 
+Customers in queue: 0 
+Arrivals: 2934 
+Departures: 2934 
+
+Monitor at: 590.9440361007124 
+Customers in queue: 0 
+Arrivals: 2943 
+Departures: 2943 
+
+Monitor at: 591.5083473819773 
+Customers in queue: 0 
+Arrivals: 2945 
+Departures: 2945 
+
+Monitor at: 591.8942686841551 
+Customers in queue: 1 
+Arrivals: 2949 
+Departures: 2948 
+
+Monitor at: 592.3447949139781 
+Customers in queue: 0 
+Arrivals: 2951 
+Departures: 2951 
+
+Monitor at: 594.6465530029266 
+Customers in queue: 0 
+Arrivals: 2968 
+Departures: 2968 
+
+Monitor at: 596.3192981482722 
+Customers in queue: 0 
+Arrivals: 2980 
+Departures: 2980 
+
+Monitor at: 598.8012863607681 
+Customers in queue: 1 
+Arrivals: 2989 
+Departures: 2988 
+
+Monitor at: 599.8299354760373 
+Customers in queue: 1 
+Arrivals: 2996 
+Departures: 2995 
+
+Monitor at: 602.8029973774222 
+Customers in queue: 1 
+Arrivals: 3005 
+Departures: 3004 
+
+Monitor at: 602.8992723341795 
+Customers in queue: 1 
+Arrivals: 3005 
+Departures: 3004 
+
+Monitor at: 603.3169745466145 
+Customers in queue: 2 
+Arrivals: 3006 
+Departures: 3004 
+
+Monitor at: 603.7619154292498 
+Customers in queue: 1 
+Arrivals: 3010 
+Departures: 3009 
+
+Monitor at: 603.9387300333373 
+Customers in queue: 3 
+Arrivals: 3012 
+Departures: 3009 
+
+Monitor at: 604.0133035872864 
+Customers in queue: 3 
+Arrivals: 3012 
+Departures: 3009 
+
+Monitor at: 604.5097515359688 
+Customers in queue: 5 
+Arrivals: 3015 
+Departures: 3010 
+
+Monitor at: 604.6111557048314 
+Customers in queue: 6 
+Arrivals: 3017 
+Departures: 3011 
+
+Monitor at: 604.7711346467217 
+Customers in queue: 8 
+Arrivals: 3019 
+Departures: 3011 
+
+Monitor at: 606.1221019840689 
+Customers in queue: 3 
+Arrivals: 3025 
+Departures: 3022 
+
+Monitor at: 606.7105925579016 
+Customers in queue: 3 
+Arrivals: 3029 
+Departures: 3026 
+
+Monitor at: 607.3314254011397 
+Customers in queue: 0 
+Arrivals: 3031 
+Departures: 3031 
+
+Monitor at: 607.6013344031063 
+Customers in queue: 0 
+Arrivals: 3032 
+Departures: 3032 
+
+Monitor at: 607.6647168051071 
+Customers in queue: 0 
+Arrivals: 3033 
+Departures: 3033 
+
+Monitor at: 607.7944733739383 
+Customers in queue: 0 
+Arrivals: 3034 
+Departures: 3034 
+
+Monitor at: 608.6854659990313 
+Customers in queue: 0 
+Arrivals: 3040 
+Departures: 3040 
+
+Monitor at: 609.1625940995922 
+Customers in queue: 2 
+Arrivals: 3044 
+Departures: 3042 
+
+Monitor at: 610.0896962579105 
+Customers in queue: 1 
+Arrivals: 3045 
+Departures: 3044 
+
+Monitor at: 611.6772332484474 
+Customers in queue: 1 
+Arrivals: 3051 
+Departures: 3050 
+
+Monitor at: 611.9679978587843 
+Customers in queue: 1 
+Arrivals: 3052 
+Departures: 3051 
+
+Monitor at: 612.7855613409004 
+Customers in queue: 0 
+Arrivals: 3057 
+Departures: 3057 
+
+Monitor at: 612.9398071079303 
+Customers in queue: 1 
+Arrivals: 3058 
+Departures: 3057 
+
+Monitor at: 613.0634540553988 
+Customers in queue: 2 
+Arrivals: 3059 
+Departures: 3057 
+
+Monitor at: 613.1711487969983 
+Customers in queue: 3 
+Arrivals: 3060 
+Departures: 3057 
+
+Monitor at: 615.1827556489594 
+Customers in queue: 1 
+Arrivals: 3070 
+Departures: 3069 
+
+Monitor at: 615.8012423172331 
+Customers in queue: 0 
+Arrivals: 3073 
+Departures: 3073 
+
+Monitor at: 617.7242492640535 
+Customers in queue: 3 
+Arrivals: 3082 
+Departures: 3079 
+
+Monitor at: 620.4068618082918 
+Customers in queue: 1 
+Arrivals: 3100 
+Departures: 3099 
+
+Monitor at: 620.8375865833556 
+Customers in queue: 0 
+Arrivals: 3101 
+Departures: 3101 
+
+Monitor at: 620.846453626728 
+Customers in queue: 0 
+Arrivals: 3101 
+Departures: 3101 
+
+Monitor at: 621.5315054202184 
+Customers in queue: 1 
+Arrivals: 3103 
+Departures: 3102 
+
+Monitor at: 621.5621482808626 
+Customers in queue: 1 
+Arrivals: 3103 
+Departures: 3102 
+
+Monitor at: 625.0639736991967 
+Customers in queue: 7 
+Arrivals: 3120 
+Departures: 3113 
+
+Monitor at: 628.7719438662413 
+Customers in queue: 14 
+Arrivals: 3142 
+Departures: 3128 
+
+Monitor at: 631.7442773807222 
+Customers in queue: 12 
+Arrivals: 3157 
+Departures: 3145 
+
+Monitor at: 632.1182998366826 
+Customers in queue: 11 
+Arrivals: 3157 
+Departures: 3146 
+
+Monitor at: 632.7114702854901 
+Customers in queue: 8 
+Arrivals: 3157 
+Departures: 3149 
+
+Monitor at: 633.1546297634235 
+Customers in queue: 6 
+Arrivals: 3159 
+Departures: 3153 
+
+Monitor at: 633.286090903249 
+Customers in queue: 7 
+Arrivals: 3160 
+Departures: 3153 
+
+Monitor at: 633.2927999967064 
+Customers in queue: 7 
+Arrivals: 3160 
+Departures: 3153 
+
+Monitor at: 635.093665760833 
+Customers in queue: 5 
+Arrivals: 3170 
+Departures: 3165 
+
+Monitor at: 635.3499722080254 
+Customers in queue: 0 
+Arrivals: 3170 
+Departures: 3170 
+
+Monitor at: 637.5534140052481 
+Customers in queue: 11 
+Arrivals: 3185 
+Departures: 3174 
+
+Monitor at: 637.9827023459156 
+Customers in queue: 8 
+Arrivals: 3188 
+Departures: 3180 
+
+Monitor at: 639.0742190819642 
+Customers in queue: 6 
+Arrivals: 3191 
+Departures: 3185 
+
+Monitor at: 639.4410391270687 
+Customers in queue: 5 
+Arrivals: 3192 
+Departures: 3187 
+
+Monitor at: 639.4920556119249 
+Customers in queue: 5 
+Arrivals: 3192 
+Departures: 3187 
+
+Monitor at: 640.0584981849458 
+Customers in queue: 5 
+Arrivals: 3195 
+Departures: 3190 
+
+Monitor at: 640.1710681624561 
+Customers in queue: 3 
+Arrivals: 3196 
+Departures: 3193 
+
+Monitor at: 641.6194267679807 
+Customers in queue: 2 
+Arrivals: 3203 
+Departures: 3201 
+
+Monitor at: 642.2651725558499 
+Customers in queue: 0 
+Arrivals: 3206 
+Departures: 3206 
+
+Monitor at: 643.6965174426587 
+Customers in queue: 0 
+Arrivals: 3210 
+Departures: 3210 
+
+Monitor at: 643.7309456624278 
+Customers in queue: 0 
+Arrivals: 3210 
+Departures: 3210 
+
+Monitor at: 643.9971946383764 
+Customers in queue: 0 
+Arrivals: 3211 
+Departures: 3211 
+
+Monitor at: 644.2938607722294 
+Customers in queue: 0 
+Arrivals: 3214 
+Departures: 3214 
+
+Monitor at: 644.9590037466012 
+Customers in queue: 1 
+Arrivals: 3217 
+Departures: 3216 
+
+Monitor at: 645.4771423965176 
+Customers in queue: 0 
+Arrivals: 3218 
+Departures: 3218 
+
+Monitor at: 645.6747678346904 
+Customers in queue: 1 
+Arrivals: 3219 
+Departures: 3218 
+
+Monitor at: 647.4206696267663 
+Customers in queue: 8 
+Arrivals: 3230 
+Departures: 3222 
+
+Monitor at: 647.7206774656443 
+Customers in queue: 9 
+Arrivals: 3232 
+Departures: 3223 
+
+Monitor at: 647.8802954259378 
+Customers in queue: 9 
+Arrivals: 3232 
+Departures: 3223 
+
+Monitor at: 649.1547307434012 
+Customers in queue: 8 
+Arrivals: 3237 
+Departures: 3229 
+
+Monitor at: 649.2866446897297 
+Customers in queue: 8 
+Arrivals: 3238 
+Departures: 3230 
+
+Monitor at: 650.2000118262861 
+Customers in queue: 6 
+Arrivals: 3241 
+Departures: 3235 
+
+Monitor at: 651.3611447402527 
+Customers in queue: 1 
+Arrivals: 3246 
+Departures: 3245 
+
+Monitor at: 652.9961082022849 
+Customers in queue: 0 
+Arrivals: 3253 
+Departures: 3253 
+
+Monitor at: 653.8836237425558 
+Customers in queue: 0 
+Arrivals: 3258 
+Departures: 3258 
+
+Monitor at: 654.2754825754462 
+Customers in queue: 3 
+Arrivals: 3262 
+Departures: 3259 
+
+Monitor at: 654.6983864590815 
+Customers in queue: 2 
+Arrivals: 3265 
+Departures: 3263 
+
+Monitor at: 656.0149297937093 
+Customers in queue: 1 
+Arrivals: 3270 
+Departures: 3269 
+
+Monitor at: 656.4609461033563 
+Customers in queue: 1 
+Arrivals: 3271 
+Departures: 3270 
+
+Monitor at: 657.0344452521773 
+Customers in queue: 0 
+Arrivals: 3272 
+Departures: 3272 
+
+Monitor at: 659.7755666600868 
+Customers in queue: 1 
+Arrivals: 3286 
+Departures: 3285 
+
+Monitor at: 663.0945198792576 
+Customers in queue: 1 
+Arrivals: 3295 
+Departures: 3294 
+
+Monitor at: 664.9880907594577 
+Customers in queue: 0 
+Arrivals: 3304 
+Departures: 3304 
+
+Monitor at: 665.0740811958741 
+Customers in queue: 0 
+Arrivals: 3304 
+Departures: 3304 
+
+Monitor at: 666.5523677910959 
+Customers in queue: 5 
+Arrivals: 3312 
+Departures: 3307 
+
+Monitor at: 667.3984934305785 
+Customers in queue: 1 
+Arrivals: 3314 
+Departures: 3313 
+
+Monitor at: 667.5246129265577 
+Customers in queue: 1 
+Arrivals: 3314 
+Departures: 3313 
+
+Monitor at: 668.1307194830431 
+Customers in queue: 1 
+Arrivals: 3319 
+Departures: 3318 
+
+Monitor at: 670.5906305284935 
+Customers in queue: 0 
+Arrivals: 3328 
+Departures: 3328 
+
+Monitor at: 670.9846718622758 
+Customers in queue: 1 
+Arrivals: 3329 
+Departures: 3328 
+
+Monitor at: 671.0801827912844 
+Customers in queue: 2 
+Arrivals: 3330 
+Departures: 3328 
+
+Monitor at: 674.2405401213556 
+Customers in queue: 9 
+Arrivals: 3352 
+Departures: 3343 
+
+Monitor at: 674.6945668356902 
+Customers in queue: 12 
+Arrivals: 3355 
+Departures: 3343 
+
+Monitor at: 674.9872165036718 
+Customers in queue: 11 
+Arrivals: 3356 
+Departures: 3345 
+
+Monitor at: 676.5414354026356 
+Customers in queue: 7 
+Arrivals: 3363 
+Departures: 3356 
+
+Monitor at: 677.9093806368048 
+Customers in queue: 6 
+Arrivals: 3370 
+Departures: 3364 
+
+Monitor at: 679.3681238106158 
+Customers in queue: 6 
+Arrivals: 3381 
+Departures: 3375 
+
+Monitor at: 680.9128515211477 
+Customers in queue: 0 
+Arrivals: 3385 
+Departures: 3385 
+
+Monitor at: 681.9299989631182 
+Customers in queue: 1 
+Arrivals: 3390 
+Departures: 3389 
+
+Monitor at: 683.0581355003201 
+Customers in queue: 0 
+Arrivals: 3398 
+Departures: 3398 
+
+Monitor at: 684.2049776143343 
+Customers in queue: 0 
+Arrivals: 3407 
+Departures: 3407 
+
+Monitor at: 685.2349314818591 
+Customers in queue: 0 
+Arrivals: 3413 
+Departures: 3413 
+
+Monitor at: 685.6025743466348 
+Customers in queue: 0 
+Arrivals: 3414 
+Departures: 3414 
+
+Monitor at: 686.5117691378409 
+Customers in queue: 1 
+Arrivals: 3419 
+Departures: 3418 
+
+Monitor at: 687.3906834763249 
+Customers in queue: 0 
+Arrivals: 3424 
+Departures: 3424 
+
+Monitor at: 689.4509923039067 
+Customers in queue: 2 
+Arrivals: 3437 
+Departures: 3435 
+
+Monitor at: 689.946614356577 
+Customers in queue: 1 
+Arrivals: 3439 
+Departures: 3438 
+
+Monitor at: 691.223143753202 
+Customers in queue: 3 
+Arrivals: 3447 
+Departures: 3444 
+
+Monitor at: 691.4837814575045 
+Customers in queue: 1 
+Arrivals: 3448 
+Departures: 3447 
+
+Monitor at: 692.1231719083853 
+Customers in queue: 1 
+Arrivals: 3450 
+Departures: 3449 
+
+Monitor at: 693.2683207934556 
+Customers in queue: 0 
+Arrivals: 3454 
+Departures: 3454 
+
+Monitor at: 693.6543399412586 
+Customers in queue: 0 
+Arrivals: 3454 
+Departures: 3454 
+
+Monitor at: 693.7739992950042 
+Customers in queue: 1 
+Arrivals: 3455 
+Departures: 3454 
+
+Monitor at: 693.8785437084916 
+Customers in queue: 1 
+Arrivals: 3455 
+Departures: 3454 
+
+Monitor at: 695.1353993956733 
+Customers in queue: 0 
+Arrivals: 3459 
+Departures: 3459 
+
+Monitor at: 696.4886661526502 
+Customers in queue: 0 
+Arrivals: 3462 
+Departures: 3462 
+
+Monitor at: 696.839111974676 
+Customers in queue: 1 
+Arrivals: 3463 
+Departures: 3462 
+
+Monitor at: 697.8500458402915 
+Customers in queue: 1 
+Arrivals: 3470 
+Departures: 3469 
+
+Monitor at: 697.9440096378846 
+Customers in queue: 2 
+Arrivals: 3471 
+Departures: 3469 
+
+Monitor at: 698.521015920353 
+Customers in queue: 1 
+Arrivals: 3472 
+Departures: 3471 
+
+Monitor at: 700.4436747781198 
+Customers in queue: 1 
+Arrivals: 3480 
+Departures: 3479 
+
+Monitor at: 704.6268954821666 
+Customers in queue: 0 
+Arrivals: 3497 
+Departures: 3497 
+
+Monitor at: 707.3059075664519 
+Customers in queue: 1 
+Arrivals: 3507 
+Departures: 3506 
+
+Monitor at: 707.4790405824903 
+Customers in queue: 1 
+Arrivals: 3507 
+Departures: 3506 
+
+Monitor at: 707.75615866958 
+Customers in queue: 2 
+Arrivals: 3508 
+Departures: 3506 
+
+Monitor at: 709.3493683719869 
+Customers in queue: 3 
+Arrivals: 3513 
+Departures: 3510 
+
+Monitor at: 710.0993447776358 
+Customers in queue: 4 
+Arrivals: 3518 
+Departures: 3514 
+
+Monitor at: 712.0670306154822 
+Customers in queue: 0 
+Arrivals: 3534 
+Departures: 3534 
+
+Monitor at: 712.4373416996156 
+Customers in queue: 1 
+Arrivals: 3536 
+Departures: 3535 
+
+Monitor at: 714.3120551822634 
+Customers in queue: 1 
+Arrivals: 3545 
+Departures: 3544 
+
+Monitor at: 714.9799999364241 
+Customers in queue: 1 
+Arrivals: 3549 
+Departures: 3548 
+
+Monitor at: 716.4889839135285 
+Customers in queue: 0 
+Arrivals: 3556 
+Departures: 3556 
+
+Monitor at: 716.5982906185844 
+Customers in queue: 0 
+Arrivals: 3556 
+Departures: 3556 
+
+Monitor at: 717.3299329243091 
+Customers in queue: 1 
+Arrivals: 3557 
+Departures: 3556 
+
+Monitor at: 718.8079195598378 
+Customers in queue: 5 
+Arrivals: 3566 
+Departures: 3561 
+
+Monitor at: 719.0582319024187 
+Customers in queue: 7 
+Arrivals: 3568 
+Departures: 3561 
+
+Monitor at: 719.8253975954946 
+Customers in queue: 4 
+Arrivals: 3570 
+Departures: 3566 
+
+Monitor at: 720.9856390582255 
+Customers in queue: 1 
+Arrivals: 3573 
+Departures: 3572 
+
+Monitor at: 721.4193625047994 
+Customers in queue: 4 
+Arrivals: 3576 
+Departures: 3572 
+
+Monitor at: 721.5054847383519 
+Customers in queue: 4 
+Arrivals: 3576 
+Departures: 3572 
+
+Monitor at: 721.8834812711149 
+Customers in queue: 3 
+Arrivals: 3579 
+Departures: 3576 
+
+Monitor at: 722.3104419672206 
+Customers in queue: 3 
+Arrivals: 3582 
+Departures: 3579 
+
+Monitor at: 723.3054392791475 
+Customers in queue: 1 
+Arrivals: 3586 
+Departures: 3585 
+
+Monitor at: 724.1027284513804 
+Customers in queue: 1 
+Arrivals: 3588 
+Departures: 3587 
+
+Monitor at: 725.2418562980472 
+Customers in queue: 0 
+Arrivals: 3593 
+Departures: 3593 
+
+Monitor at: 726.3045865662164 
+Customers in queue: 0 
+Arrivals: 3596 
+Departures: 3596 
+
+Monitor at: 729.2219341813807 
+Customers in queue: 1 
+Arrivals: 3609 
+Departures: 3608 
+
+Monitor at: 729.7525928649068 
+Customers in queue: 0 
+Arrivals: 3610 
+Departures: 3610 
+
+Monitor at: 732.4125862719451 
+Customers in queue: 2 
+Arrivals: 3622 
+Departures: 3620 
+
+Monitor at: 732.9638016528266 
+Customers in queue: 4 
+Arrivals: 3626 
+Departures: 3622 
+
+Monitor at: 732.9771341706635 
+Customers in queue: 3 
+Arrivals: 3626 
+Departures: 3623 
+
+Monitor at: 733.0047709328076 
+Customers in queue: 3 
+Arrivals: 3626 
+Departures: 3623 
+
+Monitor at: 733.0360588688171 
+Customers in queue: 3 
+Arrivals: 3626 
+Departures: 3623 
+
+Monitor at: 733.1792985138172 
+Customers in queue: 3 
+Arrivals: 3627 
+Departures: 3624 
+
+Monitor at: 733.5068353472365 
+Customers in queue: 0 
+Arrivals: 3629 
+Departures: 3629 
+
+Monitor at: 735.508337733308 
+Customers in queue: 5 
+Arrivals: 3638 
+Departures: 3633 
+
+Monitor at: 736.0279469230643 
+Customers in queue: 6 
+Arrivals: 3641 
+Departures: 3635 
+
+Monitor at: 737.3097194712067 
+Customers in queue: 9 
+Arrivals: 3650 
+Departures: 3641 
+
+Monitor at: 738.5422297349226 
+Customers in queue: 3 
+Arrivals: 3653 
+Departures: 3650 
+
+Monitor at: 739.4219079311335 
+Customers in queue: 1 
+Arrivals: 3657 
+Departures: 3656 
+
+Monitor at: 739.4768665518603 
+Customers in queue: 1 
+Arrivals: 3657 
+Departures: 3656 
+
+Monitor at: 741.5958656868356 
+Customers in queue: 3 
+Arrivals: 3669 
+Departures: 3666 
+
+Monitor at: 741.913923341608 
+Customers in queue: 4 
+Arrivals: 3671 
+Departures: 3667 
+
+Monitor at: 742.1133129193578 
+Customers in queue: 4 
+Arrivals: 3672 
+Departures: 3668 
+
+Monitor at: 743.5768682116484 
+Customers in queue: 0 
+Arrivals: 3678 
+Departures: 3678 
+
+Monitor at: 743.9266909491472 
+Customers in queue: 4 
+Arrivals: 3683 
+Departures: 3679 
+
+Monitor at: 743.9343340690465 
+Customers in queue: 4 
+Arrivals: 3683 
+Departures: 3679 
+
+Monitor at: 744.6135551263998 
+Customers in queue: 3 
+Arrivals: 3687 
+Departures: 3684 
+
+Monitor at: 745.677352270906 
+Customers in queue: 3 
+Arrivals: 3695 
+Departures: 3692 
+
+Monitor at: 746.4822919606116 
+Customers in queue: 4 
+Arrivals: 3697 
+Departures: 3693 
+
+Monitor at: 746.9337934555125 
+Customers in queue: 1 
+Arrivals: 3698 
+Departures: 3697 
+
+Monitor at: 748.8034269111863 
+Customers in queue: 1 
+Arrivals: 3705 
+Departures: 3704 
+
+Monitor at: 750.8523896902624 
+Customers in queue: 7 
+Arrivals: 3720 
+Departures: 3713 
+
+Monitor at: 758.9930655133702 
+Customers in queue: 4 
+Arrivals: 3768 
+Departures: 3764 
+
+Monitor at: 760.4278114655509 
+Customers in queue: 5 
+Arrivals: 3773 
+Departures: 3768 
+
+Monitor at: 761.8415297728434 
+Customers in queue: 10 
+Arrivals: 3783 
+Departures: 3773 
+
+Monitor at: 764.3480747823262 
+Customers in queue: 4 
+Arrivals: 3796 
+Departures: 3792 
+
+Monitor at: 765.0749573800695 
+Customers in queue: 3 
+Arrivals: 3801 
+Departures: 3798 
+
+Monitor at: 765.9141519428447 
+Customers in queue: 8 
+Arrivals: 3809 
+Departures: 3801 
+
+Monitor at: 766.1739279423458 
+Customers in queue: 10 
+Arrivals: 3811 
+Departures: 3801 
+
+Monitor at: 766.4212831747714 
+Customers in queue: 9 
+Arrivals: 3811 
+Departures: 3802 
+
+Monitor at: 767.6354012134033 
+Customers in queue: 9 
+Arrivals: 3817 
+Departures: 3808 
+
+Monitor at: 768.3454618061884 
+Customers in queue: 8 
+Arrivals: 3820 
+Departures: 3812 
+
+Monitor at: 768.397438644487 
+Customers in queue: 8 
+Arrivals: 3820 
+Departures: 3812 
+
+Monitor at: 770.4517640136012 
+Customers in queue: 4 
+Arrivals: 3829 
+Departures: 3825 
+
+Monitor at: 772.0497634043372 
+Customers in queue: 7 
+Arrivals: 3838 
+Departures: 3831 
+
+Monitor at: 774.16100010111 
+Customers in queue: 2 
+Arrivals: 3846 
+Departures: 3844 
+
+Monitor at: 778.6494475118312 
+Customers in queue: 2 
+Arrivals: 3862 
+Departures: 3860 
+
+Monitor at: 778.7594679048508 
+Customers in queue: 3 
+Arrivals: 3864 
+Departures: 3861 
+
+Monitor at: 779.1472698765035 
+Customers in queue: 0 
+Arrivals: 3864 
+Departures: 3864 
+
+Monitor at: 779.366754702034 
+Customers in queue: 4 
+Arrivals: 3870 
+Departures: 3866 
+
+Monitor at: 780.6966127716406 
+Customers in queue: 1 
+Arrivals: 3876 
+Departures: 3875 
+
+Monitor at: 781.0062281834815 
+Customers in queue: 1 
+Arrivals: 3876 
+Departures: 3875 
+
+Monitor at: 781.5582842135233 
+Customers in queue: 1 
+Arrivals: 3879 
+Departures: 3878 
+
+Monitor at: 782.3124126100196 
+Customers in queue: 0 
+Arrivals: 3883 
+Departures: 3883 
+
+Monitor at: 784.7120254120448 
+Customers in queue: 2 
+Arrivals: 3897 
+Departures: 3895 
+
+Monitor at: 784.7490235476145 
+Customers in queue: 2 
+Arrivals: 3897 
+Departures: 3895 
+
+Monitor at: 786.3813131568066 
+Customers in queue: 3 
+Arrivals: 3907 
+Departures: 3904 
+
+Monitor at: 786.5588289149509 
+Customers in queue: 2 
+Arrivals: 3907 
+Departures: 3905 
+
+Monitor at: 786.8787042338162 
+Customers in queue: 3 
+Arrivals: 3910 
+Departures: 3907 
+
+Monitor at: 788.51042731037 
+Customers in queue: 4 
+Arrivals: 3921 
+Departures: 3917 
+
+Monitor at: 788.8735602133088 
+Customers in queue: 1 
+Arrivals: 3922 
+Departures: 3921 
+
+Monitor at: 789.5140599225444 
+Customers in queue: 0 
+Arrivals: 3923 
+Departures: 3923 
+
+Monitor at: 790.8418997795104 
+Customers in queue: 3 
+Arrivals: 3926 
+Departures: 3923 
+
+Monitor at: 791.7493312982958 
+Customers in queue: 5 
+Arrivals: 3936 
+Departures: 3931 
+
+Monitor at: 792.484553929656 
+Customers in queue: 0 
+Arrivals: 3939 
+Departures: 3939 
+
+Monitor at: 793.2303811659333 
+Customers in queue: 3 
+Arrivals: 3942 
+Departures: 3939 
+
+Monitor at: 794.5380530015763 
+Customers in queue: 1 
+Arrivals: 3947 
+Departures: 3946 
+
+Monitor at: 794.7701643523343 
+Customers in queue: 0 
+Arrivals: 3948 
+Departures: 3948 
+
+Monitor at: 795.6821590721739 
+Customers in queue: 0 
+Arrivals: 3951 
+Departures: 3951 
+
+Monitor at: 796.0538545238918 
+Customers in queue: 2 
+Arrivals: 3953 
+Departures: 3951 
+
+Monitor at: 796.3881309754679 
+Customers in queue: 0 
+Arrivals: 3953 
+Departures: 3953 
+
+Monitor at: 798.5153676841245 
+Customers in queue: 4 
+Arrivals: 3965 
+Departures: 3961 
+
+Monitor at: 800.1018504749837 
+Customers in queue: 1 
+Arrivals: 3968 
+Departures: 3967 
+
+Monitor at: 803.0945716456906 
+Customers in queue: 1 
+Arrivals: 3982 
+Departures: 3981 
+
+Monitor at: 803.2418854140151 
+Customers in queue: 0 
+Arrivals: 3983 
+Departures: 3983 
+
+Monitor at: 803.4739573305412 
+Customers in queue: 0 
+Arrivals: 3983 
+Departures: 3983 
+
+Monitor at: 804.5614003299385 
+Customers in queue: 2 
+Arrivals: 3992 
+Departures: 3990 
+
+Monitor at: 806.2781730272529 
+Customers in queue: 9 
+Arrivals: 4007 
+Departures: 3998 
+
+Monitor at: 807.8595666334161 
+Customers in queue: 1 
+Arrivals: 4016 
+Departures: 4015 
+
+Monitor at: 807.9061677102436 
+Customers in queue: 1 
+Arrivals: 4016 
+Departures: 4015 
+
+Monitor at: 808.3669919148074 
+Customers in queue: 2 
+Arrivals: 4018 
+Departures: 4016 
+
+Monitor at: 809.0035239005855 
+Customers in queue: 4 
+Arrivals: 4023 
+Departures: 4019 
+
+Monitor at: 810.9204088736104 
+Customers in queue: 1 
+Arrivals: 4031 
+Departures: 4030 
+
+Monitor at: 811.0355172667714 
+Customers in queue: 2 
+Arrivals: 4032 
+Departures: 4030 
+
+Monitor at: 812.8909620623983 
+Customers in queue: 4 
+Arrivals: 4042 
+Departures: 4038 
+
+Monitor at: 814.6558297390669 
+Customers in queue: 3 
+Arrivals: 4049 
+Departures: 4046 
+
+Monitor at: 815.7118938651328 
+Customers in queue: 1 
+Arrivals: 4051 
+Departures: 4050 
+
+Monitor at: 816.0916941833026 
+Customers in queue: 1 
+Arrivals: 4053 
+Departures: 4052 
+
+Monitor at: 823.7239911480926 
+Customers in queue: 1 
+Arrivals: 4096 
+Departures: 4095 
+
+Monitor at: 824.1462529903544 
+Customers in queue: 3 
+Arrivals: 4098 
+Departures: 4095 
+
+Monitor at: 824.4535714722244 
+Customers in queue: 5 
+Arrivals: 4100 
+Departures: 4095 
+
+Monitor at: 824.4869740319244 
+Customers in queue: 5 
+Arrivals: 4102 
+Departures: 4097 
+
+Monitor at: 825.1111990898391 
+Customers in queue: 0 
+Arrivals: 4103 
+Departures: 4103 
+
+Monitor at: 826.8662854621736 
+Customers in queue: 0 
+Arrivals: 4111 
+Departures: 4111 
+
+Monitor at: 827.5607255111418 
+Customers in queue: 2 
+Arrivals: 4113 
+Departures: 4111 
+
+Monitor at: 831.7146608191113 
+Customers in queue: 0 
+Arrivals: 4141 
+Departures: 4141 
+
+Monitor at: 832.2364504146316 
+Customers in queue: 0 
+Arrivals: 4145 
+Departures: 4145 
+
+Monitor at: 833.1903918664701 
+Customers in queue: 0 
+Arrivals: 4148 
+Departures: 4148 
+
+Monitor at: 833.3313897955496 
+Customers in queue: 3 
+Arrivals: 4151 
+Departures: 4148 
+
+Monitor at: 835.8390032707515 
+Customers in queue: 3 
+Arrivals: 4167 
+Departures: 4164 
+
+Monitor at: 836.0761425142781 
+Customers in queue: 3 
+Arrivals: 4169 
+Departures: 4166 
+
+Monitor at: 836.1149639708553 
+Customers in queue: 4 
+Arrivals: 4170 
+Departures: 4166 
+
+Monitor at: 836.5016890550115 
+Customers in queue: 5 
+Arrivals: 4172 
+Departures: 4167 
+
+Monitor at: 836.805493582609 
+Customers in queue: 4 
+Arrivals: 4174 
+Departures: 4170 
+
+Monitor at: 837.5576261206048 
+Customers in queue: 0 
+Arrivals: 4177 
+Departures: 4177 
+
+Monitor at: 837.9396041726555 
+Customers in queue: 1 
+Arrivals: 4178 
+Departures: 4177 
+
+Monitor at: 838.2482365732271 
+Customers in queue: 3 
+Arrivals: 4180 
+Departures: 4177 
+
+Monitor at: 838.3485203331559 
+Customers in queue: 0 
+Arrivals: 4180 
+Departures: 4180 
+
+Monitor at: 840.0663861875557 
+Customers in queue: 0 
+Arrivals: 4190 
+Departures: 4190 
+
+Monitor at: 841.628396941676 
+Customers in queue: 1 
+Arrivals: 4199 
+Departures: 4198 
+
+Monitor at: 841.8824496040527 
+Customers in queue: 1 
+Arrivals: 4200 
+Departures: 4199 
+
+Monitor at: 847.2008524717653 
+Customers in queue: 2 
+Arrivals: 4226 
+Departures: 4224 
+
+Monitor at: 847.5023443715522 
+Customers in queue: 1 
+Arrivals: 4229 
+Departures: 4228 
+
+Monitor at: 847.6000258053247 
+Customers in queue: 1 
+Arrivals: 4229 
+Departures: 4228 
+
+Monitor at: 848.3053728927223 
+Customers in queue: 1 
+Arrivals: 4232 
+Departures: 4231 
+
+Monitor at: 849.0415163871064 
+Customers in queue: 1 
+Arrivals: 4238 
+Departures: 4237 
+
+Monitor at: 849.2693319489764 
+Customers in queue: 0 
+Arrivals: 4238 
+Departures: 4238 
+
+Monitor at: 850.5716994685172 
+Customers in queue: 1 
+Arrivals: 4243 
+Departures: 4242 
+
+Monitor at: 851.561661547475 
+Customers in queue: 5 
+Arrivals: 4250 
+Departures: 4245 
+
+Monitor at: 851.8142057962917 
+Customers in queue: 2 
+Arrivals: 4250 
+Departures: 4248 
+
+Monitor at: 852.3576217285674 
+Customers in queue: 3 
+Arrivals: 4254 
+Departures: 4251 
+
+Monitor at: 853.3929357168834 
+Customers in queue: 2 
+Arrivals: 4260 
+Departures: 4258 
+
+Monitor at: 853.5260598716868 
+Customers in queue: 1 
+Arrivals: 4260 
+Departures: 4259 
+
+Monitor at: 853.8059416566074 
+Customers in queue: 2 
+Arrivals: 4263 
+Departures: 4261 
+
+Monitor at: 854.8436816880856 
+Customers in queue: 2 
+Arrivals: 4268 
+Departures: 4266 
+
+Monitor at: 857.3764648228538 
+Customers in queue: 1 
+Arrivals: 4283 
+Departures: 4282 
+
+Monitor at: 857.5691024349895 
+Customers in queue: 0 
+Arrivals: 4283 
+Departures: 4283 
+
+Monitor at: 858.4145921253399 
+Customers in queue: 0 
+Arrivals: 4285 
+Departures: 4285 
+
+Monitor at: 858.4465880202924 
+Customers in queue: 0 
+Arrivals: 4285 
+Departures: 4285 
+
+Monitor at: 858.8254890314261 
+Customers in queue: 2 
+Arrivals: 4287 
+Departures: 4285 
+
+Monitor at: 859.3437925805586 
+Customers in queue: 0 
+Arrivals: 4293 
+Departures: 4293 
+
+Monitor at: 859.6124823577846 
+Customers in queue: 1 
+Arrivals: 4295 
+Departures: 4294 
+
+Monitor at: 859.7365103665574 
+Customers in queue: 2 
+Arrivals: 4296 
+Departures: 4294 
+
+Monitor at: 861.3010576568903 
+Customers in queue: 0 
+Arrivals: 4300 
+Departures: 4300 
+
+Monitor at: 861.4797562876464 
+Customers in queue: 1 
+Arrivals: 4301 
+Departures: 4300 
+
+Monitor at: 861.8429565339364 
+Customers in queue: 0 
+Arrivals: 4302 
+Departures: 4302 
+
+Monitor at: 863.0509938441236 
+Customers in queue: 1 
+Arrivals: 4309 
+Departures: 4308 
+
+Monitor at: 864.6923350215756 
+Customers in queue: 2 
+Arrivals: 4317 
+Departures: 4315 
+
+Monitor at: 865.3783193690796 
+Customers in queue: 0 
+Arrivals: 4319 
+Departures: 4319 
+
+Monitor at: 866.9194049940622 
+Customers in queue: 0 
+Arrivals: 4323 
+Departures: 4323 
+
+Monitor at: 866.9826901705263 
+Customers in queue: 0 
+Arrivals: 4323 
+Departures: 4323 
+
+Monitor at: 867.1132408212469 
+Customers in queue: 1 
+Arrivals: 4325 
+Departures: 4324 
+
+Monitor at: 867.2450965452397 
+Customers in queue: 1 
+Arrivals: 4325 
+Departures: 4324 
+
+Monitor at: 869.4133496739572 
+Customers in queue: 0 
+Arrivals: 4335 
+Departures: 4335 
+
+Monitor at: 870.3719195249557 
+Customers in queue: 2 
+Arrivals: 4342 
+Departures: 4340 
+
+Monitor at: 875.4572206433305 
+Customers in queue: 4 
+Arrivals: 4364 
+Departures: 4360 
+
+Monitor at: 876.6843309217456 
+Customers in queue: 1 
+Arrivals: 4367 
+Departures: 4366 
+
+Monitor at: 878.5252835300196 
+Customers in queue: 1 
+Arrivals: 4375 
+Departures: 4374 
+
+Monitor at: 880.6787272610227 
+Customers in queue: 0 
+Arrivals: 4386 
+Departures: 4386 
+
+Monitor at: 882.3584039697322 
+Customers in queue: 1 
+Arrivals: 4392 
+Departures: 4391 
+
+Monitor at: 882.5293011705116 
+Customers in queue: 3 
+Arrivals: 4394 
+Departures: 4391 
+
+Monitor at: 886.8338544246873 
+Customers in queue: 0 
+Arrivals: 4413 
+Departures: 4413 
+
+Monitor at: 887.2096581488728 
+Customers in queue: 2 
+Arrivals: 4417 
+Departures: 4415 
+
+Monitor at: 887.6492616268661 
+Customers in queue: 2 
+Arrivals: 4420 
+Departures: 4418 
+
+Monitor at: 889.1126630442498 
+Customers in queue: 0 
+Arrivals: 4430 
+Departures: 4430 
+
+Monitor at: 891.8692650807095 
+Customers in queue: 0 
+Arrivals: 4441 
+Departures: 4441 
+
+Monitor at: 894.9118133175257 
+Customers in queue: 2 
+Arrivals: 4450 
+Departures: 4448 
+
+Monitor at: 894.9333813570869 
+Customers in queue: 2 
+Arrivals: 4450 
+Departures: 4448 
+
+Monitor at: 896.8326273523581 
+Customers in queue: 3 
+Arrivals: 4463 
+Departures: 4460 
+
+Monitor at: 897.1082465581138 
+Customers in queue: 1 
+Arrivals: 4464 
+Departures: 4463 
+
+Monitor at: 898.7158427982868 
+Customers in queue: 0 
+Arrivals: 4465 
+Departures: 4465 
+
+Monitor at: 898.9362310303321 
+Customers in queue: 1 
+Arrivals: 4466 
+Departures: 4465 
+
+Monitor at: 899.2175929064903 
+Customers in queue: 0 
+Arrivals: 4466 
+Departures: 4466 
+
+Monitor at: 903.5673808314729 
+Customers in queue: 6 
+Arrivals: 4489 
+Departures: 4483 
+
+Monitor at: 904.0031489784791 
+Customers in queue: 5 
+Arrivals: 4490 
+Departures: 4485 
+
+Monitor at: 904.2065977698363 
+Customers in queue: 5 
+Arrivals: 4491 
+Departures: 4486 
+
+Monitor at: 904.6255936733239 
+Customers in queue: 3 
+Arrivals: 4491 
+Departures: 4488 
+
+Monitor at: 906.0904815547391 
+Customers in queue: 5 
+Arrivals: 4502 
+Departures: 4497 
+
+Monitor at: 907.0217655568795 
+Customers in queue: 4 
+Arrivals: 4508 
+Departures: 4504 
+
+Monitor at: 907.5731325167885 
+Customers in queue: 7 
+Arrivals: 4513 
+Departures: 4506 
+
+Monitor at: 907.66591639172 
+Customers in queue: 7 
+Arrivals: 4513 
+Departures: 4506 
+
+Monitor at: 909.2144693644912 
+Customers in queue: 4 
+Arrivals: 4522 
+Departures: 4518 
+
+Monitor at: 909.2711955806525 
+Customers in queue: 3 
+Arrivals: 4522 
+Departures: 4519 
+
+Monitor at: 911.8946535119267 
+Customers in queue: 0 
+Arrivals: 4530 
+Departures: 4530 
+
+Monitor at: 913.2428522837253 
+Customers in queue: 3 
+Arrivals: 4533 
+Departures: 4530 
+
+Monitor at: 913.2717045516656 
+Customers in queue: 3 
+Arrivals: 4533 
+Departures: 4530 
+
+Monitor at: 913.3104468787262 
+Customers in queue: 3 
+Arrivals: 4534 
+Departures: 4531 
+
+Monitor at: 913.460279959105 
+Customers in queue: 4 
+Arrivals: 4535 
+Departures: 4531 
+
+Monitor at: 914.0347032272742 
+Customers in queue: 1 
+Arrivals: 4538 
+Departures: 4537 
+
+Monitor at: 915.2773242222277 
+Customers in queue: 3 
+Arrivals: 4544 
+Departures: 4541 
+
+Monitor at: 916.821205479689 
+Customers in queue: 0 
+Arrivals: 4548 
+Departures: 4548 
+
+Monitor at: 916.908147488197 
+Customers in queue: 0 
+Arrivals: 4548 
+Departures: 4548 
+
+Monitor at: 917.5259521541662 
+Customers in queue: 1 
+Arrivals: 4552 
+Departures: 4551 
+
+Monitor at: 918.0128406798532 
+Customers in queue: 1 
+Arrivals: 4553 
+Departures: 4552 
+
+Monitor at: 919.2687733420928 
+Customers in queue: 1 
+Arrivals: 4559 
+Departures: 4558 
+
+Monitor at: 919.6046443116027 
+Customers in queue: 1 
+Arrivals: 4560 
+Departures: 4559 
+
+Monitor at: 921.202024380998 
+Customers in queue: 0 
+Arrivals: 4568 
+Departures: 4568 
+
+Monitor at: 922.9914918231946 
+Customers in queue: 1 
+Arrivals: 4582 
+Departures: 4581 
+
+Monitor at: 926.0178895288275 
+Customers in queue: 2 
+Arrivals: 4599 
+Departures: 4597 
+
+Monitor at: 927.4819977046296 
+Customers in queue: 1 
+Arrivals: 4606 
+Departures: 4605 
+
+Monitor at: 927.5373011305999 
+Customers in queue: 1 
+Arrivals: 4606 
+Departures: 4605 
+
+Monitor at: 928.6528143763139 
+Customers in queue: 2 
+Arrivals: 4607 
+Departures: 4605 
+
+Monitor at: 928.6902154078396 
+Customers in queue: 2 
+Arrivals: 4607 
+Departures: 4605 
+
+Monitor at: 928.8739507270609 
+Customers in queue: 1 
+Arrivals: 4609 
+Departures: 4608 
+
+Monitor at: 929.753170895294 
+Customers in queue: 2 
+Arrivals: 4613 
+Departures: 4611 
+
+Monitor at: 930.2688834265995 
+Customers in queue: 1 
+Arrivals: 4616 
+Departures: 4615 
+
+Monitor at: 931.2194466882905 
+Customers in queue: 0 
+Arrivals: 4617 
+Departures: 4617 
+
+Monitor at: 932.1733822587198 
+Customers in queue: 0 
+Arrivals: 4623 
+Departures: 4623 
+
+Monitor at: 932.5540071484567 
+Customers in queue: 0 
+Arrivals: 4624 
+Departures: 4624 
+
+Monitor at: 933.3872279066611 
+Customers in queue: 0 
+Arrivals: 4629 
+Departures: 4629 
+
+Monitor at: 933.804049066239 
+Customers in queue: 5 
+Arrivals: 4634 
+Departures: 4629 
+
+Monitor at: 934.19754120748 
+Customers in queue: 8 
+Arrivals: 4637 
+Departures: 4629 
+
+Monitor at: 934.3817037510047 
+Customers in queue: 9 
+Arrivals: 4638 
+Departures: 4629 
+
+Monitor at: 934.5161058831279 
+Customers in queue: 8 
+Arrivals: 4638 
+Departures: 4630 
+
+Monitor at: 934.7836214706343 
+Customers in queue: 9 
+Arrivals: 4639 
+Departures: 4630 
+
+Monitor at: 936.287874385426 
+Customers in queue: 11 
+Arrivals: 4649 
+Departures: 4638 
+
+Monitor at: 939.801882659626 
+Customers in queue: 5 
+Arrivals: 4668 
+Departures: 4663 
+
+Monitor at: 940.569473604649 
+Customers in queue: 3 
+Arrivals: 4673 
+Departures: 4670 
+
+Monitor at: 940.643379371659 
+Customers in queue: 2 
+Arrivals: 4673 
+Departures: 4671 
+
+Monitor at: 942.6018088638593 
+Customers in queue: 0 
+Arrivals: 4677 
+Departures: 4677 
+
+Monitor at: 942.9269815993347 
+Customers in queue: 2 
+Arrivals: 4681 
+Departures: 4679 
+
+Monitor at: 943.1968947616999 
+Customers in queue: 3 
+Arrivals: 4684 
+Departures: 4681 
+
+Monitor at: 943.2119502716474 
+Customers in queue: 3 
+Arrivals: 4684 
+Departures: 4681 
+
+Monitor at: 947.8954865574316 
+Customers in queue: 0 
+Arrivals: 4706 
+Departures: 4706 
+
+Monitor at: 948.3066044097342 
+Customers in queue: 1 
+Arrivals: 4709 
+Departures: 4708 
+
+Monitor at: 949.8734402619166 
+Customers in queue: 1 
+Arrivals: 4713 
+Departures: 4712 
+
+Monitor at: 953.2445709293997 
+Customers in queue: 1 
+Arrivals: 4733 
+Departures: 4732 
+
+Monitor at: 953.4816941689764 
+Customers in queue: 2 
+Arrivals: 4734 
+Departures: 4732 
+
+Monitor at: 953.9835669763846 
+Customers in queue: 2 
+Arrivals: 4737 
+Departures: 4735 
+
+Monitor at: 954.4682000966208 
+Customers in queue: 3 
+Arrivals: 4741 
+Departures: 4738 
+
+Monitor at: 954.6684539659433 
+Customers in queue: 1 
+Arrivals: 4741 
+Departures: 4740 
+
+Monitor at: 955.3048541602737 
+Customers in queue: 1 
+Arrivals: 4744 
+Departures: 4743 
+
+Monitor at: 955.9489749067748 
+Customers in queue: 0 
+Arrivals: 4745 
+Departures: 4745 
+
+Monitor at: 957.2846517025522 
+Customers in queue: 1 
+Arrivals: 4751 
+Departures: 4750 
+
+Monitor at: 958.3631602831426 
+Customers in queue: 0 
+Arrivals: 4754 
+Departures: 4754 
+
+Monitor at: 959.769583008663 
+Customers in queue: 0 
+Arrivals: 4757 
+Departures: 4757 
+
+Monitor at: 960.2497070856289 
+Customers in queue: 1 
+Arrivals: 4759 
+Departures: 4758 
+
+Monitor at: 960.5894562328041 
+Customers in queue: 0 
+Arrivals: 4760 
+Departures: 4760 
+
+Monitor at: 962.2165989880594 
+Customers in queue: 4 
+Arrivals: 4770 
+Departures: 4766 
+
+Monitor at: 964.300023529635 
+Customers in queue: 4 
+Arrivals: 4784 
+Departures: 4780 
+
+Monitor at: 966.7216766476799 
+Customers in queue: 1 
+Arrivals: 4795 
+Departures: 4794 
+
+Monitor at: 971.2707081750256 
+Customers in queue: 3 
+Arrivals: 4819 
+Departures: 4816 
+
+Monitor at: 971.7346641009515 
+Customers in queue: 4 
+Arrivals: 4822 
+Departures: 4818 
+
+Monitor at: 975.2814776192566 
+Customers in queue: 2 
+Arrivals: 4839 
+Departures: 4837 
+
+Monitor at: 976.4484311875239 
+Customers in queue: 4 
+Arrivals: 4849 
+Departures: 4845 
+
+Monitor at: 976.5991624655536 
+Customers in queue: 3 
+Arrivals: 4850 
+Departures: 4847 
+
+Monitor at: 976.6442529893338 
+Customers in queue: 2 
+Arrivals: 4850 
+Departures: 4848 
+
+Monitor at: 977.7093747691245 
+Customers in queue: 2 
+Arrivals: 4854 
+Departures: 4852 
+
+Monitor at: 977.7491175226868 
+Customers in queue: 1 
+Arrivals: 4854 
+Departures: 4853 
+
+Monitor at: 977.9816229660385 
+Customers in queue: 0 
+Arrivals: 4854 
+Departures: 4854 
+
+Monitor at: 978.19655714345 
+Customers in queue: 0 
+Arrivals: 4854 
+Departures: 4854 
+
+Monitor at: 978.5373261238299 
+Customers in queue: 2 
+Arrivals: 4856 
+Departures: 4854 
+
+Monitor at: 979.458538013555 
+Customers in queue: 2 
+Arrivals: 4861 
+Departures: 4859 
+
+Monitor at: 981.1995670109729 
+Customers in queue: 4 
+Arrivals: 4868 
+Departures: 4864 
+
+Monitor at: 981.8423383730094 
+Customers in queue: 0 
+Arrivals: 4872 
+Departures: 4872 
+
+Monitor at: 985.7035726846431 
+Customers in queue: 0 
+Arrivals: 4889 
+Departures: 4889 
+
+Monitor at: 985.7285166155219 
+Customers in queue: 0 
+Arrivals: 4889 
+Departures: 4889 
+
+Monitor at: 985.9967574063741 
+Customers in queue: 0 
+Arrivals: 4889 
+Departures: 4889 
+
+Monitor at: 986.8930960329126 
+Customers in queue: 2 
+Arrivals: 4891 
+Departures: 4889 
+
+Monitor at: 989.1589159861005 
+Customers in queue: 3 
+Arrivals: 4900 
+Departures: 4897 
+
+Monitor at: 989.3256715018937 
+Customers in queue: 3 
+Arrivals: 4900 
+Departures: 4897 
+
+Monitor at: 990.0976419595777 
+Customers in queue: 1 
+Arrivals: 4901 
+Departures: 4900 
+
+Monitor at: 990.6786291868793 
+Customers in queue: 1 
+Arrivals: 4904 
+Departures: 4903 
+
+Monitor at: 990.8589814106285 
+Customers in queue: 1 
+Arrivals: 4905 
+Departures: 4904 
+
+Monitor at: 991.3507358471634 
+Customers in queue: 2 
+Arrivals: 4907 
+Departures: 4905 
+
+Monitor at: 991.3543127117996 
+Customers in queue: 2 
+Arrivals: 4907 
+Departures: 4905 
+
+Monitor at: 991.8621569827312 
+Customers in queue: 5 
+Arrivals: 4912 
+Departures: 4907 
+
+Monitor at: 992.3267341220484 
+Customers in queue: 3 
+Arrivals: 4915 
+Departures: 4912 
+
+Monitor at: 992.6507676671868 
+Customers in queue: 2 
+Arrivals: 4916 
+Departures: 4914 
+
+Monitor at: 996.2102167308791 
+Customers in queue: 1 
+Arrivals: 4935 
+Departures: 4934 
+
+Monitor at: 996.527954399304 
+Customers in queue: 2 
+Arrivals: 4937 
+Departures: 4935 
+
+Monitor at: 999.0837565297239 
+Customers in queue: 1 
+Arrivals: 4953 
+Departures: 4952 
+
+Monitor at: 999.7648595677356 
+Customers in queue: 1 
+Arrivals: 4955 
+Departures: 4954 
+
+Monitor at: 1000.5931527240175 
+Customers in queue: 2 
+Arrivals: 4960 
+Departures: 4958 
+
+Monitor at: 1002.098673572884 
+Customers in queue: 3 
+Arrivals: 4973 
+Departures: 4970 
+
+Monitor at: 1002.3587779785603 
+Customers in queue: 3 
+Arrivals: 4974 
+Departures: 4971 
+
+Monitor at: 1002.6297460411278 
+Customers in queue: 4 
+Arrivals: 4975 
+Departures: 4971 
+
+Monitor at: 1002.6547767259184 
+Customers in queue: 5 
+Arrivals: 4976 
+Departures: 4971 
+
+Monitor at: 1002.9721833515025 
+Customers in queue: 9 
+Arrivals: 4980 
+Departures: 4971 
+
+Monitor at: 1003.1800883586063 
+Customers in queue: 11 
+Arrivals: 4982 
+Departures: 4971 
+
+Monitor at: 1003.2160707110626 
+Customers in queue: 10 
+Arrivals: 4982 
+Departures: 4972 
+
+Monitor at: 1003.6250691819617 
+Customers in queue: 12 
+Arrivals: 4984 
+Departures: 4972 
+
+Monitor at: 1006.2170980308846 
+Customers in queue: 8 
+Arrivals: 5000 
+Departures: 4992 
+
+Monitor at: 1007.6006490930937 
+Customers in queue: 5 
+Arrivals: 5002 
+Departures: 4997 
+
+Monitor at: 1008.9858848976418 
+Customers in queue: 3 
+Arrivals: 5008 
+Departures: 5005 
+
+Monitor at: 1009.0655872389145 
+Customers in queue: 4 
+Arrivals: 5009 
+Departures: 5005 
+
+Monitor at: 1009.12898320549 
+Customers in queue: 5 
+Arrivals: 5010 
+Departures: 5005 
+
+Monitor at: 1009.6571888948146 
+Customers in queue: 0 
+Arrivals: 5010 
+Departures: 5010 
+
+Monitor at: 1010.2933824621462 
+Customers in queue: 2 
+Arrivals: 5013 
+Departures: 5011 
+
+Monitor at: 1010.9575443250056 
+Customers in queue: 0 
+Arrivals: 5013 
+Departures: 5013 
+
+Monitor at: 1012.188870592113 
+Customers in queue: 1 
+Arrivals: 5017 
+Departures: 5016 
+
+Monitor at: 1012.4242149596528 
+Customers in queue: 3 
+Arrivals: 5020 
+Departures: 5017 
+
+Monitor at: 1013.8863528982292 
+Customers in queue: 1 
+Arrivals: 5026 
+Departures: 5025 
+
+Monitor at: 1014.1288583396982 
+Customers in queue: 1 
+Arrivals: 5026 
+Departures: 5025 
+
+Monitor at: 1014.6916084045221 
+Customers in queue: 5 
+Arrivals: 5031 
+Departures: 5026 
+
+Monitor at: 1015.2418032790431 
+Customers in queue: 9 
+Arrivals: 5035 
+Departures: 5026 
+
+Monitor at: 1016.5732771313 
+Customers in queue: 10 
+Arrivals: 5042 
+Departures: 5032 
+
+Monitor at: 1016.9219769514043 
+Customers in queue: 8 
+Arrivals: 5043 
+Departures: 5035 
+
+Monitor at: 1019.1518654037669 
+Customers in queue: 4 
+Arrivals: 5055 
+Departures: 5051 
+
+Monitor at: 1019.8979492900254 
+Customers in queue: 0 
+Arrivals: 5057 
+Departures: 5057 
+
+Monitor at: 1020.7625878716291 
+Customers in queue: 1 
+Arrivals: 5058 
+Departures: 5057 
+
+Monitor at: 1020.9412043855697 
+Customers in queue: 1 
+Arrivals: 5058 
+Departures: 5057 
+
+Monitor at: 1022.032029133501 
+Customers in queue: 3 
+Arrivals: 5064 
+Departures: 5061 
+
+Monitor at: 1025.064925097189 
+Customers in queue: 0 
+Arrivals: 5078 
+Departures: 5078 
+
+Monitor at: 1025.8974248684349 
+Customers in queue: 0 
+Arrivals: 5084 
+Departures: 5084 
+
+Monitor at: 1029.0320033536034 
+Customers in queue: 1 
+Arrivals: 5098 
+Departures: 5097 
+
+Monitor at: 1029.2073052597518 
+Customers in queue: 0 
+Arrivals: 5098 
+Departures: 5098 
+
+Monitor at: 1029.3163218778673 
+Customers in queue: 0 
+Arrivals: 5098 
+Departures: 5098 
+
+Monitor at: 1029.519963018398 
+Customers in queue: 1 
+Arrivals: 5099 
+Departures: 5098 
+
+Monitor at: 1031.367360135307 
+Customers in queue: 0 
+Arrivals: 5106 
+Departures: 5106 
+
+Monitor at: 1032.1997738572666 
+Customers in queue: 2 
+Arrivals: 5111 
+Departures: 5109 
+
+Monitor at: 1032.5388888812356 
+Customers in queue: 0 
+Arrivals: 5111 
+Departures: 5111 
+
+Monitor at: 1033.1215381513462 
+Customers in queue: 4 
+Arrivals: 5115 
+Departures: 5111 
+
+Monitor at: 1033.628553905979 
+Customers in queue: 2 
+Arrivals: 5118 
+Departures: 5116 
+
+Monitor at: 1034.643838427958 
+Customers in queue: 1 
+Arrivals: 5123 
+Departures: 5122 
+
+Monitor at: 1034.8463833838582 
+Customers in queue: 1 
+Arrivals: 5126 
+Departures: 5125 
+
+Monitor at: 1036.0342953028785 
+Customers in queue: 4 
+Arrivals: 5135 
+Departures: 5131 
+
+Monitor at: 1036.2210415027698 
+Customers in queue: 6 
+Arrivals: 5137 
+Departures: 5131 
+
+Monitor at: 1036.2818493208424 
+Customers in queue: 6 
+Arrivals: 5137 
+Departures: 5131 
+
+Monitor at: 1038.587484509716 
+Customers in queue: 0 
+Arrivals: 5148 
+Departures: 5148 
+
+Monitor at: 1039.5699419713185 
+Customers in queue: 0 
+Arrivals: 5150 
+Departures: 5150 
+
+Monitor at: 1039.6939845080421 
+Customers in queue: 1 
+Arrivals: 5151 
+Departures: 5150 
+
+Monitor at: 1040.5652903938308 
+Customers in queue: 2 
+Arrivals: 5156 
+Departures: 5154 
+
+Monitor at: 1042.3165105798591 
+Customers in queue: 0 
+Arrivals: 5163 
+Departures: 5163 
+
+Monitor at: 1044.162393516392 
+Customers in queue: 0 
+Arrivals: 5179 
+Departures: 5179 
+
+Monitor at: 1045.2111908172976 
+Customers in queue: 0 
+Arrivals: 5180 
+Departures: 5180 
+
+Monitor at: 1045.3586126808434 
+Customers in queue: 0 
+Arrivals: 5180 
+Departures: 5180 
+
+Monitor at: 1046.6284971126834 
+Customers in queue: 1 
+Arrivals: 5186 
+Departures: 5185 
+
+Monitor at: 1047.250683310198 
+Customers in queue: 1 
+Arrivals: 5188 
+Departures: 5187 
+
+Monitor at: 1047.3092847543187 
+Customers in queue: 0 
+Arrivals: 5188 
+Departures: 5188 
+
+Monitor at: 1048.0694420945895 
+Customers in queue: 1 
+Arrivals: 5190 
+Departures: 5189 
+
+Monitor at: 1048.5615419156263 
+Customers in queue: 5 
+Arrivals: 5196 
+Departures: 5191 
+
+Monitor at: 1048.667112681311 
+Customers in queue: 4 
+Arrivals: 5196 
+Departures: 5192 
+
+Monitor at: 1048.8218604390975 
+Customers in queue: 5 
+Arrivals: 5197 
+Departures: 5192 
+
+Monitor at: 1050.7356531437574 
+Customers in queue: 3 
+Arrivals: 5206 
+Departures: 5203 
+
+Monitor at: 1050.7748965954875 
+Customers in queue: 3 
+Arrivals: 5207 
+Departures: 5204 
+
+Monitor at: 1051.1565402419633 
+Customers in queue: 1 
+Arrivals: 5210 
+Departures: 5209 
+
+Monitor at: 1052.249267318942 
+Customers in queue: 1 
+Arrivals: 5213 
+Departures: 5212 
+
+Monitor at: 1054.0838016196042 
+Customers in queue: 0 
+Arrivals: 5224 
+Departures: 5224 
+
+Monitor at: 1055.8727775306202 
+Customers in queue: 2 
+Arrivals: 5233 
+Departures: 5231 
+
+Monitor at: 1057.553629337715 
+Customers in queue: 1 
+Arrivals: 5237 
+Departures: 5236 
+
+Monitor at: 1058.2526105119605 
+Customers in queue: 1 
+Arrivals: 5241 
+Departures: 5240 
+
+Monitor at: 1058.5085772759855 
+Customers in queue: 0 
+Arrivals: 5242 
+Departures: 5242 
+
+Monitor at: 1058.9470885695612 
+Customers in queue: 0 
+Arrivals: 5246 
+Departures: 5246 
+
+Monitor at: 1060.9330863743442 
+Customers in queue: 1 
+Arrivals: 5250 
+Departures: 5249 
+
+Monitor at: 1061.2686052373506 
+Customers in queue: 4 
+Arrivals: 5256 
+Departures: 5252 
+
+Monitor at: 1062.3877967234498 
+Customers in queue: 0 
+Arrivals: 5258 
+Departures: 5258 
+
+Monitor at: 1063.3984197375578 
+Customers in queue: 2 
+Arrivals: 5268 
+Departures: 5266 
+
+Monitor at: 1063.6066412460307 
+Customers in queue: 1 
+Arrivals: 5269 
+Departures: 5268 
+
+Monitor at: 1064.6659762371187 
+Customers in queue: 0 
+Arrivals: 5275 
+Departures: 5275 
+
+Monitor at: 1067.8707729106304 
+Customers in queue: 3 
+Arrivals: 5301 
+Departures: 5298 
+
+Monitor at: 1067.890525221987 
+Customers in queue: 3 
+Arrivals: 5301 
+Departures: 5298 
+
+Monitor at: 1069.2908949337798 
+Customers in queue: 1 
+Arrivals: 5309 
+Departures: 5308 
+
+Monitor at: 1073.1236875052768 
+Customers in queue: 2 
+Arrivals: 5328 
+Departures: 5326 
+
+Monitor at: 1073.316997835745 
+Customers in queue: 0 
+Arrivals: 5328 
+Departures: 5328 
+
+Monitor at: 1074.2527514740918 
+Customers in queue: 2 
+Arrivals: 5332 
+Departures: 5330 
+
+Monitor at: 1075.1013370691533 
+Customers in queue: 0 
+Arrivals: 5334 
+Departures: 5334 
+
+Monitor at: 1075.7564461545992 
+Customers in queue: 1 
+Arrivals: 5338 
+Departures: 5337 
+
+Monitor at: 1076.9110963457042 
+Customers in queue: 2 
+Arrivals: 5347 
+Departures: 5345 
+
+Monitor at: 1077.027394780076 
+Customers in queue: 0 
+Arrivals: 5347 
+Departures: 5347 
+
+Monitor at: 1077.2735655963895 
+Customers in queue: 1 
+Arrivals: 5348 
+Departures: 5347 
+
+Monitor at: 1078.1880087274606 
+Customers in queue: 1 
+Arrivals: 5350 
+Departures: 5349 
+
+Monitor at: 1078.5663064765636 
+Customers in queue: 0 
+Arrivals: 5350 
+Departures: 5350 
+
+Monitor at: 1079.872455406523 
+Customers in queue: 1 
+Arrivals: 5357 
+Departures: 5356 
+
+Monitor at: 1080.3671051275212 
+Customers in queue: 2 
+Arrivals: 5360 
+Departures: 5358 
+
+Monitor at: 1080.498235813685 
+Customers in queue: 0 
+Arrivals: 5362 
+Departures: 5362 
+
+Monitor at: 1081.108473697309 
+Customers in queue: 1 
+Arrivals: 5363 
+Departures: 5362 
+
+Monitor at: 1082.6934098874249 
+Customers in queue: 1 
+Arrivals: 5368 
+Departures: 5367 
+
+Monitor at: 1082.7787054423522 
+Customers in queue: 1 
+Arrivals: 5368 
+Departures: 5367 
+
+Monitor at: 1083.0955082706082 
+Customers in queue: 0 
+Arrivals: 5369 
+Departures: 5369 
+
+Monitor at: 1085.6651800811317 
+Customers in queue: 1 
+Arrivals: 5380 
+Departures: 5379 
+
+Monitor at: 1085.7722872986603 
+Customers in queue: 1 
+Arrivals: 5380 
+Departures: 5379 
+
+Monitor at: 1086.3973152175383 
+Customers in queue: 0 
+Arrivals: 5384 
+Departures: 5384 
+
+Monitor at: 1086.8585501391096 
+Customers in queue: 0 
+Arrivals: 5384 
+Departures: 5384 
+
+Monitor at: 1087.1054507953725 
+Customers in queue: 0 
+Arrivals: 5384 
+Departures: 5384 
+
+Monitor at: 1087.443196544483 
+Customers in queue: 2 
+Arrivals: 5386 
+Departures: 5384 
+
+Monitor at: 1087.8367806942256 
+Customers in queue: 4 
+Arrivals: 5388 
+Departures: 5384 
+
+Monitor at: 1088.344638248316 
+Customers in queue: 2 
+Arrivals: 5389 
+Departures: 5387 
+
+Monitor at: 1088.603558576675 
+Customers in queue: 3 
+Arrivals: 5391 
+Departures: 5388 
+
+Monitor at: 1089.3177892444667 
+Customers in queue: 0 
+Arrivals: 5394 
+Departures: 5394 
+
+Monitor at: 1089.677149107421 
+Customers in queue: 1 
+Arrivals: 5395 
+Departures: 5394 
+
+Monitor at: 1090.0922157950515 
+Customers in queue: 1 
+Arrivals: 5395 
+Departures: 5394 
+
+Monitor at: 1090.278091000613 
+Customers in queue: 1 
+Arrivals: 5395 
+Departures: 5394 
+
+Monitor at: 1091.4021981717967 
+Customers in queue: 1 
+Arrivals: 5403 
+Departures: 5402 
+
+Monitor at: 1091.611894302793 
+Customers in queue: 0 
+Arrivals: 5403 
+Departures: 5403 
+
+Monitor at: 1093.112696817542 
+Customers in queue: 0 
+Arrivals: 5411 
+Departures: 5411 
+
+Monitor at: 1093.3040411813338 
+Customers in queue: 0 
+Arrivals: 5412 
+Departures: 5412 
+
+Monitor at: 1095.0616478239983 
+Customers in queue: 3 
+Arrivals: 5422 
+Departures: 5419 
+
+Monitor at: 1095.4330426930333 
+Customers in queue: 1 
+Arrivals: 5426 
+Departures: 5425 
+
+Monitor at: 1095.8499078854995 
+Customers in queue: 0 
+Arrivals: 5426 
+Departures: 5426 
+
+Monitor at: 1095.901287967881 
+Customers in queue: 0 
+Arrivals: 5426 
+Departures: 5426 
+
+Monitor at: 1096.0587109057508 
+Customers in queue: 2 
+Arrivals: 5428 
+Departures: 5426 
+
+Monitor at: 1096.7008251745347 
+Customers in queue: 1 
+Arrivals: 5432 
+Departures: 5431 
+
+Monitor at: 1098.8949888290306 
+Customers in queue: 1 
+Arrivals: 5450 
+Departures: 5449 
+
+Monitor at: 1099.2954864444562 
+Customers in queue: 0 
+Arrivals: 5451 
+Departures: 5451 
+
+Monitor at: 1100.0042583955294 
+Customers in queue: 0 
+Arrivals: 5452 
+Departures: 5452 
+
+Monitor at: 1101.5369832372946 
+Customers in queue: 0 
+Arrivals: 5460 
+Departures: 5460 
+
+Monitor at: 1104.2729041055427 
+Customers in queue: 0 
+Arrivals: 5474 
+Departures: 5474 
+
+Monitor at: 1105.399918361951 
+Customers in queue: 2 
+Arrivals: 5481 
+Departures: 5479 
+
+Monitor at: 1106.0143955318558 
+Customers in queue: 2 
+Arrivals: 5482 
+Departures: 5480 
+
+Monitor at: 1106.5414310342562 
+Customers in queue: 6 
+Arrivals: 5487 
+Departures: 5481 
+
+Monitor at: 1106.90678501564 
+Customers in queue: 9 
+Arrivals: 5491 
+Departures: 5482 
+
+Monitor at: 1107.434477993134 
+Customers in queue: 6 
+Arrivals: 5496 
+Departures: 5490 
+
+Monitor at: 1110.8658725894084 
+Customers in queue: 6 
+Arrivals: 5518 
+Departures: 5512 
+
+Monitor at: 1112.6304280189618 
+Customers in queue: 9 
+Arrivals: 5532 
+Departures: 5523 
+
+Monitor at: 1113.0801310854483 
+Customers in queue: 4 
+Arrivals: 5533 
+Departures: 5529 
+
+Monitor at: 1117.329834585929 
+Customers in queue: 1 
+Arrivals: 5552 
+Departures: 5551 
+
+Monitor at: 1119.0319428390794 
+Customers in queue: 0 
+Arrivals: 5559 
+Departures: 5559 
+
+Monitor at: 1119.2449378560898 
+Customers in queue: 1 
+Arrivals: 5561 
+Departures: 5560 
+
+Monitor at: 1119.8852141702785 
+Customers in queue: 1 
+Arrivals: 5566 
+Departures: 5565 
+
+Monitor at: 1120.8093018093316 
+Customers in queue: 2 
+Arrivals: 5571 
+Departures: 5569 
+
+Monitor at: 1121.76500516054 
+Customers in queue: 1 
+Arrivals: 5573 
+Departures: 5572 
+
+Monitor at: 1122.219548746588 
+Customers in queue: 0 
+Arrivals: 5575 
+Departures: 5575 
+
+Monitor at: 1123.5099231864372 
+Customers in queue: 1 
+Arrivals: 5580 
+Departures: 5579 
+
+Monitor at: 1124.2960365318722 
+Customers in queue: 1 
+Arrivals: 5580 
+Departures: 5579 
+
+Monitor at: 1125.577816945488 
+Customers in queue: 0 
+Arrivals: 5588 
+Departures: 5588 
+
+Monitor at: 1128.447912360377 
+Customers in queue: 0 
+Arrivals: 5604 
+Departures: 5604 
+
+Monitor at: 1129.8639812708655 
+Customers in queue: 2 
+Arrivals: 5611 
+Departures: 5609 
+
+Monitor at: 1130.0683325351433 
+Customers in queue: 7 
+Arrivals: 5616 
+Departures: 5609 
+
+Monitor at: 1130.5264309893823 
+Customers in queue: 5 
+Arrivals: 5618 
+Departures: 5613 
+
+Monitor at: 1132.6412520834047 
+Customers in queue: 11 
+Arrivals: 5629 
+Departures: 5618 
+
+Monitor at: 1134.2412997489218 
+Customers in queue: 17 
+Arrivals: 5640 
+Departures: 5623 
+
+Monitor at: 1135.4102877090152 
+Customers in queue: 16 
+Arrivals: 5645 
+Departures: 5629 
+
+Monitor at: 1135.594000382689 
+Customers in queue: 16 
+Arrivals: 5647 
+Departures: 5631 
+
+Monitor at: 1135.6775292955588 
+Customers in queue: 15 
+Arrivals: 5647 
+Departures: 5632 
+
+Monitor at: 1137.2010115261107 
+Customers in queue: 10 
+Arrivals: 5651 
+Departures: 5641 
+
+Monitor at: 1137.3349106014382 
+Customers in queue: 9 
+Arrivals: 5652 
+Departures: 5643 
+
+Monitor at: 1137.6245894366934 
+Customers in queue: 9 
+Arrivals: 5654 
+Departures: 5645 
+
+Monitor at: 1138.0800336885438 
+Customers in queue: 10 
+Arrivals: 5656 
+Departures: 5646 
+
+Monitor at: 1140.6057413744104 
+Customers in queue: 7 
+Arrivals: 5669 
+Departures: 5662 
+
+Monitor at: 1141.9271858452878 
+Customers in queue: 7 
+Arrivals: 5675 
+Departures: 5668 
+
+Monitor at: 1143.0934957890117 
+Customers in queue: 11 
+Arrivals: 5685 
+Departures: 5674 
+
+Monitor at: 1143.5880434988273 
+Customers in queue: 9 
+Arrivals: 5686 
+Departures: 5677 
+
+Monitor at: 1145.8889814972244 
+Customers in queue: 9 
+Arrivals: 5697 
+Departures: 5688 
+
+Monitor at: 1147.9441997608399 
+Customers in queue: 7 
+Arrivals: 5710 
+Departures: 5703 
+
+Monitor at: 1148.217092034819 
+Customers in queue: 8 
+Arrivals: 5712 
+Departures: 5704 
+
+Monitor at: 1148.3249484097162 
+Customers in queue: 8 
+Arrivals: 5712 
+Departures: 5704 
+
+Monitor at: 1148.5070382429749 
+Customers in queue: 8 
+Arrivals: 5713 
+Departures: 5705 
+
+Monitor at: 1148.5864855582988 
+Customers in queue: 9 
+Arrivals: 5715 
+Departures: 5706 
+
+Monitor at: 1148.9335971602102 
+Customers in queue: 9 
+Arrivals: 5715 
+Departures: 5706 
+
+Monitor at: 1150.69834365549 
+Customers in queue: 4 
+Arrivals: 5722 
+Departures: 5718 
+
+Monitor at: 1152.9810596766058 
+Customers in queue: 8 
+Arrivals: 5737 
+Departures: 5729 
+
+Monitor at: 1155.332106698348 
+Customers in queue: 3 
+Arrivals: 5744 
+Departures: 5741 
+
+Monitor at: 1156.118496250864 
+Customers in queue: 0 
+Arrivals: 5749 
+Departures: 5749 
+
+Monitor at: 1156.4533313039458 
+Customers in queue: 1 
+Arrivals: 5750 
+Departures: 5749 
+
+Monitor at: 1157.7337923795521 
+Customers in queue: 5 
+Arrivals: 5759 
+Departures: 5754 
+
+Monitor at: 1159.9916355981934 
+Customers in queue: 2 
+Arrivals: 5772 
+Departures: 5770 
+
+Monitor at: 1160.1104032595588 
+Customers in queue: 3 
+Arrivals: 5773 
+Departures: 5770 
+
+Monitor at: 1160.8196633399573 
+Customers in queue: 1 
+Arrivals: 5775 
+Departures: 5774 
+
+Monitor at: 1161.06641186599 
+Customers in queue: 4 
+Arrivals: 5778 
+Departures: 5774 
+
+Monitor at: 1161.1139701352258 
+Customers in queue: 4 
+Arrivals: 5779 
+Departures: 5775 
+
+Monitor at: 1162.103793585314 
+Customers in queue: 2 
+Arrivals: 5780 
+Departures: 5778 
+
+Monitor at: 1162.1367104265162 
+Customers in queue: 2 
+Arrivals: 5780 
+Departures: 5778 
+
+Monitor at: 1163.209552036755 
+Customers in queue: 1 
+Arrivals: 5783 
+Departures: 5782 
+
+Monitor at: 1163.2202312855306 
+Customers in queue: 1 
+Arrivals: 5783 
+Departures: 5782 
+
+Monitor at: 1163.9404588142586 
+Customers in queue: 0 
+Arrivals: 5783 
+Departures: 5783 
+
+Monitor at: 1164.5514724541583 
+Customers in queue: 0 
+Arrivals: 5783 
+Departures: 5783 
+
+Monitor at: 1164.5987260420923 
+Customers in queue: 0 
+Arrivals: 5783 
+Departures: 5783 
+
+Monitor at: 1164.7881448870853 
+Customers in queue: 1 
+Arrivals: 5784 
+Departures: 5783 
+
+Monitor at: 1165.0780899080598 
+Customers in queue: 1 
+Arrivals: 5785 
+Departures: 5784 
+
+Monitor at: 1165.5286957435314 
+Customers in queue: 1 
+Arrivals: 5787 
+Departures: 5786 
+
+Monitor at: 1166.1791145840969 
+Customers in queue: 1 
+Arrivals: 5790 
+Departures: 5789 
+
+Monitor at: 1166.8978877644151 
+Customers in queue: 1 
+Arrivals: 5793 
+Departures: 5792 
+
+Monitor at: 1167.1489782214692 
+Customers in queue: 1 
+Arrivals: 5794 
+Departures: 5793 
+
+Monitor at: 1167.3923724708725 
+Customers in queue: 0 
+Arrivals: 5794 
+Departures: 5794 
+
+Monitor at: 1167.6795811780164 
+Customers in queue: 0 
+Arrivals: 5795 
+Departures: 5795 
+
+Monitor at: 1171.0970410719042 
+Customers in queue: 1 
+Arrivals: 5808 
+Departures: 5807 
+
+Monitor at: 1173.401325585711 
+Customers in queue: 0 
+Arrivals: 5818 
+Departures: 5818 
+
+Monitor at: 1174.0857849555443 
+Customers in queue: 0 
+Arrivals: 5820 
+Departures: 5820 
+
+Monitor at: 1175.1696857607753 
+Customers in queue: 0 
+Arrivals: 5825 
+Departures: 5825 
+
+Monitor at: 1175.4191279606832 
+Customers in queue: 0 
+Arrivals: 5827 
+Departures: 5827 
+
+Monitor at: 1177.0150122088144 
+Customers in queue: 2 
+Arrivals: 5837 
+Departures: 5835 
+
+Monitor at: 1180.1487105891435 
+Customers in queue: 0 
+Arrivals: 5845 
+Departures: 5845 
+
+Monitor at: 1180.1963920839646 
+Customers in queue: 1 
+Arrivals: 5846 
+Departures: 5845 
+
+Monitor at: 1180.4926166376536 
+Customers in queue: 0 
+Arrivals: 5847 
+Departures: 5847 
+
+Monitor at: 1181.1280615293676 
+Customers in queue: 1 
+Arrivals: 5848 
+Departures: 5847 
+
+Monitor at: 1184.9101680315987 
+Customers in queue: 0 
+Arrivals: 5861 
+Departures: 5861 
+
+Monitor at: 1186.2951822254267 
+Customers in queue: 0 
+Arrivals: 5871 
+Departures: 5871 
+
+Monitor at: 1190.5524671154171 
+Customers in queue: 1 
+Arrivals: 5891 
+Departures: 5890 
+
+Monitor at: 1190.754208071624 
+Customers in queue: 0 
+Arrivals: 5892 
+Departures: 5892 
+
+Monitor at: 1191.9568942766668 
+Customers in queue: 5 
+Arrivals: 5900 
+Departures: 5895 
+
+Monitor at: 1192.9300091631226 
+Customers in queue: 5 
+Arrivals: 5905 
+Departures: 5900 
+
+Monitor at: 1193.0469026903518 
+Customers in queue: 5 
+Arrivals: 5905 
+Departures: 5900 
+
+Monitor at: 1193.141513729173 
+Customers in queue: 6 
+Arrivals: 5907 
+Departures: 5901 
+
+Monitor at: 1193.2414931143642 
+Customers in queue: 6 
+Arrivals: 5907 
+Departures: 5901 
+
+Monitor at: 1193.4747950061474 
+Customers in queue: 6 
+Arrivals: 5908 
+Departures: 5902 
+
+Monitor at: 1194.2054072452627 
+Customers in queue: 3 
+Arrivals: 5912 
+Departures: 5909 
+
+Monitor at: 1197.7267976024195 
+Customers in queue: 4 
+Arrivals: 5930 
+Departures: 5926 
+
+Monitor at: 1198.6587201107625 
+Customers in queue: 6 
+Arrivals: 5938 
+Departures: 5932 
+
+Monitor at: 1198.9570413810018 
+Customers in queue: 5 
+Arrivals: 5939 
+Departures: 5934 
+
+Monitor at: 1199.112049743757 
+Customers in queue: 5 
+Arrivals: 5940 
+Departures: 5935 
+
+Monitor at: 1202.5566853992052 
+Customers in queue: 3 
+Arrivals: 5954 
+Departures: 5951 
+
+Monitor at: 1203.3879031924016 
+Customers in queue: 2 
+Arrivals: 5959 
+Departures: 5957 
+
+Monitor at: 1203.9834814148776 
+Customers in queue: 1 
+Arrivals: 5964 
+Departures: 5963 
+
+Monitor at: 1204.0912863264566 
+Customers in queue: 1 
+Arrivals: 5964 
+Departures: 5963 
+
+Monitor at: 1204.2192466394888 
+Customers in queue: 0 
+Arrivals: 5965 
+Departures: 5965 
+
+Monitor at: 1204.5596754368319 
+Customers in queue: 0 
+Arrivals: 5967 
+Departures: 5967 
+
+Monitor at: 1204.854397983484 
+Customers in queue: 0 
+Arrivals: 5968 
+Departures: 5968 
+
+Monitor at: 1205.8359666302974 
+Customers in queue: 0 
+Arrivals: 5972 
+Departures: 5972 
+
+Monitor at: 1206.9022808317766 
+Customers in queue: 1 
+Arrivals: 5977 
+Departures: 5976 
+
+Monitor at: 1210.7569260165287 
+Customers in queue: 3 
+Arrivals: 5995 
+Departures: 5992 
+
+Monitor at: 1211.0123513622354 
+Customers in queue: 4 
+Arrivals: 5997 
+Departures: 5993 
+
+Monitor at: 1211.1832674117495 
+Customers in queue: 1 
+Arrivals: 5997 
+Departures: 5996 
+
+Monitor at: 1211.618233391001 
+Customers in queue: 1 
+Arrivals: 5998 
+Departures: 5997 
+
+Monitor at: 1212.0112191488897 
+Customers in queue: 0 
+Arrivals: 5999 
+Departures: 5999 
+
+Monitor at: 1212.7082800083083 
+Customers in queue: 2 
+Arrivals: 6004 
+Departures: 6002 
+
+Monitor at: 1213.1284086821336 
+Customers in queue: 2 
+Arrivals: 6008 
+Departures: 6006 
+
+Monitor at: 1214.8506015577045 
+Customers in queue: 2 
+Arrivals: 6020 
+Departures: 6018 
+
+Monitor at: 1216.0004110196508 
+Customers in queue: 2 
+Arrivals: 6025 
+Departures: 6023 
+
+Monitor at: 1217.3915948101073 
+Customers in queue: 1 
+Arrivals: 6028 
+Departures: 6027 
+
+Monitor at: 1218.6664404973662 
+Customers in queue: 2 
+Arrivals: 6036 
+Departures: 6034 
+
+Monitor at: 1219.7521285414812 
+Customers in queue: 2 
+Arrivals: 6041 
+Departures: 6039 
+
+Monitor at: 1219.8182149956099 
+Customers in queue: 1 
+Arrivals: 6041 
+Departures: 6040 
+
+Monitor at: 1221.0475388666825 
+Customers in queue: 0 
+Arrivals: 6044 
+Departures: 6044 
+
+Monitor at: 1221.3140147324261 
+Customers in queue: 1 
+Arrivals: 6047 
+Departures: 6046 
+
+Monitor at: 1222.0368034139005 
+Customers in queue: 1 
+Arrivals: 6050 
+Departures: 6049 
+
+Monitor at: 1223.3242517545236 
+Customers in queue: 4 
+Arrivals: 6058 
+Departures: 6054 
+
+Monitor at: 1224.0330460778503 
+Customers in queue: 6 
+Arrivals: 6064 
+Departures: 6058 
+
+Monitor at: 1224.9963365852168 
+Customers in queue: 7 
+Arrivals: 6071 
+Departures: 6064 
+
+Monitor at: 1225.437906415393 
+Customers in queue: 6 
+Arrivals: 6072 
+Departures: 6066 
+
+Monitor at: 1225.938902459801 
+Customers in queue: 4 
+Arrivals: 6075 
+Departures: 6071 
+
+Monitor at: 1229.1856109806429 
+Customers in queue: 4 
+Arrivals: 6092 
+Departures: 6088 
+
+Monitor at: 1229.720810444152 
+Customers in queue: 5 
+Arrivals: 6095 
+Departures: 6090 
+
+Monitor at: 1229.8230013721177 
+Customers in queue: 5 
+Arrivals: 6096 
+Departures: 6091 
+
+Monitor at: 1230.7312619193178 
+Customers in queue: 5 
+Arrivals: 6101 
+Departures: 6096 
+
+Monitor at: 1231.7687937084752 
+Customers in queue: 0 
+Arrivals: 6103 
+Departures: 6103 
+
+Monitor at: 1233.299465743623 
+Customers in queue: 3 
+Arrivals: 6111 
+Departures: 6108 
+
+Monitor at: 1233.774097999309 
+Customers in queue: 1 
+Arrivals: 6113 
+Departures: 6112 
+
+Monitor at: 1235.8525647906663 
+Customers in queue: 1 
+Arrivals: 6121 
+Departures: 6120 
+
+Monitor at: 1238.419822976466 
+Customers in queue: 2 
+Arrivals: 6132 
+Departures: 6130 
+
+Monitor at: 1239.3333793871075 
+Customers in queue: 1 
+Arrivals: 6138 
+Departures: 6137 
+
+Monitor at: 1240.243320978811 
+Customers in queue: 3 
+Arrivals: 6145 
+Departures: 6142 
+
+Monitor at: 1240.9877116216173 
+Customers in queue: 4 
+Arrivals: 6148 
+Departures: 6144 
+
+Monitor at: 1241.4820052464452 
+Customers in queue: 3 
+Arrivals: 6151 
+Departures: 6148 
+
+Monitor at: 1241.5876648585006 
+Customers in queue: 1 
+Arrivals: 6151 
+Departures: 6150 
+
+Monitor at: 1242.1857354530046 
+Customers in queue: 2 
+Arrivals: 6156 
+Departures: 6154 
+
+Monitor at: 1244.064032711829 
+Customers in queue: 0 
+Arrivals: 6162 
+Departures: 6162 
+
+Monitor at: 1245.5816598269332 
+Customers in queue: 0 
+Arrivals: 6165 
+Departures: 6165 
+
+Monitor at: 1246.3965792166252 
+Customers in queue: 0 
+Arrivals: 6167 
+Departures: 6167 
+
+Monitor at: 1246.5491773035535 
+Customers in queue: 0 
+Arrivals: 6167 
+Departures: 6167 
+
+Monitor at: 1246.9290053424018 
+Customers in queue: 1 
+Arrivals: 6169 
+Departures: 6168 
+
+Monitor at: 1247.1861867116852 
+Customers in queue: 0 
+Arrivals: 6169 
+Departures: 6169 
+
+Monitor at: 1248.3748329161565 
+Customers in queue: 1 
+Arrivals: 6174 
+Departures: 6173 
+
+Monitor at: 1248.5581749346134 
+Customers in queue: 1 
+Arrivals: 6174 
+Departures: 6173 
+
+Monitor at: 1249.9559263388714 
+Customers in queue: 0 
+Arrivals: 6178 
+Departures: 6178 
+
+Monitor at: 1250.4454491522404 
+Customers in queue: 0 
+Arrivals: 6180 
+Departures: 6180 
+
+Monitor at: 1250.4679300210498 
+Customers in queue: 0 
+Arrivals: 6180 
+Departures: 6180 
+
+Monitor at: 1250.7030259126955 
+Customers in queue: 1 
+Arrivals: 6182 
+Departures: 6181 
+
+Monitor at: 1251.0103519875006 
+Customers in queue: 1 
+Arrivals: 6186 
+Departures: 6185 
+
+Monitor at: 1252.1407506549708 
+Customers in queue: 1 
+Arrivals: 6192 
+Departures: 6191 
+
+Monitor at: 1252.1823703416615 
+Customers in queue: 1 
+Arrivals: 6192 
+Departures: 6191 
+
+Monitor at: 1252.2909128101096 
+Customers in queue: 0 
+Arrivals: 6192 
+Departures: 6192 
+
+Monitor at: 1253.4113792565308 
+Customers in queue: 0 
+Arrivals: 6197 
+Departures: 6197 
+
+Monitor at: 1253.6721125697002 
+Customers in queue: 2 
+Arrivals: 6199 
+Departures: 6197 
+
+Monitor at: 1254.688945883783 
+Customers in queue: 0 
+Arrivals: 6204 
+Departures: 6204 
+
+Monitor at: 1255.5015823470258 
+Customers in queue: 0 
+Arrivals: 6208 
+Departures: 6208 
+
+Monitor at: 1256.2415725682677 
+Customers in queue: 0 
+Arrivals: 6210 
+Departures: 6210 
+
+Monitor at: 1256.2484387759825 
+Customers in queue: 0 
+Arrivals: 6210 
+Departures: 6210 
+
+Monitor at: 1256.4924078615677 
+Customers in queue: 0 
+Arrivals: 6210 
+Departures: 6210 
+
+Monitor at: 1256.9736958970852 
+Customers in queue: 0 
+Arrivals: 6213 
+Departures: 6213 
+
+Monitor at: 1257.0614476608341 
+Customers in queue: 0 
+Arrivals: 6215 
+Departures: 6215 
+
+Monitor at: 1258.1517378229853 
+Customers in queue: 1 
+Arrivals: 6219 
+Departures: 6218 
+
+Monitor at: 1258.828996589787 
+Customers in queue: 3 
+Arrivals: 6228 
+Departures: 6225 
+
+Monitor at: 1259.2746108623148 
+Customers in queue: 2 
+Arrivals: 6230 
+Departures: 6228 
+
+Monitor at: 1261.272187174297 
+Customers in queue: 7 
+Arrivals: 6244 
+Departures: 6237 
+
+Monitor at: 1262.304544052176 
+Customers in queue: 7 
+Arrivals: 6250 
+Departures: 6243 
+
+Monitor at: 1262.5911605505455 
+Customers in queue: 5 
+Arrivals: 6250 
+Departures: 6245 
+
+Monitor at: 1266.974143127731 
+Customers in queue: 0 
+Arrivals: 6270 
+Departures: 6270 
+
+Monitor at: 1267.749707843157 
+Customers in queue: 0 
+Arrivals: 6274 
+Departures: 6274 
+
+Monitor at: 1268.7819656504364 
+Customers in queue: 0 
+Arrivals: 6275 
+Departures: 6275 
+
+Monitor at: 1269.4899297950185 
+Customers in queue: 0 
+Arrivals: 6276 
+Departures: 6276 
+
+Monitor at: 1270.5812539125836 
+Customers in queue: 1 
+Arrivals: 6281 
+Departures: 6280 
+
+Monitor at: 1273.4833307928643 
+Customers in queue: 2 
+Arrivals: 6297 
+Departures: 6295 
+
+Monitor at: 1274.9675839347065 
+Customers in queue: 7 
+Arrivals: 6307 
+Departures: 6300 
+
+Monitor at: 1275.424729974213 
+Customers in queue: 3 
+Arrivals: 6308 
+Departures: 6305 
+
+Monitor at: 1276.3089963978448 
+Customers in queue: 0 
+Arrivals: 6311 
+Departures: 6311 
+
+Monitor at: 1276.4186024752157 
+Customers in queue: 2 
+Arrivals: 6313 
+Departures: 6311 
+
+Monitor at: 1277.1983355827028 
+Customers in queue: 1 
+Arrivals: 6317 
+Departures: 6316 
+
+Monitor at: 1277.2253229375874 
+Customers in queue: 2 
+Arrivals: 6318 
+Departures: 6316 
+
+Monitor at: 1277.3063098980174 
+Customers in queue: 2 
+Arrivals: 6319 
+Departures: 6317 
+
+Monitor at: 1277.9287406638114 
+Customers in queue: 0 
+Arrivals: 6320 
+Departures: 6320 
+
+Monitor at: 1278.206892950203 
+Customers in queue: 0 
+Arrivals: 6320 
+Departures: 6320 
+
+Monitor at: 1279.476015310135 
+Customers in queue: 1 
+Arrivals: 6323 
+Departures: 6322 
+
+Monitor at: 1279.7926394875678 
+Customers in queue: 1 
+Arrivals: 6325 
+Departures: 6324 
+
+Monitor at: 1279.8395844280499 
+Customers in queue: 0 
+Arrivals: 6325 
+Departures: 6325 
+
+Monitor at: 1280.6187237334166 
+Customers in queue: 0 
+Arrivals: 6332 
+Departures: 6332 
+
+Monitor at: 1282.4841208704129 
+Customers in queue: 0 
+Arrivals: 6337 
+Departures: 6337 
+
+Monitor at: 1283.1189725572915 
+Customers in queue: 1 
+Arrivals: 6338 
+Departures: 6337 
+
+Monitor at: 1283.7669860456967 
+Customers in queue: 0 
+Arrivals: 6339 
+Departures: 6339 
+
+Monitor at: 1285.1114239544047 
+Customers in queue: 2 
+Arrivals: 6348 
+Departures: 6346 
+
+Monitor at: 1285.7857187167785 
+Customers in queue: 1 
+Arrivals: 6351 
+Departures: 6350 
+
+Monitor at: 1286.5357819361914 
+Customers in queue: 1 
+Arrivals: 6355 
+Departures: 6354 
+
+Monitor at: 1287.8113545864712 
+Customers in queue: 0 
+Arrivals: 6362 
+Departures: 6362 
+
+Monitor at: 1287.826857046281 
+Customers in queue: 0 
+Arrivals: 6362 
+Departures: 6362 
+
+Monitor at: 1288.8223069097553 
+Customers in queue: 2 
+Arrivals: 6367 
+Departures: 6365 
+
+Monitor at: 1289.2695136714917 
+Customers in queue: 3 
+Arrivals: 6370 
+Departures: 6367 
+
+Monitor at: 1296.2996327270234 
+Customers in queue: 9 
+Arrivals: 6405 
+Departures: 6396 
+
+Monitor at: 1296.5092012448704 
+Customers in queue: 11 
+Arrivals: 6407 
+Departures: 6396 
+
+Monitor at: 1296.8544106068089 
+Customers in queue: 7 
+Arrivals: 6409 
+Departures: 6402 
+
+Monitor at: 1299.6238306108075 
+Customers in queue: 5 
+Arrivals: 6426 
+Departures: 6421 
+
+Monitor at: 1300.4181692767056 
+Customers in queue: 4 
+Arrivals: 6431 
+Departures: 6427 
+
+Monitor at: 1306.6854374267468 
+Customers in queue: 6 
+Arrivals: 6467 
+Departures: 6461 
+
+Monitor at: 1307.4751469594864 
+Customers in queue: 5 
+Arrivals: 6468 
+Departures: 6463 
+
+Monitor at: 1307.9033942432839 
+Customers in queue: 7 
+Arrivals: 6473 
+Departures: 6466 
+
+Monitor at: 1311.4571274807095 
+Customers in queue: 0 
+Arrivals: 6491 
+Departures: 6491 
+
+Monitor at: 1312.6499612356706 
+Customers in queue: 1 
+Arrivals: 6492 
+Departures: 6491 
+
+Monitor at: 1313.9738309743386 
+Customers in queue: 4 
+Arrivals: 6503 
+Departures: 6499 
+
+Monitor at: 1314.5933867423705 
+Customers in queue: 0 
+Arrivals: 6504 
+Departures: 6504 
+
+Monitor at: 1315.778153524735 
+Customers in queue: 0 
+Arrivals: 6509 
+Departures: 6509 
+
+Monitor at: 1315.9789485564213 
+Customers in queue: 1 
+Arrivals: 6510 
+Departures: 6509 
+
+Monitor at: 1316.5432663597333 
+Customers in queue: 2 
+Arrivals: 6517 
+Departures: 6515 
+
+Monitor at: 1318.6949769667092 
+Customers in queue: 2 
+Arrivals: 6531 
+Departures: 6529 
+
+Monitor at: 1318.9120053650104 
+Customers in queue: 0 
+Arrivals: 6531 
+Departures: 6531 
+
+Monitor at: 1319.2046444755701 
+Customers in queue: 1 
+Arrivals: 6532 
+Departures: 6531 
+
+Monitor at: 1321.0215467414305 
+Customers in queue: 0 
+Arrivals: 6542 
+Departures: 6542 
+
+Monitor at: 1325.1001701761465 
+Customers in queue: 2 
+Arrivals: 6561 
+Departures: 6559 
+
+Monitor at: 1327.109403455207 
+Customers in queue: 1 
+Arrivals: 6571 
+Departures: 6570 
+
+Monitor at: 1330.9642660034774 
+Customers in queue: 1 
+Arrivals: 6589 
+Departures: 6588 
+
+Monitor at: 1332.2286209977726 
+Customers in queue: 0 
+Arrivals: 6595 
+Departures: 6595 
+
+Monitor at: 1332.3445468253185 
+Customers in queue: 0 
+Arrivals: 6595 
+Departures: 6595 
+
+Monitor at: 1334.972537966918 
+Customers in queue: 0 
+Arrivals: 6603 
+Departures: 6603 
+
+Monitor at: 1336.2493326291624 
+Customers in queue: 1 
+Arrivals: 6605 
+Departures: 6604 
+
+Monitor at: 1336.7488768780545 
+Customers in queue: 2 
+Arrivals: 6607 
+Departures: 6605 
+
+Monitor at: 1339.888319066928 
+Customers in queue: 6 
+Arrivals: 6624 
+Departures: 6618 
+
+Monitor at: 1340.4860339159075 
+Customers in queue: 6 
+Arrivals: 6628 
+Departures: 6622 
+
+Monitor at: 1340.704280469106 
+Customers in queue: 7 
+Arrivals: 6630 
+Departures: 6623 
+
+Monitor at: 1342.062327279633 
+Customers in queue: 3 
+Arrivals: 6637 
+Departures: 6634 
+
+Monitor at: 1342.5780367144898 
+Customers in queue: 1 
+Arrivals: 6640 
+Departures: 6639 
+
+Monitor at: 1342.9262884465882 
+Customers in queue: 0 
+Arrivals: 6641 
+Departures: 6641 
+
+Monitor at: 1343.1178681734723 
+Customers in queue: 1 
+Arrivals: 6642 
+Departures: 6641 
+
+Monitor at: 1345.6655426951418 
+Customers in queue: 1 
+Arrivals: 6655 
+Departures: 6654 
+
+Monitor at: 1347.143149963427 
+Customers in queue: 0 
+Arrivals: 6661 
+Departures: 6661 
+
+Monitor at: 1349.7341104141944 
+Customers in queue: 1 
+Arrivals: 6682 
+Departures: 6681 
+
+Monitor at: 1351.9908382287156 
+Customers in queue: 1 
+Arrivals: 6688 
+Departures: 6687 
+
+Monitor at: 1353.1687171555996 
+Customers in queue: 0 
+Arrivals: 6695 
+Departures: 6695 
+
+Monitor at: 1353.8782536204208 
+Customers in queue: 1 
+Arrivals: 6697 
+Departures: 6696 
+
+Monitor at: 1355.4036753919293 
+Customers in queue: 0 
+Arrivals: 6702 
+Departures: 6702 
+
+Monitor at: 1355.5346396671384 
+Customers in queue: 1 
+Arrivals: 6704 
+Departures: 6703 
+
+Monitor at: 1355.718397507222 
+Customers in queue: 0 
+Arrivals: 6707 
+Departures: 6707 
+
+Monitor at: 1356.5991589121754 
+Customers in queue: 0 
+Arrivals: 6713 
+Departures: 6713 
+
+Monitor at: 1356.675576088923 
+Customers in queue: 0 
+Arrivals: 6713 
+Departures: 6713 
+
+Monitor at: 1356.6805031557697 
+Customers in queue: 0 
+Arrivals: 6713 
+Departures: 6713 
+
+Monitor at: 1357.5507164386988 
+Customers in queue: 0 
+Arrivals: 6717 
+Departures: 6717 
+
+Monitor at: 1358.0422109357175 
+Customers in queue: 0 
+Arrivals: 6719 
+Departures: 6719 
+
+Monitor at: 1359.2710336723792 
+Customers in queue: 0 
+Arrivals: 6724 
+Departures: 6724 
+
+Monitor at: 1363.3236116238184 
+Customers in queue: 1 
+Arrivals: 6750 
+Departures: 6749 
+
+Monitor at: 1363.604596069675 
+Customers in queue: 0 
+Arrivals: 6751 
+Departures: 6751 
+
+Monitor at: 1364.7762180250238 
+Customers in queue: 0 
+Arrivals: 6759 
+Departures: 6759 
+
+Monitor at: 1365.6384023789565 
+Customers in queue: 0 
+Arrivals: 6764 
+Departures: 6764 
+
+Monitor at: 1365.694775557282 
+Customers in queue: 0 
+Arrivals: 6764 
+Departures: 6764 
+
+Monitor at: 1367.978150380971 
+Customers in queue: 1 
+Arrivals: 6772 
+Departures: 6771 
+
+Monitor at: 1368.495360187915 
+Customers in queue: 0 
+Arrivals: 6779 
+Departures: 6779 
+
+Monitor at: 1369.3380936936833 
+Customers in queue: 0 
+Arrivals: 6784 
+Departures: 6784 
+
+Monitor at: 1369.7034835717905 
+Customers in queue: 0 
+Arrivals: 6785 
+Departures: 6785 
+
+Monitor at: 1369.8712138885642 
+Customers in queue: 0 
+Arrivals: 6787 
+Departures: 6787 
+
+Monitor at: 1370.3778188788845 
+Customers in queue: 1 
+Arrivals: 6791 
+Departures: 6790 
+
+Monitor at: 1371.4090762207052 
+Customers in queue: 0 
+Arrivals: 6797 
+Departures: 6797 
+
+Monitor at: 1371.9418984499805 
+Customers in queue: 1 
+Arrivals: 6799 
+Departures: 6798 
+
+Monitor at: 1373.5090255683458 
+Customers in queue: 3 
+Arrivals: 6808 
+Departures: 6805 
+
+Monitor at: 1373.5542437977301 
+Customers in queue: 3 
+Arrivals: 6808 
+Departures: 6805 
+
+Monitor at: 1373.589962607042 
+Customers in queue: 3 
+Arrivals: 6808 
+Departures: 6805 
+
+Monitor at: 1374.6967022741878 
+Customers in queue: 1 
+Arrivals: 6813 
+Departures: 6812 
+
+Monitor at: 1375.2652158407018 
+Customers in queue: 1 
+Arrivals: 6814 
+Departures: 6813 
+
+Monitor at: 1376.2439427286786 
+Customers in queue: 2 
+Arrivals: 6822 
+Departures: 6820 
+
+Monitor at: 1379.184430583906 
+Customers in queue: 0 
+Arrivals: 6838 
+Departures: 6838 
+
+Monitor at: 1379.336582526958 
+Customers in queue: 0 
+Arrivals: 6838 
+Departures: 6838 
+
+Monitor at: 1379.8141424904566 
+Customers in queue: 1 
+Arrivals: 6840 
+Departures: 6839 
+
+Monitor at: 1379.985685431864 
+Customers in queue: 1 
+Arrivals: 6840 
+Departures: 6839 
+
+Monitor at: 1380.7054997863045 
+Customers in queue: 0 
+Arrivals: 6844 
+Departures: 6844 
+
+Monitor at: 1380.9688942830942 
+Customers in queue: 0 
+Arrivals: 6845 
+Departures: 6845 
+
+Monitor at: 1382.5581895804144 
+Customers in queue: 0 
+Arrivals: 6850 
+Departures: 6850 
+
+Monitor at: 1382.6811619730802 
+Customers in queue: 0 
+Arrivals: 6850 
+Departures: 6850 
+
+Monitor at: 1384.2205118024265 
+Customers in queue: 2 
+Arrivals: 6859 
+Departures: 6857 
+
+Monitor at: 1385.8919169752191 
+Customers in queue: 14 
+Arrivals: 6881 
+Departures: 6867 
+
+Monitor at: 1386.3151403070772 
+Customers in queue: 12 
+Arrivals: 6883 
+Departures: 6871 
+
+Monitor at: 1386.5419036843477 
+Customers in queue: 13 
+Arrivals: 6886 
+Departures: 6873 
+
+Monitor at: 1387.2592215546968 
+Customers in queue: 15 
+Arrivals: 6893 
+Departures: 6878 
+
+Monitor at: 1388.7104528887678 
+Customers in queue: 13 
+Arrivals: 6900 
+Departures: 6887 
+
+Monitor at: 1389.6957220337988 
+Customers in queue: 12 
+Arrivals: 6904 
+Departures: 6892 
+
+Monitor at: 1390.229909569491 
+Customers in queue: 11 
+Arrivals: 6906 
+Departures: 6895 
+
+Monitor at: 1390.8426767096967 
+Customers in queue: 12 
+Arrivals: 6910 
+Departures: 6898 
+
+Monitor at: 1391.4864577878907 
+Customers in queue: 10 
+Arrivals: 6912 
+Departures: 6902 
+
+Monitor at: 1391.8828558894847 
+Customers in queue: 8 
+Arrivals: 6912 
+Departures: 6904 
+
+Monitor at: 1392.376000991774 
+Customers in queue: 5 
+Arrivals: 6913 
+Departures: 6908 
+
+Monitor at: 1392.5685471222362 
+Customers in queue: 2 
+Arrivals: 6915 
+Departures: 6913 
+
+Monitor at: 1393.1057470368537 
+Customers in queue: 4 
+Arrivals: 6920 
+Departures: 6916 
+
+Monitor at: 1394.1362718665935 
+Customers in queue: 0 
+Arrivals: 6925 
+Departures: 6925 
+
+Monitor at: 1398.6337878137597 
+Customers in queue: 1 
+Arrivals: 6952 
+Departures: 6951 
+
+Monitor at: 1399.0676977053674 
+Customers in queue: 3 
+Arrivals: 6955 
+Departures: 6952 
+
+Monitor at: 1403.5085823189158 
+Customers in queue: 0 
+Arrivals: 6979 
+Departures: 6979 
+
+Monitor at: 1403.5402463230225 
+Customers in queue: 0 
+Arrivals: 6979 
+Departures: 6979 
+
+Monitor at: 1404.5338259263767 
+Customers in queue: 1 
+Arrivals: 6985 
+Departures: 6984 
+
+Monitor at: 1406.10580805874 
+Customers in queue: 0 
+Arrivals: 6994 
+Departures: 6994 
+
+Monitor at: 1406.2283346626168 
+Customers in queue: 0 
+Arrivals: 6994 
+Departures: 6994 
+
+Monitor at: 1406.456167454887 
+Customers in queue: 0 
+Arrivals: 6994 
+Departures: 6994 
+
+Monitor at: 1406.5784340801083 
+Customers in queue: 0 
+Arrivals: 6994 
+Departures: 6994 
+
+Monitor at: 1408.1322124549256 
+Customers in queue: 1 
+Arrivals: 7003 
+Departures: 7002 
+
+Monitor at: 1409.4919755324677 
+Customers in queue: 2 
+Arrivals: 7009 
+Departures: 7007 
+
+Monitor at: 1409.5880177884458 
+Customers in queue: 2 
+Arrivals: 7009 
+Departures: 7007 
+
+Monitor at: 1410.81173688244 
+Customers in queue: 9 
+Arrivals: 7018 
+Departures: 7009 
+
+Monitor at: 1411.3914843850196 
+Customers in queue: 6 
+Arrivals: 7021 
+Departures: 7015 
+
+Monitor at: 1412.8311054328817 
+Customers in queue: 2 
+Arrivals: 7029 
+Departures: 7027 
+
+Monitor at: 1413.048359888497 
+Customers in queue: 0 
+Arrivals: 7030 
+Departures: 7030 
+
+Monitor at: 1413.14386073121 
+Customers in queue: 2 
+Arrivals: 7032 
+Departures: 7030 
+
+Monitor at: 1414.6668304492537 
+Customers in queue: 0 
+Arrivals: 7041 
+Departures: 7041 
+
+Monitor at: 1415.1129986750627 
+Customers in queue: 0 
+Arrivals: 7042 
+Departures: 7042 
+
+Monitor at: 1416.0290347366313 
+Customers in queue: 0 
+Arrivals: 7045 
+Departures: 7045 
+
+Monitor at: 1419.161105886712 
+Customers in queue: 0 
+Arrivals: 7058 
+Departures: 7058 
+
+Monitor at: 1419.8048903327738 
+Customers in queue: 2 
+Arrivals: 7063 
+Departures: 7061 
+
+Monitor at: 1420.0092750012186 
+Customers in queue: 2 
+Arrivals: 7065 
+Departures: 7063 
+
+Monitor at: 1421.7873560513763 
+Customers in queue: 0 
+Arrivals: 7079 
+Departures: 7079 
+
+Monitor at: 1422.5395900987178 
+Customers in queue: 1 
+Arrivals: 7081 
+Departures: 7080 
+
+Monitor at: 1423.953787118546 
+Customers in queue: 1 
+Arrivals: 7085 
+Departures: 7084 
+
+Monitor at: 1427.9249024185615 
+Customers in queue: 3 
+Arrivals: 7096 
+Departures: 7093 
+
+Monitor at: 1428.2349671392997 
+Customers in queue: 0 
+Arrivals: 7096 
+Departures: 7096 
+
+Monitor at: 1428.3821378324355 
+Customers in queue: 1 
+Arrivals: 7097 
+Departures: 7096 
+
+Monitor at: 1429.5012985783983 
+Customers in queue: 5 
+Arrivals: 7103 
+Departures: 7098 
+
+Monitor at: 1430.1742045689243 
+Customers in queue: 3 
+Arrivals: 7105 
+Departures: 7102 
+
+Monitor at: 1430.2928698350738 
+Customers in queue: 2 
+Arrivals: 7105 
+Departures: 7103 
+
+Monitor at: 1430.4628875371259 
+Customers in queue: 0 
+Arrivals: 7105 
+Departures: 7105 
+
+Monitor at: 1431.1755660840754 
+Customers in queue: 0 
+Arrivals: 7110 
+Departures: 7110 
+
+Monitor at: 1431.4654397684492 
+Customers in queue: 1 
+Arrivals: 7111 
+Departures: 7110 
+
+Monitor at: 1432.5700907619432 
+Customers in queue: 2 
+Arrivals: 7116 
+Departures: 7114 
+
+Monitor at: 1432.5771115125176 
+Customers in queue: 2 
+Arrivals: 7116 
+Departures: 7114 
+
+Monitor at: 1432.6967610753325 
+Customers in queue: 3 
+Arrivals: 7117 
+Departures: 7114 
+
+Monitor at: 1432.8549783683256 
+Customers in queue: 2 
+Arrivals: 7119 
+Departures: 7117 
+
+Monitor at: 1434.1052735606038 
+Customers in queue: 1 
+Arrivals: 7122 
+Departures: 7121 
+
+Monitor at: 1435.2216052544209 
+Customers in queue: 0 
+Arrivals: 7128 
+Departures: 7128 
+
+Monitor at: 1438.0995166572961 
+Customers in queue: 0 
+Arrivals: 7147 
+Departures: 7147 
+
+Monitor at: 1438.1100442704997 
+Customers in queue: 0 
+Arrivals: 7147 
+Departures: 7147 
+
+Monitor at: 1438.6928949109172 
+Customers in queue: 1 
+Arrivals: 7155 
+Departures: 7154 
+
+Monitor at: 1439.1051104568612 
+Customers in queue: 0 
+Arrivals: 7155 
+Departures: 7155 
+
+Monitor at: 1440.2796077901353 
+Customers in queue: 0 
+Arrivals: 7159 
+Departures: 7159 
+
+Monitor at: 1442.004239835448 
+Customers in queue: 0 
+Arrivals: 7161 
+Departures: 7161 
+
+Monitor at: 1442.3740127693868 
+Customers in queue: 0 
+Arrivals: 7161 
+Departures: 7161 
+
+Monitor at: 1442.7808803576402 
+Customers in queue: 0 
+Arrivals: 7161 
+Departures: 7161 
+
+Monitor at: 1443.332283056086 
+Customers in queue: 0 
+Arrivals: 7164 
+Departures: 7164 
+
+Monitor at: 1443.7801083736706 
+Customers in queue: 0 
+Arrivals: 7166 
+Departures: 7166 
+
+Monitor at: 1444.060889157461 
+Customers in queue: 0 
+Arrivals: 7166 
+Departures: 7166 
+
+Monitor at: 1445.26898243586 
+Customers in queue: 1 
+Arrivals: 7167 
+Departures: 7166 
+
+Monitor at: 1445.7962103000636 
+Customers in queue: 0 
+Arrivals: 7171 
+Departures: 7171 
+
+Monitor at: 1445.9816829140336 
+Customers in queue: 1 
+Arrivals: 7172 
+Departures: 7171 
+
+Monitor at: 1449.324040034462 
+Customers in queue: 5 
+Arrivals: 7190 
+Departures: 7185 
+
+Monitor at: 1449.4875901663645 
+Customers in queue: 5 
+Arrivals: 7191 
+Departures: 7186 
+
+Monitor at: 1451.8786783547923 
+Customers in queue: 0 
+Arrivals: 7201 
+Departures: 7201 
+
+Monitor at: 1452.2696238271772 
+Customers in queue: 3 
+Arrivals: 7204 
+Departures: 7201 
+
+Monitor at: 1458.3231542145927 
+Customers in queue: 0 
+Arrivals: 7229 
+Departures: 7229 
+
+Monitor at: 1459.074227360213 
+Customers in queue: 0 
+Arrivals: 7229 
+Departures: 7229 
+
+Monitor at: 1460.1440590656014 
+Customers in queue: 3 
+Arrivals: 7234 
+Departures: 7231 
+
+Monitor at: 1460.304384343443 
+Customers in queue: 3 
+Arrivals: 7234 
+Departures: 7231 
+
+Monitor at: 1460.6846303154884 
+Customers in queue: 3 
+Arrivals: 7236 
+Departures: 7233 
+
+Monitor at: 1462.2701815248845 
+Customers in queue: 1 
+Arrivals: 7244 
+Departures: 7243 
+
+Monitor at: 1463.2564362087032 
+Customers in queue: 4 
+Arrivals: 7252 
+Departures: 7248 
+
+Monitor at: 1465.5914897307232 
+Customers in queue: 11 
+Arrivals: 7270 
+Departures: 7259 
+
+Monitor at: 1466.3122517491145 
+Customers in queue: 12 
+Arrivals: 7276 
+Departures: 7264 
+
+Monitor at: 1466.3420177671587 
+Customers in queue: 10 
+Arrivals: 7276 
+Departures: 7266 
+
+Monitor at: 1466.3720375130245 
+Customers in queue: 10 
+Arrivals: 7276 
+Departures: 7266 
+
+Monitor at: 1466.799616841685 
+Customers in queue: 8 
+Arrivals: 7278 
+Departures: 7270 
+
+Monitor at: 1467.1238715138434 
+Customers in queue: 7 
+Arrivals: 7280 
+Departures: 7273 
+
+Monitor at: 1467.2323798363584 
+Customers in queue: 8 
+Arrivals: 7281 
+Departures: 7273 
+
+Monitor at: 1468.490148418472 
+Customers in queue: 1 
+Arrivals: 7285 
+Departures: 7284 
+
+Monitor at: 1468.8043214002205 
+Customers in queue: 0 
+Arrivals: 7287 
+Departures: 7287 
+
+Monitor at: 1468.943169308267 
+Customers in queue: 0 
+Arrivals: 7288 
+Departures: 7288 
+
+Monitor at: 1468.9571630543567 
+Customers in queue: 1 
+Arrivals: 7289 
+Departures: 7288 
+
+Monitor at: 1469.7532924326904 
+Customers in queue: 0 
+Arrivals: 7291 
+Departures: 7291 
+
+Monitor at: 1470.3168456535445 
+Customers in queue: 0 
+Arrivals: 7295 
+Departures: 7295 
+
+Monitor at: 1470.5831813564748 
+Customers in queue: 0 
+Arrivals: 7295 
+Departures: 7295 
+
+Monitor at: 1470.6316726538018 
+Customers in queue: 0 
+Arrivals: 7295 
+Departures: 7295 
+
+Monitor at: 1470.8786510720256 
+Customers in queue: 1 
+Arrivals: 7296 
+Departures: 7295 
+
+Monitor at: 1475.0940650187638 
+Customers in queue: 1 
+Arrivals: 7313 
+Departures: 7312 
+
+Monitor at: 1476.4081466779435 
+Customers in queue: 4 
+Arrivals: 7321 
+Departures: 7317 
+
+Monitor at: 1478.0079968691227 
+Customers in queue: 9 
+Arrivals: 7334 
+Departures: 7325 
+
+Monitor at: 1478.2302803757032 
+Customers in queue: 8 
+Arrivals: 7335 
+Departures: 7327 
+
+Monitor at: 1479.1416102501069 
+Customers in queue: 5 
+Arrivals: 7339 
+Departures: 7334 
+
+Monitor at: 1479.3258809512984 
+Customers in queue: 4 
+Arrivals: 7339 
+Departures: 7335 
+
+Monitor at: 1479.5304627512446 
+Customers in queue: 4 
+Arrivals: 7339 
+Departures: 7335 
+
+Monitor at: 1480.969755791799 
+Customers in queue: 4 
+Arrivals: 7347 
+Departures: 7343 
+
+Monitor at: 1481.798583189613 
+Customers in queue: 2 
+Arrivals: 7350 
+Departures: 7348 
+
+Monitor at: 1481.8622854743585 
+Customers in queue: 1 
+Arrivals: 7351 
+Departures: 7350 
+
+Monitor at: 1482.0293023459265 
+Customers in queue: 1 
+Arrivals: 7353 
+Departures: 7352 
+
+Monitor at: 1483.68822972226 
+Customers in queue: 2 
+Arrivals: 7357 
+Departures: 7355 
+
+Monitor at: 1486.193178459424 
+Customers in queue: 2 
+Arrivals: 7376 
+Departures: 7374 
+
+Monitor at: 1487.4333096408454 
+Customers in queue: 0 
+Arrivals: 7385 
+Departures: 7385 
+
+Monitor at: 1489.131046465608 
+Customers in queue: 1 
+Arrivals: 7386 
+Departures: 7385 
+
+Monitor at: 1489.945456196178 
+Customers in queue: 1 
+Arrivals: 7389 
+Departures: 7388 
+
+Monitor at: 1492.3171976606332 
+Customers in queue: 0 
+Arrivals: 7405 
+Departures: 7405 
+
+Monitor at: 1493.3262842174042 
+Customers in queue: 1 
+Arrivals: 7410 
+Departures: 7409 
+
+Monitor at: 1494.3883483702834 
+Customers in queue: 0 
+Arrivals: 7416 
+Departures: 7416 
+
+Monitor at: 1494.6739949514638 
+Customers in queue: 0 
+Arrivals: 7419 
+Departures: 7419 
+
+Monitor at: 1499.59920366944 
+Customers in queue: 7 
+Arrivals: 7451 
+Departures: 7444 
+
+Monitor at: 1501.600159036941 
+Customers in queue: 1 
+Arrivals: 7457 
+Departures: 7456 
+
+Monitor at: 1502.6891440644565 
+Customers in queue: 1 
+Arrivals: 7462 
+Departures: 7461 
+
+Monitor at: 1505.3841182731705 
+Customers in queue: 0 
+Arrivals: 7474 
+Departures: 7474 
+
+Monitor at: 1506.6729040637172 
+Customers in queue: 3 
+Arrivals: 7481 
+Departures: 7478 
+
+Monitor at: 1507.093876071551 
+Customers in queue: 4 
+Arrivals: 7484 
+Departures: 7480 
+
+Monitor at: 1509.0586234880996 
+Customers in queue: 2 
+Arrivals: 7494 
+Departures: 7492 
+
+Monitor at: 1511.749818078863 
+Customers in queue: 1 
+Arrivals: 7508 
+Departures: 7507 
+
+Monitor at: 1511.7689614565288 
+Customers in queue: 1 
+Arrivals: 7508 
+Departures: 7507 
+
+Monitor at: 1512.9627214195448 
+Customers in queue: 2 
+Arrivals: 7515 
+Departures: 7513 
+
+Monitor at: 1513.3773768648502 
+Customers in queue: 2 
+Arrivals: 7516 
+Departures: 7514 
+
+Monitor at: 1513.6864176098254 
+Customers in queue: 1 
+Arrivals: 7516 
+Departures: 7515 
+
+Monitor at: 1514.1662812113022 
+Customers in queue: 0 
+Arrivals: 7519 
+Departures: 7519 
+
+Monitor at: 1514.8722001249787 
+Customers in queue: 2 
+Arrivals: 7523 
+Departures: 7521 
+
+Monitor at: 1515.3767436703981 
+Customers in queue: 0 
+Arrivals: 7523 
+Departures: 7523 
+
+Monitor at: 1515.4100215274739 
+Customers in queue: 1 
+Arrivals: 7524 
+Departures: 7523 
+
+Monitor at: 1516.138305384333 
+Customers in queue: 0 
+Arrivals: 7528 
+Departures: 7528 
+
+Monitor at: 1517.1246938449265 
+Customers in queue: 2 
+Arrivals: 7533 
+Departures: 7531 
+
+Monitor at: 1517.8724685552934 
+Customers in queue: 3 
+Arrivals: 7537 
+Departures: 7534 
+
+Monitor at: 1518.7154833615728 
+Customers in queue: 5 
+Arrivals: 7542 
+Departures: 7537 
+
+Monitor at: 1519.006827652882 
+Customers in queue: 4 
+Arrivals: 7544 
+Departures: 7540 
+
+Monitor at: 1520.5516476625035 
+Customers in queue: 1 
+Arrivals: 7548 
+Departures: 7547 
+
+Monitor at: 1521.1763481295804 
+Customers in queue: 0 
+Arrivals: 7550 
+Departures: 7550 
+
+Monitor at: 1522.2595366168744 
+Customers in queue: 0 
+Arrivals: 7551 
+Departures: 7551 
+
+Monitor at: 1522.4858772318644 
+Customers in queue: 0 
+Arrivals: 7552 
+Departures: 7552 
+
+Monitor at: 1522.6470990509263 
+Customers in queue: 0 
+Arrivals: 7552 
+Departures: 7552 
+
+Monitor at: 1524.1245505611298 
+Customers in queue: 2 
+Arrivals: 7561 
+Departures: 7559 
+
+Monitor at: 1524.8363493067557 
+Customers in queue: 2 
+Arrivals: 7564 
+Departures: 7562 
+
+Monitor at: 1525.878280457281 
+Customers in queue: 2 
+Arrivals: 7567 
+Departures: 7565 
+
+Monitor at: 1527.2554940424413 
+Customers in queue: 1 
+Arrivals: 7574 
+Departures: 7573 
+
+Monitor at: 1529.1969782448575 
+Customers in queue: 0 
+Arrivals: 7587 
+Departures: 7587 
+
+Monitor at: 1531.6744753471805 
+Customers in queue: 3 
+Arrivals: 7599 
+Departures: 7596 
+
+Monitor at: 1532.859224851456 
+Customers in queue: 1 
+Arrivals: 7609 
+Departures: 7608 
+
+Monitor at: 1533.4263286707185 
+Customers in queue: 0 
+Arrivals: 7612 
+Departures: 7612 
+
+Monitor at: 1533.6391048453927 
+Customers in queue: 1 
+Arrivals: 7616 
+Departures: 7615 
+
+Monitor at: 1536.57931015659 
+Customers in queue: 9 
+Arrivals: 7636 
+Departures: 7627 
+
+Monitor at: 1538.4007846823479 
+Customers in queue: 5 
+Arrivals: 7645 
+Departures: 7640 
+
+Monitor at: 1538.9472749217605 
+Customers in queue: 3 
+Arrivals: 7647 
+Departures: 7644 
+
+Monitor at: 1539.1118516944787 
+Customers in queue: 0 
+Arrivals: 7647 
+Departures: 7647 
+
+Monitor at: 1539.8495907906856 
+Customers in queue: 6 
+Arrivals: 7656 
+Departures: 7650 
+
+Monitor at: 1541.9726059051281 
+Customers in queue: 12 
+Arrivals: 7679 
+Departures: 7667 
+
+Monitor at: 1543.7961040052478 
+Customers in queue: 7 
+Arrivals: 7686 
+Departures: 7679 
+
+Monitor at: 1543.8409924158482 
+Customers in queue: 7 
+Arrivals: 7686 
+Departures: 7679 
+
+Monitor at: 1543.961470675786 
+Customers in queue: 8 
+Arrivals: 7687 
+Departures: 7679 
+
+Monitor at: 1545.7576736905332 
+Customers in queue: 5 
+Arrivals: 7695 
+Departures: 7690 
+
+Monitor at: 1545.8900687052321 
+Customers in queue: 5 
+Arrivals: 7695 
+Departures: 7690 
+
+Monitor at: 1547.9280879493701 
+Customers in queue: 9 
+Arrivals: 7709 
+Departures: 7700 
+
+Monitor at: 1548.6716518907967 
+Customers in queue: 7 
+Arrivals: 7712 
+Departures: 7705 
+
+Monitor at: 1550.6737388365602 
+Customers in queue: 0 
+Arrivals: 7719 
+Departures: 7719 
+
+Monitor at: 1550.7630431431758 
+Customers in queue: 0 
+Arrivals: 7719 
+Departures: 7719 
+
+Monitor at: 1555.1174853062707 
+Customers in queue: 2 
+Arrivals: 7742 
+Departures: 7740 
+
+Monitor at: 1555.8640188366378 
+Customers in queue: 1 
+Arrivals: 7747 
+Departures: 7746 
+
+Monitor at: 1556.5347281366724 
+Customers in queue: 0 
+Arrivals: 7751 
+Departures: 7751 
+
+Monitor at: 1558.1477511954758 
+Customers in queue: 3 
+Arrivals: 7761 
+Departures: 7758 
+
+Monitor at: 1559.0829134915275 
+Customers in queue: 6 
+Arrivals: 7768 
+Departures: 7762 
+
+Monitor at: 1560.3277671955814 
+Customers in queue: 1 
+Arrivals: 7771 
+Departures: 7770 
+
+Monitor at: 1561.6333815738715 
+Customers in queue: 2 
+Arrivals: 7773 
+Departures: 7771 
+
+Monitor at: 1561.6335226680167 
+Customers in queue: 2 
+Arrivals: 7773 
+Departures: 7771 
+
+Monitor at: 1564.9622934641352 
+Customers in queue: 3 
+Arrivals: 7790 
+Departures: 7787 
+
+Monitor at: 1565.2337385872074 
+Customers in queue: 2 
+Arrivals: 7791 
+Departures: 7789 
+
+Monitor at: 1565.6171549686035 
+Customers in queue: 1 
+Arrivals: 7792 
+Departures: 7791 
+
+Monitor at: 1567.1631884263993 
+Customers in queue: 3 
+Arrivals: 7800 
+Departures: 7797 
+
+Monitor at: 1570.4699588798396 
+Customers in queue: 6 
+Arrivals: 7819 
+Departures: 7813 
+
+Monitor at: 1572.2660038512438 
+Customers in queue: 9 
+Arrivals: 7833 
+Departures: 7824 
+
+Monitor at: 1573.0786042359305 
+Customers in queue: 3 
+Arrivals: 7834 
+Departures: 7831 
+
+Monitor at: 1573.7119351929248 
+Customers in queue: 0 
+Arrivals: 7837 
+Departures: 7837 
+
+Monitor at: 1573.810342690914 
+Customers in queue: 0 
+Arrivals: 7837 
+Departures: 7837 
+
+Monitor at: 1576.4423022858934 
+Customers in queue: 1 
+Arrivals: 7850 
+Departures: 7849 
+
+Monitor at: 1576.6967939945305 
+Customers in queue: 1 
+Arrivals: 7851 
+Departures: 7850 
+
+Monitor at: 1576.8998400082783 
+Customers in queue: 1 
+Arrivals: 7851 
+Departures: 7850 
+
+Monitor at: 1578.4625679537062 
+Customers in queue: 1 
+Arrivals: 7859 
+Departures: 7858 
+
+Monitor at: 1578.7453029406147 
+Customers in queue: 4 
+Arrivals: 7862 
+Departures: 7858 
+
+Monitor at: 1580.0044140242278 
+Customers in queue: 0 
+Arrivals: 7866 
+Departures: 7866 
+
+Monitor at: 1580.3847085932114 
+Customers in queue: 1 
+Arrivals: 7868 
+Departures: 7867 
+
+Monitor at: 1581.2828709411706 
+Customers in queue: 0 
+Arrivals: 7873 
+Departures: 7873 
+
+Monitor at: 1581.987427103157 
+Customers in queue: 0 
+Arrivals: 7876 
+Departures: 7876 
+
+Monitor at: 1582.6666050641486 
+Customers in queue: 1 
+Arrivals: 7877 
+Departures: 7876 
+
+Monitor at: 1588.3938680764124 
+Customers in queue: 0 
+Arrivals: 7911 
+Departures: 7911 
+
+Monitor at: 1588.7433941795507 
+Customers in queue: 0 
+Arrivals: 7913 
+Departures: 7913 
+
+Monitor at: 1589.360804646261 
+Customers in queue: 0 
+Arrivals: 7916 
+Departures: 7916 
+
+Monitor at: 1590.3648011025516 
+Customers in queue: 2 
+Arrivals: 7921 
+Departures: 7919 
+
+Monitor at: 1591.14438547339 
+Customers in queue: 1 
+Arrivals: 7923 
+Departures: 7922 
+
+Monitor at: 1591.568711141124 
+Customers in queue: 0 
+Arrivals: 7929 
+Departures: 7929 
+
+Monitor at: 1595.5977788391278 
+Customers in queue: 3 
+Arrivals: 7946 
+Departures: 7943 
+
+Monitor at: 1595.6158525187968 
+Customers in queue: 3 
+Arrivals: 7946 
+Departures: 7943 
+
+Monitor at: 1595.9518887858421 
+Customers in queue: 1 
+Arrivals: 7947 
+Departures: 7946 
+
+Monitor at: 1596.7969199230924 
+Customers in queue: 0 
+Arrivals: 7947 
+Departures: 7947 
+
+Monitor at: 1598.225620146166 
+Customers in queue: 1 
+Arrivals: 7952 
+Departures: 7951 
+
+Monitor at: 1598.8027905889633 
+Customers in queue: 3 
+Arrivals: 7956 
+Departures: 7953 
+
+Monitor at: 1601.480155399864 
+Customers in queue: 2 
+Arrivals: 7974 
+Departures: 7972 
+
+Monitor at: 1602.57727264191 
+Customers in queue: 3 
+Arrivals: 7978 
+Departures: 7975 
+
+Monitor at: 1603.3106389617085 
+Customers in queue: 0 
+Arrivals: 7980 
+Departures: 7980 
+
+Monitor at: 1603.8757642502503 
+Customers in queue: 2 
+Arrivals: 7984 
+Departures: 7982 
+
+Monitor at: 1604.7667290380411 
+Customers in queue: 2 
+Arrivals: 7989 
+Departures: 7987 
+
+Monitor at: 1605.3738147760523 
+Customers in queue: 2 
+Arrivals: 7991 
+Departures: 7989 
+
+Monitor at: 1606.3962860834083 
+Customers in queue: 0 
+Arrivals: 7994 
+Departures: 7994 
+
+Monitor at: 1607.6728832933795 
+Customers in queue: 1 
+Arrivals: 7997 
+Departures: 7996 
+
+Monitor at: 1607.7302510923932 
+Customers in queue: 1 
+Arrivals: 7997 
+Departures: 7996 
+
+Monitor at: 1608.428830996428 
+Customers in queue: 7 
+Arrivals: 8005 
+Departures: 7998 
+
+Monitor at: 1609.554808553341 
+Customers in queue: 9 
+Arrivals: 8013 
+Departures: 8004 
+
+Monitor at: 1611.6483739679352 
+Customers in queue: 9 
+Arrivals: 8024 
+Departures: 8015 
+
+Monitor at: 1613.6676034524464 
+Customers in queue: 0 
+Arrivals: 8030 
+Departures: 8030 
+
+Monitor at: 1614.3470954771872 
+Customers in queue: 1 
+Arrivals: 8031 
+Departures: 8030 
+
+Monitor at: 1614.8173377434757 
+Customers in queue: 2 
+Arrivals: 8032 
+Departures: 8030 
+
+Monitor at: 1614.8929411702159 
+Customers in queue: 0 
+Arrivals: 8032 
+Departures: 8032 
+
+Monitor at: 1617.1402350754483 
+Customers in queue: 0 
+Arrivals: 8040 
+Departures: 8040 
+
+Monitor at: 1618.029022878285 
+Customers in queue: 2 
+Arrivals: 8044 
+Departures: 8042 
+
+Monitor at: 1618.3034657782835 
+Customers in queue: 1 
+Arrivals: 8048 
+Departures: 8047 
+
+Monitor at: 1620.37278356851 
+Customers in queue: 9 
+Arrivals: 8064 
+Departures: 8055 
+
+Monitor at: 1620.84924205198 
+Customers in queue: 9 
+Arrivals: 8066 
+Departures: 8057 
+
+Monitor at: 1620.9219694823646 
+Customers in queue: 9 
+Arrivals: 8067 
+Departures: 8058 
+
+Monitor at: 1621.6326569024625 
+Customers in queue: 5 
+Arrivals: 8068 
+Departures: 8063 
+
+Monitor at: 1623.2193919338215 
+Customers in queue: 0 
+Arrivals: 8072 
+Departures: 8072 
+
+Monitor at: 1623.3630299120368 
+Customers in queue: 0 
+Arrivals: 8074 
+Departures: 8074 
+
+Monitor at: 1625.0914239393371 
+Customers in queue: 0 
+Arrivals: 8079 
+Departures: 8079 
+
+Monitor at: 1625.5837961673726 
+Customers in queue: 0 
+Arrivals: 8079 
+Departures: 8079 
+
+Monitor at: 1625.7969493230776 
+Customers in queue: 0 
+Arrivals: 8079 
+Departures: 8079 
+
+Monitor at: 1627.7930090763293 
+Customers in queue: 1 
+Arrivals: 8090 
+Departures: 8089 
+
+Monitor at: 1627.8723187442463 
+Customers in queue: 1 
+Arrivals: 8091 
+Departures: 8090 
+
+Monitor at: 1628.5351095994388 
+Customers in queue: 4 
+Arrivals: 8098 
+Departures: 8094 
+
+Monitor at: 1629.5387839546381 
+Customers in queue: 6 
+Arrivals: 8106 
+Departures: 8100 
+
+Monitor at: 1632.239343383103 
+Customers in queue: 1 
+Arrivals: 8119 
+Departures: 8118 
+
+Monitor at: 1633.647647324998 
+Customers in queue: 2 
+Arrivals: 8127 
+Departures: 8125 
+
+Monitor at: 1634.4026248807006 
+Customers in queue: 1 
+Arrivals: 8130 
+Departures: 8129 
+
+Monitor at: 1635.8168511403396 
+Customers in queue: 2 
+Arrivals: 8139 
+Departures: 8137 
+
+Monitor at: 1635.8338236402708 
+Customers in queue: 3 
+Arrivals: 8140 
+Departures: 8137 
+
+Monitor at: 1636.5116973331608 
+Customers in queue: 0 
+Arrivals: 8144 
+Departures: 8144 
+
+Monitor at: 1636.6657902307588 
+Customers in queue: 0 
+Arrivals: 8145 
+Departures: 8145 
+
+Monitor at: 1637.2847750242317 
+Customers in queue: 0 
+Arrivals: 8149 
+Departures: 8149 
+
+Monitor at: 1641.9997108893006 
+Customers in queue: 1 
+Arrivals: 8171 
+Departures: 8170 
+
+Monitor at: 1644.432935530917 
+Customers in queue: 0 
+Arrivals: 8179 
+Departures: 8179 
+
+Monitor at: 1645.0887419126154 
+Customers in queue: 0 
+Arrivals: 8182 
+Departures: 8182 
+
+Monitor at: 1645.184467834663 
+Customers in queue: 0 
+Arrivals: 8182 
+Departures: 8182 
+
+Monitor at: 1645.2894964972104 
+Customers in queue: 0 
+Arrivals: 8182 
+Departures: 8182 
+
+Monitor at: 1647.9184175788992 
+Customers in queue: 1 
+Arrivals: 8198 
+Departures: 8197 
+
+Monitor at: 1648.0278700871324 
+Customers in queue: 1 
+Arrivals: 8198 
+Departures: 8197 
+
+Monitor at: 1648.477876636105 
+Customers in queue: 0 
+Arrivals: 8198 
+Departures: 8198 
+
+Monitor at: 1648.8339892788279 
+Customers in queue: 0 
+Arrivals: 8198 
+Departures: 8198 
+
+Monitor at: 1649.9378881946016 
+Customers in queue: 0 
+Arrivals: 8202 
+Departures: 8202 
+
+Monitor at: 1650.2511137331596 
+Customers in queue: 1 
+Arrivals: 8203 
+Departures: 8202 
+
+Monitor at: 1652.0149672557268 
+Customers in queue: 0 
+Arrivals: 8211 
+Departures: 8211 
+
+Monitor at: 1653.230638337541 
+Customers in queue: 0 
+Arrivals: 8214 
+Departures: 8214 
+
+Monitor at: 1653.372373543076 
+Customers in queue: 1 
+Arrivals: 8215 
+Departures: 8214 
+
+Monitor at: 1653.9395025144613 
+Customers in queue: 0 
+Arrivals: 8216 
+Departures: 8216 
+
+Monitor at: 1654.1033112007137 
+Customers in queue: 0 
+Arrivals: 8216 
+Departures: 8216 
+
+Monitor at: 1654.2684426444816 
+Customers in queue: 0 
+Arrivals: 8216 
+Departures: 8216 
+
+Monitor at: 1655.3661630763957 
+Customers in queue: 3 
+Arrivals: 8225 
+Departures: 8222 
+
+Monitor at: 1656.560466360897 
+Customers in queue: 2 
+Arrivals: 8233 
+Departures: 8231 
+
+Monitor at: 1657.3051501719374 
+Customers in queue: 1 
+Arrivals: 8239 
+Departures: 8238 
+
+Monitor at: 1658.0852756948127 
+Customers in queue: 1 
+Arrivals: 8242 
+Departures: 8241 
+
+Monitor at: 1658.241844249457 
+Customers in queue: 0 
+Arrivals: 8242 
+Departures: 8242 
+
+Monitor at: 1658.4701992311416 
+Customers in queue: 0 
+Arrivals: 8243 
+Departures: 8243 
+
+Monitor at: 1658.614748224915 
+Customers in queue: 0 
+Arrivals: 8245 
+Departures: 8245 
+
+Monitor at: 1660.305123525449 
+Customers in queue: 0 
+Arrivals: 8259 
+Departures: 8259 
+
+Monitor at: 1660.5411919942069 
+Customers in queue: 2 
+Arrivals: 8261 
+Departures: 8259 
+
+Monitor at: 1661.0382035304413 
+Customers in queue: 0 
+Arrivals: 8263 
+Departures: 8263 
+
+Monitor at: 1661.33787501646 
+Customers in queue: 0 
+Arrivals: 8265 
+Departures: 8265 
+
+Monitor at: 1663.3105710007899 
+Customers in queue: 1 
+Arrivals: 8274 
+Departures: 8273 
+
+Monitor at: 1663.6412000450896 
+Customers in queue: 1 
+Arrivals: 8276 
+Departures: 8275 
+
+Monitor at: 1663.661846897225 
+Customers in queue: 1 
+Arrivals: 8276 
+Departures: 8275 
+
+Monitor at: 1664.2795208182233 
+Customers in queue: 1 
+Arrivals: 8279 
+Departures: 8278 
+
+Monitor at: 1664.5494556896615 
+Customers in queue: 2 
+Arrivals: 8280 
+Departures: 8278 
+
+Monitor at: 1665.1386563365245 
+Customers in queue: 1 
+Arrivals: 8282 
+Departures: 8281 
+
+Monitor at: 1666.825638125787 
+Customers in queue: 3 
+Arrivals: 8288 
+Departures: 8285 
+
+Monitor at: 1667.2359739695933 
+Customers in queue: 1 
+Arrivals: 8289 
+Departures: 8288 
+
+Monitor at: 1668.7502353525003 
+Customers in queue: 0 
+Arrivals: 8297 
+Departures: 8297 
+
+Monitor at: 1669.3682534176826 
+Customers in queue: 2 
+Arrivals: 8301 
+Departures: 8299 
+
+Monitor at: 1669.3699875813193 
+Customers in queue: 2 
+Arrivals: 8301 
+Departures: 8299 
+
+Monitor at: 1670.476549302526 
+Customers in queue: 0 
+Arrivals: 8302 
+Departures: 8302 
+
+Monitor at: 1675.2319540333433 
+Customers in queue: 0 
+Arrivals: 8323 
+Departures: 8323 
+
+Monitor at: 1675.8024737926246 
+Customers in queue: 0 
+Arrivals: 8323 
+Departures: 8323 
+
+Monitor at: 1677.0813854174646 
+Customers in queue: 4 
+Arrivals: 8334 
+Departures: 8330 
+
+Monitor at: 1679.9289921341667 
+Customers in queue: 0 
+Arrivals: 8349 
+Departures: 8349 
+
+Monitor at: 1680.6010943339593 
+Customers in queue: 1 
+Arrivals: 8351 
+Departures: 8350 
+
+Monitor at: 1680.7501629396625 
+Customers in queue: 1 
+Arrivals: 8351 
+Departures: 8350 
+
+Monitor at: 1681.3912848154084 
+Customers in queue: 0 
+Arrivals: 8353 
+Departures: 8353 
+
+Monitor at: 1682.5464388817998 
+Customers in queue: 2 
+Arrivals: 8363 
+Departures: 8361 
+
+Monitor at: 1682.8030243070043 
+Customers in queue: 2 
+Arrivals: 8365 
+Departures: 8363 
+
+Monitor at: 1686.7783157452036 
+Customers in queue: 0 
+Arrivals: 8382 
+Departures: 8382 
+
+Monitor at: 1687.2177279016003 
+Customers in queue: 0 
+Arrivals: 8384 
+Departures: 8384 
+
+Monitor at: 1689.4981939055376 
+Customers in queue: 1 
+Arrivals: 8390 
+Departures: 8389 
+
+Monitor at: 1689.7682457549438 
+Customers in queue: 2 
+Arrivals: 8391 
+Departures: 8389 
+
+Monitor at: 1689.7804292201695 
+Customers in queue: 2 
+Arrivals: 8391 
+Departures: 8389 
+
+Monitor at: 1692.4394383745919 
+Customers in queue: 0 
+Arrivals: 8403 
+Departures: 8403 
+
+Monitor at: 1693.4000017217606 
+Customers in queue: 0 
+Arrivals: 8404 
+Departures: 8404 
+
+Monitor at: 1693.4312730330955 
+Customers in queue: 0 
+Arrivals: 8404 
+Departures: 8404 
+
+Monitor at: 1695.2088670143203 
+Customers in queue: 0 
+Arrivals: 8412 
+Departures: 8412 
+
+Monitor at: 1695.4342895231991 
+Customers in queue: 1 
+Arrivals: 8413 
+Departures: 8412 
+
+Monitor at: 1696.0873117232638 
+Customers in queue: 1 
+Arrivals: 8417 
+Departures: 8416 
+
+Monitor at: 1698.892974554033 
+Customers in queue: 3 
+Arrivals: 8434 
+Departures: 8431 
+
+Monitor at: 1701.6732443939977 
+Customers in queue: 8 
+Arrivals: 8452 
+Departures: 8444 
+
+Monitor at: 1703.013854947118 
+Customers in queue: 2 
+Arrivals: 8458 
+Departures: 8456 
+
+Monitor at: 1703.45302021564 
+Customers in queue: 1 
+Arrivals: 8460 
+Departures: 8459 
+
+Monitor at: 1703.773912089735 
+Customers in queue: 2 
+Arrivals: 8462 
+Departures: 8460 
+
+Monitor at: 1704.7801704754622 
+Customers in queue: 0 
+Arrivals: 8466 
+Departures: 8466 
+
+Monitor at: 1705.7038555683419 
+Customers in queue: 4 
+Arrivals: 8474 
+Departures: 8470 
+
+Monitor at: 1706.543078261069 
+Customers in queue: 3 
+Arrivals: 8478 
+Departures: 8475 
+
+Monitor at: 1708.6402732946567 
+Customers in queue: 0 
+Arrivals: 8490 
+Departures: 8490 
+
+Monitor at: 1709.9552182214616 
+Customers in queue: 2 
+Arrivals: 8494 
+Departures: 8492 
+
+Monitor at: 1712.9983241705888 
+Customers in queue: 1 
+Arrivals: 8508 
+Departures: 8507 
+
+Monitor at: 1713.0462958143646 
+Customers in queue: 1 
+Arrivals: 8508 
+Departures: 8507 
+
+Monitor at: 1714.2242387832828 
+Customers in queue: 0 
+Arrivals: 8513 
+Departures: 8513 
+
+Monitor at: 1714.4098832191823 
+Customers in queue: 2 
+Arrivals: 8515 
+Departures: 8513 
+
+Monitor at: 1715.4666704021772 
+Customers in queue: 3 
+Arrivals: 8521 
+Departures: 8518 
+
+Monitor at: 1715.8824217607075 
+Customers in queue: 5 
+Arrivals: 8523 
+Departures: 8518 
+
+Monitor at: 1716.5299881329543 
+Customers in queue: 4 
+Arrivals: 8526 
+Departures: 8522 
+
+Monitor at: 1716.9506237946318 
+Customers in queue: 4 
+Arrivals: 8528 
+Departures: 8524 
+
+Monitor at: 1717.8308997543234 
+Customers in queue: 5 
+Arrivals: 8537 
+Departures: 8532 
+
+Monitor at: 1718.1255892894128 
+Customers in queue: 1 
+Arrivals: 8537 
+Departures: 8536 
+
+Monitor at: 1718.303726722562 
+Customers in queue: 2 
+Arrivals: 8538 
+Departures: 8536 
+
+Monitor at: 1719.9025082735263 
+Customers in queue: 1 
+Arrivals: 8546 
+Departures: 8545 
+
+Monitor at: 1720.0836666871385 
+Customers in queue: 4 
+Arrivals: 8550 
+Departures: 8546 
+
+Monitor at: 1724.029495363254 
+Customers in queue: 0 
+Arrivals: 8562 
+Departures: 8562 
+
+Monitor at: 1724.1563602472115 
+Customers in queue: 0 
+Arrivals: 8562 
+Departures: 8562 
+
+Monitor at: 1728.005427543129 
+Customers in queue: 5 
+Arrivals: 8583 
+Departures: 8578 
+
+Monitor at: 1729.8350149746493 
+Customers in queue: 5 
+Arrivals: 8593 
+Departures: 8588 
+
+Monitor at: 1730.402830602248 
+Customers in queue: 1 
+Arrivals: 8594 
+Departures: 8593 
+
+Monitor at: 1730.9663226851603 
+Customers in queue: 0 
+Arrivals: 8596 
+Departures: 8596 
+
+Monitor at: 1731.966826142499 
+Customers in queue: 0 
+Arrivals: 8598 
+Departures: 8598 
+
+Monitor at: 1732.7821624501942 
+Customers in queue: 0 
+Arrivals: 8600 
+Departures: 8600 
+
+Monitor at: 1733.0026188939498 
+Customers in queue: 0 
+Arrivals: 8600 
+Departures: 8600 
+
+Monitor at: 1733.25102547828 
+Customers in queue: 0 
+Arrivals: 8600 
+Departures: 8600 
+
+Monitor at: 1734.5649618295283 
+Customers in queue: 4 
+Arrivals: 8609 
+Departures: 8605 
+
+Monitor at: 1735.8955677666386 
+Customers in queue: 4 
+Arrivals: 8613 
+Departures: 8609 
+
+Monitor at: 1737.3686258697246 
+Customers in queue: 1 
+Arrivals: 8620 
+Departures: 8619 
+
+Monitor at: 1738.1477297538563 
+Customers in queue: 2 
+Arrivals: 8625 
+Departures: 8623 
+
+Monitor at: 1738.3770839655444 
+Customers in queue: 0 
+Arrivals: 8626 
+Departures: 8626 
+
+Monitor at: 1738.7491096131073 
+Customers in queue: 1 
+Arrivals: 8629 
+Departures: 8628 
+
+Monitor at: 1740.0760652065035 
+Customers in queue: 0 
+Arrivals: 8633 
+Departures: 8633 
+
+Monitor at: 1742.178393889557 
+Customers in queue: 0 
+Arrivals: 8639 
+Departures: 8639 
+
+Monitor at: 1744.6241339973074 
+Customers in queue: 0 
+Arrivals: 8650 
+Departures: 8650 
+
+Monitor at: 1744.783575222042 
+Customers in queue: 0 
+Arrivals: 8650 
+Departures: 8650 
+
+Monitor at: 1746.5775698583661 
+Customers in queue: 1 
+Arrivals: 8658 
+Departures: 8657 
+
+Monitor at: 1747.1794204550843 
+Customers in queue: 0 
+Arrivals: 8660 
+Departures: 8660 
+
+Monitor at: 1748.9219964745805 
+Customers in queue: 10 
+Arrivals: 8677 
+Departures: 8667 
+
+Monitor at: 1748.9243302000107 
+Customers in queue: 10 
+Arrivals: 8677 
+Departures: 8667 
+
+Monitor at: 1751.2525091336233 
+Customers in queue: 8 
+Arrivals: 8687 
+Departures: 8679 
+
+Monitor at: 1752.5226904570209 
+Customers in queue: 9 
+Arrivals: 8695 
+Departures: 8686 
+
+Monitor at: 1753.4424219412133 
+Customers in queue: 9 
+Arrivals: 8704 
+Departures: 8695 
+
+Monitor at: 1754.0308209445548 
+Customers in queue: 6 
+Arrivals: 8708 
+Departures: 8702 
+
+Monitor at: 1755.2255134456555 
+Customers in queue: 2 
+Arrivals: 8711 
+Departures: 8709 
+
+Monitor at: 1755.5556423205878 
+Customers in queue: 3 
+Arrivals: 8714 
+Departures: 8711 
+
+Monitor at: 1756.312661124468 
+Customers in queue: 0 
+Arrivals: 8715 
+Departures: 8715 
+
+Monitor at: 1757.1788046992601 
+Customers in queue: 3 
+Arrivals: 8720 
+Departures: 8717 
+
+Monitor at: 1762.8203213859294 
+Customers in queue: 1 
+Arrivals: 8745 
+Departures: 8744 
+
+Monitor at: 1763.409206270919 
+Customers in queue: 2 
+Arrivals: 8749 
+Departures: 8747 
+
+Monitor at: 1766.0884060441572 
+Customers in queue: 3 
+Arrivals: 8759 
+Departures: 8756 
+
+Monitor at: 1766.3419264483894 
+Customers in queue: 3 
+Arrivals: 8760 
+Departures: 8757 
+
+Monitor at: 1768.2129325821506 
+Customers in queue: 2 
+Arrivals: 8775 
+Departures: 8773 
+
+Monitor at: 1768.2706806668434 
+Customers in queue: 2 
+Arrivals: 8775 
+Departures: 8773 
+
+Monitor at: 1771.5175589943226 
+Customers in queue: 1 
+Arrivals: 8796 
+Departures: 8795 
+
+Monitor at: 1772.8521066634878 
+Customers in queue: 2 
+Arrivals: 8808 
+Departures: 8806 
+
+Monitor at: 1773.2862735575625 
+Customers in queue: 0 
+Arrivals: 8809 
+Departures: 8809 
+
+Monitor at: 1773.4368496166214 
+Customers in queue: 2 
+Arrivals: 8811 
+Departures: 8809 
+
+Monitor at: 1774.012447747746 
+Customers in queue: 4 
+Arrivals: 8817 
+Departures: 8813 
+
+Monitor at: 1774.184773674157 
+Customers in queue: 2 
+Arrivals: 8817 
+Departures: 8815 
+
+Monitor at: 1776.2560075787978 
+Customers in queue: 0 
+Arrivals: 8824 
+Departures: 8824 
+
+Monitor at: 1776.535386648414 
+Customers in queue: 0 
+Arrivals: 8824 
+Departures: 8824 
+
+Monitor at: 1776.7637453854013 
+Customers in queue: 1 
+Arrivals: 8825 
+Departures: 8824 
+
+Monitor at: 1778.31278551439 
+Customers in queue: 0 
+Arrivals: 8829 
+Departures: 8829 
+
+Monitor at: 1778.5898288478975 
+Customers in queue: 0 
+Arrivals: 8830 
+Departures: 8830 
+
+Monitor at: 1778.6907136326013 
+Customers in queue: 0 
+Arrivals: 8830 
+Departures: 8830 
+
+Monitor at: 1782.1959953089406 
+Customers in queue: 2 
+Arrivals: 8845 
+Departures: 8843 
+
+Monitor at: 1783.784591346926 
+Customers in queue: 2 
+Arrivals: 8855 
+Departures: 8853 
+
+Monitor at: 1784.7071733821515 
+Customers in queue: 1 
+Arrivals: 8857 
+Departures: 8856 
+
+Monitor at: 1785.348774643067 
+Customers in queue: 0 
+Arrivals: 8860 
+Departures: 8860 
+
+Monitor at: 1785.6372305012464 
+Customers in queue: 0 
+Arrivals: 8860 
+Departures: 8860 
+
+Monitor at: 1787.3308411134176 
+Customers in queue: 3 
+Arrivals: 8868 
+Departures: 8865 
+
+Monitor at: 1788.098968352888 
+Customers in queue: 0 
+Arrivals: 8874 
+Departures: 8874 
+
+Monitor at: 1788.1351793252081 
+Customers in queue: 0 
+Arrivals: 8874 
+Departures: 8874 
+
+Monitor at: 1788.4507707599355 
+Customers in queue: 0 
+Arrivals: 8875 
+Departures: 8875 
+
+Monitor at: 1790.0004797183083 
+Customers in queue: 0 
+Arrivals: 8883 
+Departures: 8883 
+
+Monitor at: 1792.655953342226 
+Customers in queue: 2 
+Arrivals: 8900 
+Departures: 8898 
+
+Monitor at: 1792.86905845575 
+Customers in queue: 2 
+Arrivals: 8903 
+Departures: 8901 
+
+Monitor at: 1793.3635317666408 
+Customers in queue: 0 
+Arrivals: 8907 
+Departures: 8907 
+
+Monitor at: 1793.3980720004101 
+Customers in queue: 0 
+Arrivals: 8907 
+Departures: 8907 
+
+Monitor at: 1793.7463885653578 
+Customers in queue: 0 
+Arrivals: 8908 
+Departures: 8908 
+
+Monitor at: 1794.690543743849 
+Customers in queue: 2 
+Arrivals: 8915 
+Departures: 8913 
+
+Monitor at: 1795.3632383311794 
+Customers in queue: 0 
+Arrivals: 8918 
+Departures: 8918 
+
+Monitor at: 1795.7242223865733 
+Customers in queue: 1 
+Arrivals: 8919 
+Departures: 8918 
+
+Monitor at: 1795.8808165750952 
+Customers in queue: 1 
+Arrivals: 8919 
+Departures: 8918 
+
+Monitor at: 1798.408242054637 
+Customers in queue: 3 
+Arrivals: 8934 
+Departures: 8931 
+
+Monitor at: 1800.1656243083676 
+Customers in queue: 0 
+Arrivals: 8939 
+Departures: 8939 
+
+Monitor at: 1801.01972363997 
+Customers in queue: 3 
+Arrivals: 8947 
+Departures: 8944 
+
+Monitor at: 1801.0241361106234 
+Customers in queue: 3 
+Arrivals: 8947 
+Departures: 8944 
+
+Monitor at: 1801.0399755149833 
+Customers in queue: 3 
+Arrivals: 8947 
+Departures: 8944 
+
+Monitor at: 1802.6028942199673 
+Customers in queue: 1 
+Arrivals: 8955 
+Departures: 8954 
+
+Monitor at: 1805.4209200440519 
+Customers in queue: 5 
+Arrivals: 8971 
+Departures: 8966 
+
+Monitor at: 1805.5193454194507 
+Customers in queue: 6 
+Arrivals: 8972 
+Departures: 8966 
+
+Monitor at: 1805.6989807565867 
+Customers in queue: 9 
+Arrivals: 8975 
+Departures: 8966 
+
+Monitor at: 1806.610230296952 
+Customers in queue: 8 
+Arrivals: 8980 
+Departures: 8972 
+
+Monitor at: 1807.1010027539837 
+Customers in queue: 8 
+Arrivals: 8984 
+Departures: 8976 
+
+Monitor at: 1808.219865884603 
+Customers in queue: 7 
+Arrivals: 8987 
+Departures: 8980 
+
+Monitor at: 1808.4913193795214 
+Customers in queue: 2 
+Arrivals: 8987 
+Departures: 8985 
+
+Monitor at: 1808.64988927299 
+Customers in queue: 2 
+Arrivals: 8987 
+Departures: 8985 
+
+Monitor at: 1809.3163825790969 
+Customers in queue: 4 
+Arrivals: 8991 
+Departures: 8987 
+
+Monitor at: 1809.4202305420188 
+Customers in queue: 4 
+Arrivals: 8991 
+Departures: 8987 
+
+Monitor at: 1810.0921582276346 
+Customers in queue: 5 
+Arrivals: 8994 
+Departures: 8989 
+
+Monitor at: 1811.1958238657728 
+Customers in queue: 4 
+Arrivals: 9000 
+Departures: 8996 
+
+Monitor at: 1813.6624931610174 
+Customers in queue: 0 
+Arrivals: 9011 
+Departures: 9011 
+
+Monitor at: 1815.0466382725642 
+Customers in queue: 3 
+Arrivals: 9022 
+Departures: 9019 
+
+Monitor at: 1815.1205373648365 
+Customers in queue: 3 
+Arrivals: 9022 
+Departures: 9019 
+
+Monitor at: 1815.315933783454 
+Customers in queue: 3 
+Arrivals: 9024 
+Departures: 9021 
+
+Monitor at: 1817.4143291607256 
+Customers in queue: 1 
+Arrivals: 9037 
+Departures: 9036 
+
+Monitor at: 1817.5962085598985 
+Customers in queue: 1 
+Arrivals: 9037 
+Departures: 9036 
+
+Monitor at: 1818.687847538135 
+Customers in queue: 1 
+Arrivals: 9039 
+Departures: 9038 
+
+Monitor at: 1820.2860052523895 
+Customers in queue: 0 
+Arrivals: 9048 
+Departures: 9048 
+
+Monitor at: 1821.9624435297117 
+Customers in queue: 3 
+Arrivals: 9054 
+Departures: 9051 
+
+Monitor at: 1821.9941434338552 
+Customers in queue: 3 
+Arrivals: 9054 
+Departures: 9051 
+
+Monitor at: 1822.3951943662314 
+Customers in queue: 6 
+Arrivals: 9058 
+Departures: 9052 
+
+Monitor at: 1823.0887061176911 
+Customers in queue: 7 
+Arrivals: 9062 
+Departures: 9055 
+
+Monitor at: 1823.7104541665167 
+Customers in queue: 5 
+Arrivals: 9064 
+Departures: 9059 
+
+Monitor at: 1826.6400631392196 
+Customers in queue: 0 
+Arrivals: 9075 
+Departures: 9075 
+
+Monitor at: 1826.8459199282336 
+Customers in queue: 0 
+Arrivals: 9075 
+Departures: 9075 
+
+Monitor at: 1827.1273246377814 
+Customers in queue: 2 
+Arrivals: 9078 
+Departures: 9076 
+
+Monitor at: 1828.093806613052 
+Customers in queue: 5 
+Arrivals: 9087 
+Departures: 9082 
+
+Monitor at: 1829.4066547048324 
+Customers in queue: 8 
+Arrivals: 9097 
+Departures: 9089 
+
+Monitor at: 1832.2940198938343 
+Customers in queue: 12 
+Arrivals: 9110 
+Departures: 9098 
+
+Monitor at: 1834.8953270344675 
+Customers in queue: 2 
+Arrivals: 9121 
+Departures: 9119 
+
+Monitor at: 1835.24037062104 
+Customers in queue: 4 
+Arrivals: 9123 
+Departures: 9119 
+
+Monitor at: 1837.6678716335773 
+Customers in queue: 0 
+Arrivals: 9135 
+Departures: 9135 
+
+Monitor at: 1838.6496788717573 
+Customers in queue: 2 
+Arrivals: 9140 
+Departures: 9138 
+
+Monitor at: 1840.0205929911972 
+Customers in queue: 0 
+Arrivals: 9148 
+Departures: 9148 
+
+Monitor at: 1840.4713279227374 
+Customers in queue: 1 
+Arrivals: 9149 
+Departures: 9148 
+
+Monitor at: 1840.603726361937 
+Customers in queue: 0 
+Arrivals: 9150 
+Departures: 9150 
+
+Monitor at: 1841.1955778872853 
+Customers in queue: 0 
+Arrivals: 9154 
+Departures: 9154 
+
+Monitor at: 1841.727545242353 
+Customers in queue: 1 
+Arrivals: 9157 
+Departures: 9156 
+
+Monitor at: 1841.8719924467284 
+Customers in queue: 0 
+Arrivals: 9158 
+Departures: 9158 
+
+Monitor at: 1842.157853960665 
+Customers in queue: 0 
+Arrivals: 9159 
+Departures: 9159 
+
+Monitor at: 1843.4623619115737 
+Customers in queue: 0 
+Arrivals: 9164 
+Departures: 9164 
+
+Monitor at: 1843.691972431493 
+Customers in queue: 0 
+Arrivals: 9164 
+Departures: 9164 
+
+Monitor at: 1844.9654212444764 
+Customers in queue: 0 
+Arrivals: 9171 
+Departures: 9171 
+
+Monitor at: 1846.4243589655157 
+Customers in queue: 1 
+Arrivals: 9181 
+Departures: 9180 
+
+Monitor at: 1846.806905120673 
+Customers in queue: 0 
+Arrivals: 9182 
+Departures: 9182 
+
+Monitor at: 1847.0283360444648 
+Customers in queue: 0 
+Arrivals: 9183 
+Departures: 9183 
+
+Monitor at: 1848.9302184107598 
+Customers in queue: 0 
+Arrivals: 9191 
+Departures: 9191 
+
+Monitor at: 1849.3110723625982 
+Customers in queue: 2 
+Arrivals: 9193 
+Departures: 9191 
+
+Monitor at: 1849.6811850529323 
+Customers in queue: 3 
+Arrivals: 9196 
+Departures: 9193 
+
+Monitor at: 1850.7700096644721 
+Customers in queue: 4 
+Arrivals: 9201 
+Departures: 9197 
+
+Monitor at: 1850.9226828543226 
+Customers in queue: 3 
+Arrivals: 9201 
+Departures: 9198 
+
+Monitor at: 1851.167106823228 
+Customers in queue: 2 
+Arrivals: 9202 
+Departures: 9200 
+
+Monitor at: 1851.3007544963252 
+Customers in queue: 2 
+Arrivals: 9202 
+Departures: 9200 
+
+Monitor at: 1853.5712933671944 
+Customers in queue: 0 
+Arrivals: 9211 
+Departures: 9211 
+
+Monitor at: 1854.1991946264857 
+Customers in queue: 0 
+Arrivals: 9214 
+Departures: 9214 
+
+Monitor at: 1854.625742605805 
+Customers in queue: 0 
+Arrivals: 9216 
+Departures: 9216 
+
+Monitor at: 1854.9072302969714 
+Customers in queue: 1 
+Arrivals: 9217 
+Departures: 9216 
+
+Monitor at: 1855.6978368486805 
+Customers in queue: 0 
+Arrivals: 9217 
+Departures: 9217 
+
+Monitor at: 1859.5644173750268 
+Customers in queue: 5 
+Arrivals: 9244 
+Departures: 9239 
+
+Monitor at: 1860.3148297044286 
+Customers in queue: 4 
+Arrivals: 9248 
+Departures: 9244 
+
+Monitor at: 1860.6270904760283 
+Customers in queue: 4 
+Arrivals: 9251 
+Departures: 9247 
+
+Monitor at: 1861.1847439805977 
+Customers in queue: 1 
+Arrivals: 9253 
+Departures: 9252 
+
+Monitor at: 1861.2157012817224 
+Customers in queue: 1 
+Arrivals: 9253 
+Departures: 9252 
+
+Monitor at: 1863.3726371028265 
+Customers in queue: 0 
+Arrivals: 9262 
+Departures: 9262 
+
+Monitor at: 1864.2450269844362 
+Customers in queue: 0 
+Arrivals: 9266 
+Departures: 9266 
+
+Monitor at: 1864.7743046151606 
+Customers in queue: 0 
+Arrivals: 9270 
+Departures: 9270 
+
+Monitor at: 1865.1758101836153 
+Customers in queue: 0 
+Arrivals: 9274 
+Departures: 9274 
+
+Monitor at: 1865.8522089146163 
+Customers in queue: 1 
+Arrivals: 9278 
+Departures: 9277 
+
+Monitor at: 1866.0409897610857 
+Customers in queue: 0 
+Arrivals: 9279 
+Departures: 9279 
+
+Monitor at: 1867.2816726838064 
+Customers in queue: 3 
+Arrivals: 9288 
+Departures: 9285 
+
+Monitor at: 1867.6209869349793 
+Customers in queue: 2 
+Arrivals: 9290 
+Departures: 9288 
+
+Monitor at: 1868.9411138434236 
+Customers in queue: 3 
+Arrivals: 9300 
+Departures: 9297 
+
+Monitor at: 1870.4058249155069 
+Customers in queue: 1 
+Arrivals: 9304 
+Departures: 9303 
+
+Monitor at: 1871.0260646938223 
+Customers in queue: 5 
+Arrivals: 9310 
+Departures: 9305 
+
+Monitor at: 1872.1050191209204 
+Customers in queue: 3 
+Arrivals: 9314 
+Departures: 9311 
+
+Monitor at: 1872.3389867580267 
+Customers in queue: 5 
+Arrivals: 9316 
+Departures: 9311 
+
+Monitor at: 1873.377546838811 
+Customers in queue: 1 
+Arrivals: 9318 
+Departures: 9317 
+
+Monitor at: 1873.586077191047 
+Customers in queue: 2 
+Arrivals: 9319 
+Departures: 9317 
+
+Monitor at: 1874.7908688353155 
+Customers in queue: 0 
+Arrivals: 9324 
+Departures: 9324 
+
+Monitor at: 1876.3913910748852 
+Customers in queue: 5 
+Arrivals: 9333 
+Departures: 9328 
+
+Monitor at: 1876.61318035784 
+Customers in queue: 4 
+Arrivals: 9333 
+Departures: 9329 
+
+Monitor at: 1877.960431447661 
+Customers in queue: 2 
+Arrivals: 9336 
+Departures: 9334 
+
+Monitor at: 1878.9468497587786 
+Customers in queue: 4 
+Arrivals: 9341 
+Departures: 9337 
+
+Monitor at: 1879.020852719663 
+Customers in queue: 4 
+Arrivals: 9341 
+Departures: 9337 
+
+Monitor at: 1880.6462008147143 
+Customers in queue: 5 
+Arrivals: 9353 
+Departures: 9348 
+
+Monitor at: 1881.5852994502968 
+Customers in queue: 1 
+Arrivals: 9357 
+Departures: 9356 
+
+Monitor at: 1882.9497441103165 
+Customers in queue: 1 
+Arrivals: 9363 
+Departures: 9362 
+
+Monitor at: 1883.0024616442354 
+Customers in queue: 1 
+Arrivals: 9363 
+Departures: 9362 
+
+Monitor at: 1884.953926517801 
+Customers in queue: 1 
+Arrivals: 9369 
+Departures: 9368 
+
+Monitor at: 1886.7196153968955 
+Customers in queue: 0 
+Arrivals: 9375 
+Departures: 9375 
+
+Monitor at: 1888.3437751629588 
+Customers in queue: 2 
+Arrivals: 9384 
+Departures: 9382 
+
+Monitor at: 1889.6943304650054 
+Customers in queue: 0 
+Arrivals: 9389 
+Departures: 9389 
+
+Monitor at: 1890.865534628589 
+Customers in queue: 0 
+Arrivals: 9392 
+Departures: 9392 
+
+Monitor at: 1890.899586369106 
+Customers in queue: 0 
+Arrivals: 9392 
+Departures: 9392 
+
+Monitor at: 1891.7044127364618 
+Customers in queue: 0 
+Arrivals: 9392 
+Departures: 9392 
+
+Monitor at: 1892.202635010703 
+Customers in queue: 6 
+Arrivals: 9398 
+Departures: 9392 
+
+Monitor at: 1892.87723004633 
+Customers in queue: 1 
+Arrivals: 9402 
+Departures: 9401 
+
+Monitor at: 1893.2977596955743 
+Customers in queue: 0 
+Arrivals: 9403 
+Departures: 9403 
+
+Monitor at: 1894.6572602748172 
+Customers in queue: 4 
+Arrivals: 9410 
+Departures: 9406 
+
+Monitor at: 1895.1686668343227 
+Customers in queue: 6 
+Arrivals: 9415 
+Departures: 9409 
+
+Monitor at: 1895.3511191770967 
+Customers in queue: 8 
+Arrivals: 9417 
+Departures: 9409 
+
+Monitor at: 1895.3907925893739 
+Customers in queue: 8 
+Arrivals: 9417 
+Departures: 9409 
+
+Monitor at: 1898.9806259000873 
+Customers in queue: 7 
+Arrivals: 9436 
+Departures: 9429 
+
+Monitor at: 1900.4871843302576 
+Customers in queue: 5 
+Arrivals: 9441 
+Departures: 9436 
+
+Monitor at: 1900.5634258346906 
+Customers in queue: 5 
+Arrivals: 9441 
+Departures: 9436 
+
+Monitor at: 1901.1927093164147 
+Customers in queue: 0 
+Arrivals: 9442 
+Departures: 9442 
+
+Monitor at: 1903.9713686798639 
+Customers in queue: 2 
+Arrivals: 9457 
+Departures: 9455 
+
+Monitor at: 1904.0532648232245 
+Customers in queue: 0 
+Arrivals: 9457 
+Departures: 9457 
+
+Monitor at: 1904.8114009069445 
+Customers in queue: 0 
+Arrivals: 9460 
+Departures: 9460 
+
+Monitor at: 1904.8867036516472 
+Customers in queue: 0 
+Arrivals: 9460 
+Departures: 9460 
+
+Monitor at: 1906.4018597615266 
+Customers in queue: 1 
+Arrivals: 9469 
+Departures: 9468 
+
+Monitor at: 1908.1219136633915 
+Customers in queue: 2 
+Arrivals: 9475 
+Departures: 9473 
+
+Monitor at: 1908.3614305633719 
+Customers in queue: 0 
+Arrivals: 9475 
+Departures: 9475 
+
+Monitor at: 1909.2538420374806 
+Customers in queue: 0 
+Arrivals: 9484 
+Departures: 9484 
+
+Monitor at: 1909.2670216475249 
+Customers in queue: 0 
+Arrivals: 9484 
+Departures: 9484 
+
+Monitor at: 1909.3175080623785 
+Customers in queue: 1 
+Arrivals: 9485 
+Departures: 9484 
+
+Monitor at: 1909.4575696917084 
+Customers in queue: 0 
+Arrivals: 9485 
+Departures: 9485 
+
+Monitor at: 1909.8145704232163 
+Customers in queue: 0 
+Arrivals: 9485 
+Departures: 9485 
+
+Monitor at: 1913.0279325442796 
+Customers in queue: 2 
+Arrivals: 9500 
+Departures: 9498 
+
+Monitor at: 1913.368073530417 
+Customers in queue: 1 
+Arrivals: 9501 
+Departures: 9500 
+
+Monitor at: 1913.7784482720672 
+Customers in queue: 1 
+Arrivals: 9501 
+Departures: 9500 
+
+Monitor at: 1914.723781101105 
+Customers in queue: 2 
+Arrivals: 9504 
+Departures: 9502 
+
+Monitor at: 1916.6523292658085 
+Customers in queue: 2 
+Arrivals: 9510 
+Departures: 9508 
+
+Monitor at: 1916.7712487134952 
+Customers in queue: 2 
+Arrivals: 9512 
+Departures: 9510 
+
+Monitor at: 1917.1248915214765 
+Customers in queue: 0 
+Arrivals: 9514 
+Departures: 9514 
+
+Monitor at: 1917.5589600049425 
+Customers in queue: 0 
+Arrivals: 9516 
+Departures: 9516 
+
+Monitor at: 1920.7550013691082 
+Customers in queue: 1 
+Arrivals: 9534 
+Departures: 9533 
+
+Monitor at: 1921.3129721407452 
+Customers in queue: 2 
+Arrivals: 9538 
+Departures: 9536 
+
+Monitor at: 1922.4727172642392 
+Customers in queue: 2 
+Arrivals: 9542 
+Departures: 9540 
+
+Monitor at: 1924.0262652218807 
+Customers in queue: 0 
+Arrivals: 9552 
+Departures: 9552 
+
+Monitor at: 1924.4672814591847 
+Customers in queue: 0 
+Arrivals: 9553 
+Departures: 9553 
+
+Monitor at: 1925.2735441232928 
+Customers in queue: 0 
+Arrivals: 9553 
+Departures: 9553 
+
+Monitor at: 1927.4371340781458 
+Customers in queue: 0 
+Arrivals: 9565 
+Departures: 9565 
+
+Monitor at: 1927.4883179456533 
+Customers in queue: 0 
+Arrivals: 9565 
+Departures: 9565 
+
+Monitor at: 1927.763251499326 
+Customers in queue: 0 
+Arrivals: 9566 
+Departures: 9566 
+
+Monitor at: 1927.9586556197883 
+Customers in queue: 0 
+Arrivals: 9566 
+Departures: 9566 
+
+Monitor at: 1928.3711400758748 
+Customers in queue: 1 
+Arrivals: 9568 
+Departures: 9567 
+
+Monitor at: 1928.7848975571019 
+Customers in queue: 0 
+Arrivals: 9572 
+Departures: 9572 
+
+Monitor at: 1929.840589466369 
+Customers in queue: 0 
+Arrivals: 9581 
+Departures: 9581 
+
+Monitor at: 1930.7232538701371 
+Customers in queue: 0 
+Arrivals: 9586 
+Departures: 9586 
+
+Monitor at: 1931.581159745431 
+Customers in queue: 1 
+Arrivals: 9590 
+Departures: 9589 
+
+Monitor at: 1931.7840355464389 
+Customers in queue: 0 
+Arrivals: 9590 
+Departures: 9590 
+
+Monitor at: 1932.2663108193178 
+Customers in queue: 0 
+Arrivals: 9592 
+Departures: 9592 
+
+Monitor at: 1933.254932382113 
+Customers in queue: 1 
+Arrivals: 9596 
+Departures: 9595 
+
+Monitor at: 1934.340927641133 
+Customers in queue: 1 
+Arrivals: 9600 
+Departures: 9599 
+
+Monitor at: 1937.6345359059178 
+Customers in queue: 0 
+Arrivals: 9611 
+Departures: 9611 
+
+Monitor at: 1937.6722576959685 
+Customers in queue: 0 
+Arrivals: 9611 
+Departures: 9611 
+
+Monitor at: 1939.2409321003504 
+Customers in queue: 0 
+Arrivals: 9615 
+Departures: 9615 
+
+Monitor at: 1941.6828299865542 
+Customers in queue: 0 
+Arrivals: 9635 
+Departures: 9635 
+
+Monitor at: 1942.3443489241968 
+Customers in queue: 3 
+Arrivals: 9640 
+Departures: 9637 
+
+Monitor at: 1943.4812565869292 
+Customers in queue: 0 
+Arrivals: 9647 
+Departures: 9647 
+
+Monitor at: 1943.7366968186461 
+Customers in queue: 0 
+Arrivals: 9647 
+Departures: 9647 
+
+Monitor at: 1945.1308783923746 
+Customers in queue: 2 
+Arrivals: 9656 
+Departures: 9654 
+
+Monitor at: 1946.8229500379869 
+Customers in queue: 2 
+Arrivals: 9666 
+Departures: 9664 
+
+Monitor at: 1948.4414209527938 
+Customers in queue: 0 
+Arrivals: 9675 
+Departures: 9675 
+
+Monitor at: 1953.8864349386622 
+Customers in queue: 2 
+Arrivals: 9697 
+Departures: 9695 
+
+Monitor at: 1954.0797707484217 
+Customers in queue: 1 
+Arrivals: 9699 
+Departures: 9698 
+
+Monitor at: 1955.7562733879727 
+Customers in queue: 4 
+Arrivals: 9714 
+Departures: 9710 
+
+Monitor at: 1956.227403642834 
+Customers in queue: 4 
+Arrivals: 9716 
+Departures: 9712 
+
+Monitor at: 1957.4180168688454 
+Customers in queue: 0 
+Arrivals: 9721 
+Departures: 9721 
+
+Monitor at: 1958.51372096823 
+Customers in queue: 6 
+Arrivals: 9730 
+Departures: 9724 
+
+Monitor at: 1959.8565317180369 
+Customers in queue: 15 
+Arrivals: 9744 
+Departures: 9729 
+
+Monitor at: 1961.1006639861264 
+Customers in queue: 19 
+Arrivals: 9756 
+Departures: 9737 
+
+Monitor at: 1962.1151224547057 
+Customers in queue: 20 
+Arrivals: 9765 
+Departures: 9745 
+
+Monitor at: 1963.7984992265895 
+Customers in queue: 19 
+Arrivals: 9773 
+Departures: 9754 
+
+Monitor at: 1965.9337789338429 
+Customers in queue: 12 
+Arrivals: 9782 
+Departures: 9770 
+
+Monitor at: 1966.2062949994365 
+Customers in queue: 12 
+Arrivals: 9784 
+Departures: 9772 
+
+Monitor at: 1968.7179065628231 
+Customers in queue: 1 
+Arrivals: 9794 
+Departures: 9793 
+
+Monitor at: 1969.5382107992414 
+Customers in queue: 3 
+Arrivals: 9801 
+Departures: 9798 
+
+Monitor at: 1970.1089802024194 
+Customers in queue: 5 
+Arrivals: 9804 
+Departures: 9799 
+
+Monitor at: 1970.4035261499307 
+Customers in queue: 5 
+Arrivals: 9806 
+Departures: 9801 
+
+Monitor at: 1972.0389895864064 
+Customers in queue: 2 
+Arrivals: 9815 
+Departures: 9813 
+
+Monitor at: 1972.321700645722 
+Customers in queue: 2 
+Arrivals: 9817 
+Departures: 9815 
+
+Monitor at: 1972.6179522259285 
+Customers in queue: 2 
+Arrivals: 9819 
+Departures: 9817 
+
+Monitor at: 1973.048240450584 
+Customers in queue: 2 
+Arrivals: 9821 
+Departures: 9819 
+
+Monitor at: 1973.2404254760734 
+Customers in queue: 1 
+Arrivals: 9821 
+Departures: 9820 
+
+Monitor at: 1973.2556643190908 
+Customers in queue: 1 
+Arrivals: 9821 
+Departures: 9820 
+
+Monitor at: 1973.604575148032 
+Customers in queue: 0 
+Arrivals: 9822 
+Departures: 9822 
+
+Monitor at: 1974.8738404479107 
+Customers in queue: 9 
+Arrivals: 9832 
+Departures: 9823 
+
+Monitor at: 1975.8745148257701 
+Customers in queue: 2 
+Arrivals: 9837 
+Departures: 9835 
+
+Monitor at: 1976.8804552181937 
+Customers in queue: 1 
+Arrivals: 9843 
+Departures: 9842 
+
+Monitor at: 1977.6592456885055 
+Customers in queue: 0 
+Arrivals: 9845 
+Departures: 9845 
+
+Monitor at: 1977.7695494607872 
+Customers in queue: 0 
+Arrivals: 9845 
+Departures: 9845 
+
+Monitor at: 1978.2186995267673 
+Customers in queue: 1 
+Arrivals: 9846 
+Departures: 9845 
+
+Monitor at: 1981.0641594920432 
+Customers in queue: 1 
+Arrivals: 9861 
+Departures: 9860 
+
+Monitor at: 1981.5808010363037 
+Customers in queue: 0 
+Arrivals: 9864 
+Departures: 9864 
+
+Monitor at: 1983.2493205097032 
+Customers in queue: 0 
+Arrivals: 9873 
+Departures: 9873 
+
+Monitor at: 1983.448346085964 
+Customers in queue: 1 
+Arrivals: 9874 
+Departures: 9873 
+
+Monitor at: 1984.2385074808255 
+Customers in queue: 2 
+Arrivals: 9878 
+Departures: 9876 
+
+Monitor at: 1984.634907180479 
+Customers in queue: 1 
+Arrivals: 9879 
+Departures: 9878 
+
+Monitor at: 1984.8156843207953 
+Customers in queue: 2 
+Arrivals: 9880 
+Departures: 9878 
+
+Monitor at: 1986.003079504991 
+Customers in queue: 0 
+Arrivals: 9885 
+Departures: 9885 
+
+Monitor at: 1986.0038550245183 
+Customers in queue: 0 
+Arrivals: 9885 
+Departures: 9885 
+
+Monitor at: 1989.296575951115 
+Customers in queue: 0 
+Arrivals: 9895 
+Departures: 9895 
+
+Monitor at: 1990.4506487771507 
+Customers in queue: 5 
+Arrivals: 9905 
+Departures: 9900 
+
+Monitor at: 1993.0264410790533 
+Customers in queue: 2 
+Arrivals: 9921 
+Departures: 9919 
+
+Monitor at: 1994.717875797408 
+Customers in queue: 3 
+Arrivals: 9931 
+Departures: 9928 
+
+Monitor at: 1996.5288777642018 
+Customers in queue: 1 
+Arrivals: 9941 
+Departures: 9940 
+
+Monitor at: 1996.552847898397 
+Customers in queue: 1 
+Arrivals: 9941 
+Departures: 9940 
+
+Monitor at: 1996.8869462261334 
+Customers in queue: 1 
+Arrivals: 9944 
+Departures: 9943 
+
+Monitor at: 1997.9378098379327 
+Customers in queue: 1 
+Arrivals: 9950 
+Departures: 9949 
+
+Monitor at: 1998.3696442418993 
+Customers in queue: 1 
+Arrivals: 9954 
+Departures: 9953 
+
+Monitor at: 1998.3866109516764 
+Customers in queue: 1 
+Arrivals: 9954 
+Departures: 9953 
+
+Monitor at: 1999.5299001963765 
+Customers in queue: 3 
+Arrivals: 9962 
+Departures: 9959 
+
+Monitor at: 1999.8915120305169 
+Customers in queue: 2 
+Arrivals: 9963 
+Departures: 9961 
+
